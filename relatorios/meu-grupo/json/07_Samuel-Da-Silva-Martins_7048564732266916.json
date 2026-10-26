@@ -1,0 +1,165 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "7048564732266916",
+    "nome_completo": "Samuel Da Silva Martins",
+    "nome_citacoes": "MARTINS, S. S.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "05/07/2026",
+    "url": "http://lattes.cnpq.br/7048564732266916",
+    "texto_resumo": "Experiência em coleta, organização e validação de dados demográficos e socioeconômicos, com atuação em rotinas de gestão administrativa e atendimento ao cliente. Possui habilidades em comunicação eficaz, organização e priorização de tarefas. Experiência em desenvolvimento web utilizando HTML, CSS e JavaScript, além de familiaridade com serviços de computação em nuvem da Amazon AWS para otimização de processos e infraestrutura. Formação técnica em Informática e graduação em andamento em Engenharia de Computação. Capacidade de resolução de problemas técnicos, prestação de suporte eficiente e atuação remota em equipes colaborativas. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Graduação em andamento em Engenharia da Computação",
+      "nome_instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "ano_inicio": "2023",
+      "ano_conclusao": "",
+      "descricao": ""
+    },
+    {
+      "tipo": "Ensino Médio (2º grau)",
+      "nome_instituicao": "INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA SUL-RIO-GRANDENSE - RS, IFECTSRG_PPPROV, Brasil",
+      "ano_inicio": "2018",
+      "ano_conclusao": "2022",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil.",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - 2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Segurança para além dos muros da escola",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2023",
+      "descricao": [
+        "Descrição: Participação no projeto de pesquisa \"Segurança para além dos muros da escola\", com carga horária de 40 horas, atuando na pesquisa e análise de aplicativos destinados ao monitoramento do uso de smartphones por crianças e adolescentes. Contribuiu para o desenvolvimento e aprimoramento do projeto por meio do levantamento e avaliação de ferramentas voltadas à segurança digital e ao acompanhamento parental.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) . Integrantes: Samuel Da Silva Martins - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Samuel Da Silva Martins",
+          "papel": "Coordenador"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Ciência da Computação",
+      "subarea": "Sistemas de Computação",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Ciência da Computação / Subárea: Sistemas de Computação."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Razoavelmente",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Razoavelmente, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Pouco",
+      "fala": "Pouco",
+      "le": "Pouco",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 0,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 1,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

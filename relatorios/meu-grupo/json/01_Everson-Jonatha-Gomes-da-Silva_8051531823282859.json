@@ -1,0 +1,2077 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "8051531823282859",
+    "nome_completo": "Everson Jonatha Gomes da Silva",
+    "nome_citacoes": "SILVA, E. J. G.;SILVA, E.J.G.;JONATHAN GOMES DA SILVA, EVERSON;SILVA, EVERSON J. G.;SILVA, EVERSON JONATHA GOMES DA;Silva, Everson;Silva, E.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Universidade Federal do Pampa. Av. Maria Anunciação Gomes Godoy, 1650 Malafaia 96460000 - Bagé, RS - Brasil Telefone: (53) 32403600 Ramal: 9667 URL da Homepage: http://novoportal.unipampa.edu.br/novoportal/",
+    "atualizacao_cv": "03/03/2026",
+    "url": "http://lattes.cnpq.br/8051531823282859",
+    "texto_resumo": "Doutor em Engenharia Mecânica pela Universidade Federal do Rio Grande do Sul (2016), Mestre em Engenharia Mecânica pela Universidade Federal do Rio Grande do Sul (2012) e Bacharel em Matemática Aplicada pela Universidade Federal do Rio Grande do Sul (2010). Docente da Universidade Federal do Pampa (UNIPAMPA/BAGÉ) no curso de Licenciatura em Matemática. Professor Formador no curso de especialização em Ensino de Matemática (UAB). Tesoureiro da Sociedade Brasileira de Educação Matemática, regional Rio Grande do Sul - SBEMRS. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Engenharia Mecânica",
+      "nome_instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2016",
+      "descricao": "Título: Modelagem da Dispersão de Poluentes na Atmosfera Considerando o Perfil de Vento e os Coeficientes de Difusão Dependentes do Tempo. O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2016. Orientador: Marco Tullio Menna Barreto de Vilhena. Coorientador: Tiziano Tirabassi. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Grande área: Engenharias / Área: Engenharia Mecânica / Subárea: Fenômenos de Transporte."
+    },
+    {
+      "tipo": "Mestrado em Engenharia Mecânica",
+      "nome_instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "ano_inicio": "2011",
+      "ano_conclusao": "2012",
+      "descricao": "Título: Solução do modelo puff de dispersão de poluentes na camada limite atmosférica pelo método GILTT O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de Obtenção: 2012. Orientador: Marco Tullio Menna Barreto de Vilhena. Coorientador: Tiziano Tirabassi. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Grande área: Engenharias / Área: Engenharia Mecânica / Subárea: Fenômenos de Transporte."
+    },
+    {
+      "tipo": "Especialização interrompida em 2015 em MÍDIAS DIGITAIS-DIDÁTICA:TRIPÉ PARA FORM PROFESSOR MATEMÁTICA",
+      "nome_instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "ano_inicio": "2013 interrompida",
+      "ano_conclusao": "",
+      "descricao": "Ano de interrupção: 2015"
+    },
+    {
+      "tipo": "Graduação interrompida em 2015 em Licenciatura em Matemática",
+      "nome_instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "ano_inicio": "2013 interrompida",
+      "ano_conclusao": "",
+      "descricao": "Ano de interrupção: 2015"
+    },
+    {
+      "tipo": "Graduação em Matemática",
+      "nome_instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2010",
+      "descricao": ""
+    },
+    {
+      "tipo": "Curso técnico/profissionalizante",
+      "nome_instituicao": "Alcides Maya, ID, Brasil",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2007",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.",
+      "instituicao_nome": "Universidade Federal do Rio Grande do Sul",
+      "instituicao_sigla": "UFRGS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2015",
+      "ano_inicio": "2011",
+      "ano_fim": "2015",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista CAPES",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "instituicao_nome": "Universidade Federal do Rio Grande do Sul",
+      "instituicao_sigla": "UFRGS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil.",
+      "instituicao_nome": "Universidade Federal do Rio Grande do Sul",
+      "instituicao_sigla": "UFRGS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2008 - 2009",
+      "ano_inicio": "2008",
+      "ano_fim": "2009",
+      "vinculo": "Bolsista",
+      "enquadramento": "Bolsista",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "instituicao_nome": "Universidade Federal do Rio Grande do Sul",
+      "instituicao_sigla": "UFRGS",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil.",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2015 - Atual",
+      "ano_inicio": "2015",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor público",
+      "enquadramento": "Professor Adjunto",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil.",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2021 - 2023",
+      "ano_inicio": "2021",
+      "ano_fim": "2023",
+      "vinculo": "Função Gratificada",
+      "enquadramento": "Coordenador de curso de Graduação",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Centro Universitário e Faculdades UNIFTEC, UNIFTEC, Brasil.",
+      "instituicao_nome": "Centro Universitário e Faculdades UNIFTEC",
+      "instituicao_sigla": "UNIFTEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2013 - 2015",
+      "ano_inicio": "2013",
+      "ano_fim": "2015",
+      "vinculo": "Celetista",
+      "enquadramento": "Professor Adjunto",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, INEP/MEC, Brasil.",
+      "instituicao_nome": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira",
+      "instituicao_sigla": "INEP/MEC",
+      "instituicao_pais": "Brasil",
+      "periodo": "2018 - 2024",
+      "ano_inicio": "2018",
+      "ano_fim": "2024",
+      "vinculo": "Designação",
+      "enquadramento": "Avaliador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.",
+      "instituicao_nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+      "instituicao_sigla": "CAPES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": "Bolsista",
+      "enquadramento": "Professor Formador",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil.",
+      "instituicao_nome": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior",
+      "instituicao_sigla": "CAPES",
+      "instituicao_pais": "Brasil",
+      "periodo": "2021 - 2023",
+      "ano_inicio": "2021",
+      "ano_fim": "2023",
+      "vinculo": "Bolsista",
+      "enquadramento": "coordenador de curso de especialização UAB",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Sociedade Brasileira de Educação Matemática - Regional do Rio Grande do Sul, SBEMRS, Brasil.",
+      "instituicao_nome": "Sociedade Brasileira de Educação Matemática - Regional do Rio Grande do Sul",
+      "instituicao_sigla": "SBEMRS",
+      "instituicao_pais": "Brasil",
+      "periodo": "2024 - Atual",
+      "ano_inicio": "2024",
+      "ano_fim": "Atual",
+      "vinculo": "Colaborador",
+      "enquadramento": "Tesoureiro",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Educação Matemática Crítica e as práticas pedagógicas críticas e inovadoras em diferentes dimensões sociais",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: A necessidade de avançar e incrementar práticas pedagógicas tem despertado o interesse da comunidade científica no que tange à busca de ampliação de pesquisas que envolvam o ensinar e aprender matemática. Nesse sentido, as pesquisas no âmbito da Educação Matemática Crítica (EMC) tem sido ampliadas e difundidas em diferentes regiões do país, pois a EMC configura-se como campo de investigação que articula o ensino da matemática à formação cidadã, à reflexão sociopolítica e à ação transformadora (Skovsmose, 2014). Em consonância com essa perspectiva se propõe este projeto com a expectativa de ampliar o escopo de estudos anteriormente focados nos foregrounds e intencionalidades dos estudantes que se desenvolveu na UNIPAMPA entre os anos de 2022 e 2025. Neste projeto de pesquisa pretende-se incorporar estudos que se refiram aos backgrounds e cenários para investigação, além de integrar outras tendências temáticas, como por exemplo, a educação financeira crítica, educação ambiental crítica e educação em direitos humanos crítica. Dentro desses eixos temáticos pretende-se compreender como os diferentes contextos socioculturais, socioeconômicos e socioemocionais podem moldar as aprendizagens e perspectivas dos estudantes das escolas públicas de Bagé e região. Além disso, espera-se que a discussão teórica e aplicação prática dos conceitos da EMC possam ajudar a promover a equidade e participação democrática. Esta pesquisa se desenvolverá a partir de uma abordagem qualitativa de cunho exploratório e para a produção de dados se poderá utilizar entrevistas, observações em sala de aula, análise e produção de materiais pedagógicos, aplicação de oficinas, entre outros. No tratamento de dados e resultados cita-se que técnicas como análise de conteúdo (Bardin 2016), análise de discurso Crítica (Orlandi, 2015) e Metodologias Participativas/Pesquisa-Ação (Thiollent, 2011) poderão ser utilizadas. Espera-se contribuir para a difusão dos conceitos da EMC, vem como no incremento de práticas edagógicasinovadoras que possam articular a matemática a questões socialmente relevantes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) . Integrantes: Everson Jonatha Gomes da Silva - Integrante / Cristiano Peres Oliveira - Coordenador / Vera Lúcia Duarte Ferreira - Integrante / Sonia Maria da Silva Junqueira - Integrante / Gerusa Camargo Rodrigues - Integrante / Guilherme Porto de Oliveira - Integrante / Lahuren Pires Castelo Soares - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cristiano Peres Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Vera Lúcia Duarte Ferreira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sonia Maria da Silva Junqueira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gerusa Camargo Rodrigues",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Guilherme Porto de Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lahuren Pires Castelo Soares",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Prospecção nutricional e metabolômica da carne bovina produzida em sistemas pecuários modais do Rio Grande do Sul e seus potenciais impactos na saúde humana",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O projeto propõe uma abordagem inovadora para a prospecção nutricional e metabolômica da carne bovina produzida em sistemas pecuários modais do Rio Grande do Sul, utilizando inteligência computacional e aprendizado de máquina. A iniciativa busca estabelecer vínculos entre os sistemas de produção, o perfil nutricional das carnes e seu impacto na saúde humana, considerando as necessidades nutricionais diárias e o potencial de agregação de valor aos produtos gaúchos. Com foco na sustentabilidade e eficiência, serão analisados fatores como tipo de alimentação, raça, emissões de gases de efeito estufa e características físico-químicas das carnes.Este projeto integra uma iniciativa maior coordenada pela Embrapa, responsável pela coleta de dados e análises laboratoriais. A equipe da UNIPAMPA atuará no armazenamento, organização e tratamento dos dados gerados, garantindo sua integridade e acessibilidade para análises futuras. O foco será a construção de um banco de dados estruturado e o desenvolvimento de metodologias analíticas baseadas em inteligência computacional, visando modelar e identificar padrões nos perfis nutricionais e metabolômicos das carnes.A equipe utilizará ferramentas avançadas de ciência de dados, aprendizado de máquina e modelagem estatística para processar e interpretar as informações coletadas. Além disso, será desenvolvida uma interface gráfica interativa para permitir a visualização e consulta dinâmica dos dados, facilitando o acesso por pesquisadores e demais interessados.Entre os principais resultados esperados estão a criação de um banco de dados robusto com informações estruturadas, a aplicação de inteligência computacional para identificar padrões nutricionais e metabolômicos e o suporte à valorização da carne bovina gaúcha. Esses resultados poderão subsidiar políticas públicas, promover sistemas produtivos mais eficientes e sustentáveis e ampliar o conhecimento sobre a relação entre sistemas de produção e qualidade nutricional das carnes. A disseminação dos dados será realizada por meio de capacitações, publicações científicas e estratégias de comunicação voltadas para produtores, consumidores e tomadores de decisão..Situação: Em andamento; Natureza: Pesquisa.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Everson Jonatha Gomes da Silva - Integrante / Leandro Blass - Integrante / Guilherme Goergen - Integrante / Anderson Luis Jeske Bihain - Coordenador. Financiador(es): FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL - Auxílio financeiro.",
+        "Descrição: O projeto propõe uma abordagem inovadora para a prospecção nutricional e metabolômica da carne bovina produzida em sistemas pecuários modais do Rio Grande do Sul, utilizando inteligência computacional e aprendizado de máquina. A iniciativa busca estabelecer vínculos entre os sistemas de produção, o perfil nutricional das carnes e seu impacto na saúde humana, considerando as necessidades nutricionais diárias e o potencial de agregação de valor aos produtos gaúchos. Com foco na sustentabilidade e eficiência, serão analisados fatores como tipo de alimentação, raça, emissões de gases de efeito estufa e características físico-químicas das carnes.Este projeto integra uma iniciativa maior coordenada pela Embrapa, responsável pela coleta de dados e análises laboratoriais. A equipe da UNIPAMPA atuará no armazenamento, organização e tratamento dos dados gerados, garantindo sua integridade e acessibilidade para análises futuras. O foco será a construção de um banco de dados estruturado e o desenvolvimento de metodologias analíticas baseadas em inteligência computacional, visando modelar e identificar padrões nos perfis nutricionais e metabolômicos das carnes.A equipe utilizará ferramentas avançadas de ciência de dados, aprendizado de máquina e modelagem estatística para processar e interpretar as informações coletadas. Além disso, será desenvolvida uma interface gráfica interativa para permitir a visualização e consulta dinâmica dos dados, facilitando o acesso por pesquisadores e demais interessados.Entre os principais resultados esperados estão a criação de um banco de dados robusto com informações estruturadas, a aplicação de inteligência computacional para identificar padrões nutricionais e metabolômicos e o suporte à valorização da carne bovina gaúcha. Esses resultados poderão subsidiar políticas públicas, promover sistemas produtivos mais eficientes e sustentáveis e ampliar o conhecimento sobre a relação entre sistemas de produção e qualidade nutricional das carnes. A disseminação dos dados será realizada por meio de capacitações, publicações científicas e estratégias de comunicação voltadas para produtores, consumidores e tomadores de decisão.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Anderson Luis Jeske Bihain - Coordenador / Leandro Blass - Integrante / Everson Jonatha Gomes da Silva - Integrante / Guilherme Goergen - Integrante. Financiador(es): FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leandro Blass",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Matemática e suas aplicações: um olhar para a Ciência de Dados",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: A CD é uma área multidisciplinar e contribui para a inovação em diferentes segmentos, tendo a matemática como uma competência fundamental para o seu desenvolvimento, pois conhecimentos nas áreas de probabilidade e estatística, álgebra linear, cálculo multivariável são a base para o desenvolvimento de algoritmos de aprendizado de máquina e para a realização de análises dos dados. Neste projeto, busca-se investigar as principais áreas da Ciência de Dados e identificar os tópicos matemáticos recorrentes, além de oportunizar o desenvolvimento da pesquisa no âmbito da Matemática Aplicada, bem como o contato de discentes com linguagens de programação modernas e com a pesquisa acadêmica. Com isso, neste projeto, propõe-se uma pesquisa exploratória onde será realizada uma revisão sistemática do tema e estudos de caso aplicados a métodos identificados na parte inicial da pesquisa. Assim, espera-se alcançar o domínio dos modelos computacionais e a compreensão avançada dos conceitos matemáticos envolvidos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Everson Jonatha Gomes da Silva - Coordenador / Guilherme Goergen - Integrante / BLASS, LEANDRO - Integrante / BIHAIN, ANDERSON L. J. - Integrante.",
+        "Descrição: A CD é uma área multidisciplinar e contribui para a inovação em diferentes segmentos, tendo a matemática como uma competência fundamental para o seu desenvolvimento, pois conhecimentos nas áreas de probabilidade e estatística, álgebra linear, cálculo multivariável são a base para o desenvolvimento de algoritmos de aprendizado de máquina e para a realização de análises dos dados. Neste projeto, busca-se investigar as principais áreas da Ciência de Dados e identificar os tópicos matemáticos recorrentes, além de oportunizar o desenvolvimento da pesquisa no âmbito da Matemática Aplicada, bem como o contato de discentes com linguagens de programação modernas e com a pesquisa acadêmica. Com isso, neste projeto, propõe-se uma pesquisa exploratória onde será realizada uma revisão sistemática do tema e estudos de caso aplicados a métodos identificados na parte inicial da pesquisa. Assim, espera-se alcançar o domínio dos modelos computacionais e a compreensão avançada dos conceitos matemáticos envolvidos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Anderson Luis Jeske Bihain - Integrante / Leandro Blass - Integrante / Everson Jonatha Gomes da Silva - Coordenador / Guilherme Goergen - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "BLASS, LEANDRO",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "BIHAIN, ANDERSON L",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leandro Blass",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Resolução de problemas, metodologias ativas, diferentes formas de avaliar e o uso de tecnologias no ensino superior",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Este projeto de pesquisa analisará como o uso de metodologias ativas, resolução de problemas e diferentes formas de avaliar podem impactar no ensino e aprendizagem dos alunos. O projeto será implementado por meio de atividades relacionados aos temas já citados. Dessa forma, entendemos a importância de avançar no campo do protagonismo de estudantes, promovendo situações didáticas que priorizem métodos ativos de construção do conhecimento, em abordagens colaborativas, solidárias e críticas. Como metodologia para análise dos dados a pesquisa será usado de abordagens quali-quantitativas, usando de métodos quantitativos para análise dos dados. Nesse sentido, tem-se como meta ampliar as ações de formação inicial e profissional dos estudantes.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (5) / Especialização: (8) . Integrantes: Everson Jonatha Gomes da Silva - Integrante / Valesca Brasil Irala - Integrante / BLASS, LEANDRO - Coordenador / BIHAIN, ANDERSON L. J. - Integrante / Sonia Maria da Silva Junqueira - Integrante / Fernando Oliveira Pacheco - Integrante / Cristiano Saldanha da Silva - Integrante / Tatiane Goulart Coelho - Integrante / Carlos Miguel Alves - Integrante / Daniel Ribeiro Fonseca - Integrante / Eduardo de Vasconcelos Martins - Integrante / Hugo Ricardo Lima - Integrante / Jamerson Henrique da Silva Marques - Integrante / Jenifer Laís da Lara - Integrante / Mariana Lima Duro - Integrante / Nicoli Peroza Ramos - Integrante / Silvane de Sousa Verch - Integrante / Vanderlei Vieira Farias Junior - Integrante / William Joaquim Santos de Santana - Integrante.",
+        "Descrição: Este projeto de pesquisa busca analisar o como o uso de metodologias ativas, resolução de problemas e diferentes formas de avaliar podem impactar no ensino e aprendizagem dos alunos. O projeto será implementado por meio de atividades relacionados aos temas já citados. Dessa forma, entendemos a importância de avançar no campo do protagonismo de estudantes, promovendo situações didáticas que priorizem métodos ativos de construção do conhecimento, em abordagens colaborativas, solidárias e críticas. Como metodologia para análise dos dados a pesquisa será usado de abordagens quali-quantitativas, usando de métodos quantitativos para análise dos dados. Nesse sentido, tem-se como meta ampliar as ações de formação inicial e profissional dos estudantes.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Anderson Luis Jeske Bihain - Integrante / Leandro Blass - Coordenador / Everson Jonatha Gomes da Silva - Integrante / Valesca Brasil Irala - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Valesca Brasil Irala",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "BLASS, LEANDRO",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "BIHAIN, ANDERSON L",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leandro Blass",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "As intencionalidades e os foregrounds de estudantes de Bagé sob a perspectiva da Educação Matemática Crítica",
+      "ano_inicio": "2022",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Os processos ligados à educação e em especial à educação matemática tem avançado nos últimos anos e dedicado esforços de grupos de pesquisa em diferentes universidades e institutos do nosso país. Dentro dessa realidade uma das alternativas que tem se mostrado promissora é a utilização da Educação Matemática Crítica que surge como uma forma de promover o debate e aprofundamento de questões nas aulas de matemática, sendo um suporte para a democracia e a democratização do conhecimento. Nesta perspectiva esta pesquisa buscará compreender as intencionalidades de ensino de estudantes de escolas públicas, bem como reconhecer como os foregrounds influenciam os estudantes nas suas tomadas de decisão. Os conceitos de intencionalidades e foregrounds estão embasados na Educação Matemática Crítica proposta pelo professor e pesquisador Ole Skovsmose. A pesquisa terá uma abordagem qualitativa de cunho exploratório se constituindo em um Estudo de Caso, em que os sujeitos de pesquisa deverão ser de duas escolas públicas de Bagé, uma periférica e outra mais próxima ao centro da cidade e se buscará a participação de estudantes do primeiro ano do Ensino Médio e/ou do sexto ou sétimo anos do Ensino Fundamental. Serão formados grupos de no máximo oito alunos que participarão de entrevistas semiestruturadas e conversas informais com os pesquisadores no intuito de se produzir os dados para a pesquisa. A análise dos resultados será feita com base na teoria da Educação Matemática Crítica e dos conceitos de intencionalidades e foregrounds desenvolvidos por Ole Skovsmose.. Situação: Em andamento; Natureza: Pesquisa.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Everson Jonatha Gomes da Silva - Integrante / Anderson Luis Jeske Bihain - Integrante / Cristiano Peres Oliveira - Coordenador / Gerusa Camargo Rodrigues - Integrante / Laisa Luiz Soares - Integrante / Ana Paula Falcão da Silveira Gomes - Integrante / Bruna da Silva Marques - Integrante / Raphaela Fagundes Dutra - Integrante / Kerolyn Avila Polvora Soares - Integrante / Jader Rodrigues Oliveira - Integrante.",
+        "Descrição: Os processos ligados à educação e em especial à educação matemática tem avançado nos últimos anos e dedicado esforços de grupos de pesquisa em diferentes universidades e institutos do nosso país.Dentro dessa realidade uma das alternativas que tem se mostrado promissora é a utilização da Educação Matemática Crítica que surge como uma forma de promover o debate e aprofundamento dequestões nas aulas de matemática, sendo um suporte para a democracia e a democratização do conhecimento. Nesta perspectiva esta pesquisa buscará compreender as intencionalidades de ensino deestudantes de escolas públicas, bem como reconhecer como os foregrounds influenciam os estudantes nas suas tomadas de decisão. Os conceitos de intencionalidades e foregrounds estão embasados naEducação Matemática Crítica proposta pelo professor e pesquisador Ole Skovsmose. A pesquisa terá uma abordagem qualitativa de cunho exploratório se constituindo em um Estudo de Caso, em que ossujeitos de pesquisa deverão ser de duas escolas públicas de Bagé, uma periférica e outra mais próxima ao centro da cidade e se buscará a participação de estudantes do primeiro ano do Ensino Médio e/oudo sexto ou sétimo anos do Ensino Fundamental. Serão formados grupos de no máximo oito alunos que participarão de entrevistas semiestruturadas e conversas informais com os pesquisadores no intuito dese produzir os dados para a pesquisa. A análise dos resultados será feita com base na teoria da Educação Matemática Crítica e dos conceitos de intencionalidades e foregrounds desenvolvidos por OleSkovsmose.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Especialização: (4) . Integrantes: Anderson Luis Jeske Bihain - Integrante / Everson Jonatha Gomes da Silva - Integrante / Cristiano Peres Oliveira - Coordenador / Francieli Aparecida Vaz - Integrante / Sonia Maria da Silva Junqueira - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cristiano Peres Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Gerusa Camargo Rodrigues",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Laisa Luiz Soares",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ana Paula Falcão da Silveira Gomes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Bruna da Silva Marques",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Raphaela Fagundes Dutra",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Kerolyn Avila Polvora Soares",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Jader Rodrigues Oliveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Francieli Aparecida Vaz",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sonia Maria da Silva Junqueira",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Modelagem e simulação da dinâmica de contaminação do Sars-CoV-2 para a população do estado do Rio Grande do Sul",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: Este projeto visa auxiliar o entendimento da evolução da doença no estado do Rio Grande do Sul através do monitoramento dos dados, do uso de modelagem numérica e da produção de materiais científicos informativos às prefeituras. Para acompanhar a evolução da pandemia e auxiliar os tomadores de decisão, em especial os gestores municipais, serão realizadas simulações numéricas da dinâmica de contaminação do Sars-CoV-2 considerando múltiplos cenários de distanciamento social, campanhas de intensificação dos cuidados básicos de saúde, alterações na taxa de testagem dos casos suspeitos, aumento da capacidade hospitalar, entre outros. Com os resultados, espera-se estimar com maior fidelidade a expectativa de contaminados, de imunizados, de curados e de mortes em cada período de tempo. Além disso, através das simulações dos diferentes cenários será possível estimar a capacidade hospitalar necessária e de como a epidemia se comportará diante da infraestrutura existente em diferentes municípios gaúchos. A presente pesquisa já apresentou os primeiros resultados através da cooperação dos pesquisadores com a secretaria da saúde de Bagé, auxiliando na tomada das primeiras decisões frente ao avanço atual da pandemia... Situação: Concluído; Natureza: Pesquisa. Integrantes: Everson Jonatha Gomes da Silva - Integrante / Anderson Luis Jeske Bihain - Coordenador / BLAS, LEANDRO - Integrante / Guilherme Goergen - Integrante / Ketleen Grala - Integrante.",
+        "Descrição: Este projeto visa auxiliar o entendimento da evolução da doença no estado do Rio Grande do Sul através do monitoramento dos dados, do uso de modelagem numérica e da produção de materiais científicos informativos às prefeituras. Para acompanhar a evolução da pandemia e auxiliar os tomadores de decisão, em especial os gestores municipais, serão realizadas simulações numéricas da dinâmica de contaminação do Sars-CoV-2 considerando múltiplos cenários de distanciamento social, campanhas de intensificação dos cuidados básicos de saúde, alterações na taxa de testagem dos casos suspeitos, aumento da capacidade hospitalar, entre outros. Com os resultados, espera-se estimar com maior fidelidade a expectativa de contaminados, de imunizados, de curados e de mortes em cada período de tempo. Além disso, através das simulações dos diferentes cenários será possível estimar a capacidade hospitalar necessária e de como a epidemia se comportará diante da infraestrutura existente em diferentes municípios gaúchos. A presente pesquisa já apresentou os primeiros resultados através da cooperação dos pesquisadores com a secretaria da saúde de Bagé, auxiliando na tomada das primeiras decisões frente ao avanço atual da pandemia.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Anderson Luis Jeske Bihain - Coordenador / Leandro Blass - Integrante / Everson Jonatha Gomes da Silva - Integrante / Guilherme Goergen - Integrante / Ketleen Grala - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "BLAS, LEANDRO",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ketleen Grala",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leandro Blass",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "XV EGEM - XV Encontro Gaúcho de Educação Matemática",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: O Encontro Gaúcho de Educação Matemática #150; EGEM é o maior congresso de Educação Matemática que ocorre no RioGrande do Sul e é promovido de três em três anos pela Diretoria da Sociedade Brasileira de Educação Matemática, Regional RS em parceria com asinstituições de ensino do estado, o evento reúne professores, pesquisadores e estudantes que trabalham e estudam Matemática e Educação Matemática. Aprimeira edição do evento ocorreu na UNISINOS em Porto Alegre no ano de 1989, depois disso passou por outras instituições como, por exemplo, PUCRS(Porto Alegre), UNIJUÍ (Ijuí), FURG (Rio Grande), FACOS (Osório), UNISC (Santa Cruz do Sul), UCPEL (Pelotas), UCS (Caxias do Sul), UNIVATES (Lajeado), UFSM(Santa Maria) e UFPEL (Pelotas). A previsão é que o evento reúna em torno de 350 participantes e ocorrerá de 17 a 19 de setembro de 2024 e será realizadono Campus Bagé da Universidade Federal do Pampa. Salienta-se que a data foi cuidadosamente escolhida para que ocorresse durante as festividades daSemana Farroupilha e fosse mais uma oportunidade de fomentar o desenvolvimento e o turismo na Região da Campanha, visto que o evento contará comparticipantes de diferentes cidades do nosso estado.. Situação: Concluído; Natureza: Extensão. Integrantes: Everson Jonatha Gomes da Silva - Integrante / Anderson Luis Jeske Bihain - Integrante / Cristiano Peres Oliveira - Coordenador."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cristiano Peres Oliveira",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Projeto UNIPAMPA Cidadã Matemática-Licenciatura",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: O projeto UNIPAMPA Cidadã Matemática-Licenciatura é uma iniciativa que visa promover a formação integral dos discentes do curso de Matemática-Licenciatura da UNIPAMPA, campus Bagé. Através da realização de atividades de extensão em escolas públicas, instituições sociais e organizações da sociedade civil, o projeto busca aproximar a academia da comunidade, estimular o desenvolvimento de habilidades de liderança e trabalho em equipe, aplicar conhecimentos desenvolvidos no curso de Matemática para abordar desafios e demandas reais e colaborar com instituições que atendam pessoas em situação de vulnerabilidade. Além disso, o projeto fortalecerá a relação entre ensino, pesquisa e extensão, oferecendo oportunidades para pesquisas acadêmicas e inovações educacionais. O objetivo é preparar futuros professores comprometidos com a construção de uma sociedade mais justa e inclusiva, ao mesmo tempo em que contribui para a melhoria do ensino de Matemática na região. Este projeto está em conformidade com as normativas da UNIPAMPA e representa um compromisso da instituição com o desenvolvimento educacional, econômico e social da comunidade local.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (14) . Integrantes: Everson Jonatha Gomes da Silva - Integrante / BIHAIN, ANDERSON L. J. - Coordenador / Cláudia Laus Angelo - Integrante / Camila Porto de Oliveira - Integrante / Daiane dos Santos Oliveira Vieira - Integrante / Dienifer natalia Lemos Correa - Integrante / Diovanna de Souza Bazerque - Integrante / Fernando Menegildo Urbano Marcolino - Integrante / Gabriel da Silva Lins - Integrante / Gisele Acunha Gomes - Integrante / Jose Wilson Machado Junior - Integrante / Leonardo Ferreira de Sena - Integrante / Lisiane Pereira Baptista Silveira - Integrante / Luizi de Castro Dantas - Integrante / Merlin Cabral Oliveira - Integrante / Naureli Dias Machado - Integrante / Rodrigo Marques de Almeida - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "BIHAIN, ANDERSON L",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "II Colóquio de Matemática do Pampa",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: O presente projeto visa a realização do II Colóquio de Matemática do Pampa. A realização desse evento ocorrerá anualmente, sendo em 2022 a segunda edição a ser realizada de maneira híbrida, repetindo a possibilidade de que participantes de outras regiões possam participar do evento de maneira remota. O referido evento tem como objetivo principal divulgar os trabalhos realizados por acadêmicos dos cursos de matemática, bem como iniciativas de professores e estudantes da educação básica voltadas ao ensino de matemática. Espera-se que com esse espaço haja uma maior interação entre universidade x escola x comunidade, propagando o conhecimento científico e as boas práticas pedagógicas acerca da Matemática e suas tecnologias.. Situação: Concluído; Natureza: Extensão. Integrantes: Everson Jonatha Gomes da Silva - Integrante / Cristiano Peres Oliveira - Coordenador / Elizangela Dias Pereira - Integrante / Guilherme Goergen - Integrante / BLASS, LEANDRO - Integrante / BIHAIN, ANDERSON L. J. - Integrante.",
+        "Descrição: O presente projeto visa a realização do II Colóquio de Matemática do Pampa. A realização desse evento ocorrerá anualmente, sendo em 2022 a segunda edição a ser realizada de maneira híbrida, repetindo apossibilidade de que participantes de outras regiões possam participar do evento de maneira remota. O referido evento tem como objetivo principal divulgar os trabalhos realizados por acadêmicos doscursos de matemática, bem como iniciativas de professores e estudantes da educação básica voltadas ao ensino de matemática. Espera-se que com esse espaço haja uma maior interação entre universidade x escola x comunidade, propagando o conhecimento científico e as boas práticas pedagógicas acerca da Matemática e suas tecnologias.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (10) . Integrantes: Anderson Luis Jeske Bihain - Integrante / Leandro Blass - Integrante / Everson Jonatha Gomes da Silva - Integrante / Cristiano Peres Oliveira - Coordenador / Sidônia Bresolin - Integrante / Elizangela Dias Pereira - Integrante / Guilherme Goergen - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cristiano Peres Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Elizangela Dias Pereira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "BLASS, LEANDRO",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "BIHAIN, ANDERSON L",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leandro Blass",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sidônia Bresolin",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Programa de Formação Inicial e Continuada de Professores de Matemática do Pampa",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: O presente projeto se propõe a ser um espaço de formação inicial e continuada para professores de matemática da Região da Campanha. Neste projeto serão oferecidas ações de extensão para professores e discentes dos cursos de exatas, em especial docentes e futuros docentes de matemática. Além destes cursos, serão realizadas atividades que envolvam os discentes, docentes e comunidades escolar e universitária do Pampa como, por exemplo, ações de extensão voltadas a datas importantes como Dia da Matemática, Dia do Meio Ambiente, Dia Nacional de Combate ao Bullying e à Violência nas Escolas, entre outras. Como fechamento de ciclos será realizado, anualmente, o Colóquio de Matemática do Pampa, esse evento será realizado de forma híbrida, sendo possível a participação tanto de maneira presencial quanto de forma on-line, propiciando assim que pessoas dos mais diferentes lugares do país possam socializar suas experiências e com isso colaborar com o crescimento e aperfeiçoamento no estudo de matemática.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (6) . Integrantes: Everson Jonatha Gomes da Silva - Integrante / Cristiano Peres Oliveira - Coordenador / Elizangela Dias Pereira - Integrante / Guilherme Goergen - Integrante / Anderson Luis Jeske Bihain - Integrante / Cláudia Laus Angelo - Integrante / Dionara Teresinha Aragón Aseff - Integrante / Margarida Maria Rodrigues Negrão - Integrante / Sonia Maria da Silva Junqueira - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cristiano Peres Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Elizangela Dias Pereira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cláudia Laus Angelo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Dionara Teresinha Aragón Aseff",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Margarida Maria Rodrigues Negrão",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sonia Maria da Silva Junqueira",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Engenharias",
+      "area": "Engenharia Mecânica",
+      "subarea": "Fenômenos de Transporte",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Engenharias / Área: Engenharia Mecânica / Subárea: Fenômenos de Transporte."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Matemática",
+      "subarea": "Dispersão de Poluentes",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Matemática / Subárea: Dispersão de Poluentes."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Razoavelmente",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Razoavelmente, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Razoavelmente",
+      "fala": "Pouco",
+      "le": "Razoavelmente",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Pouco, Lê Razoavelmente, Escreve Pouco."
+    },
+    {
+      "nome": "Italiano",
+      "compreende": "Razoavelmente",
+      "fala": "Razoavelmente",
+      "le": "Razoavelmente",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Razoavelmente, Fala Razoavelmente, Lê Razoavelmente, Escreve Razoavelmente."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Atendimento Educacional Especializado (AEE) nas aulas de Matemática: desafios da formação e atuação em sala de aula",
+        "ano": 2025,
+        "autores": "MACHADO, ANDRIELI LOPES ; OLIVEIRA, CRISTIANO PERES ; BIHAIN, ANDERSON LUIS JESKE ; SILVA, EVERSON JONATHA GOMES DA",
+        "revista": "CADERNO PEDAGÓGICO (LAJEADO. ONLINE)",
+        "volume": "22",
+        "numero": "",
+        "paginas": "e16279-29",
+        "issn": "1983-0882",
+        "doi": "http://dx.doi.org/10.54033/cadpedv22n7-130",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Foregrounds e Educação Matemática Crítica: escuta e significados atribuídos por estudantes de periferia",
+        "ano": 2025,
+        "autores": "DUTRA, R. F. ; OLIVEIRA, C. P. ; SILVA, E.J.G. ; JUNQUEIRA, S. M. S.",
+        "revista": "REVISTA MUNDI ENGENHARIA, TECNOLOGIA E GESTÃO",
+        "volume": "10",
+        "numero": "",
+        "paginas": "1-25",
+        "issn": "2525-4782",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Estudo das plantas baixas: a construção de uma atividade prática no ensino de matemática",
+        "ano": 2025,
+        "autores": "OLIVEIRA, H. D. M. ; OLIVEIRA, C. P. ; Vaz, F. A. ; SILVA, E.J.G.",
+        "revista": "REVISTA MUNDI ENGENHARIA, TECNOLOGIA E GESTÃO",
+        "volume": "10",
+        "numero": "",
+        "paginas": "1-13",
+        "issn": "2525-4782",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "A resolução de problemas de contagem por jovens e adultos: o uso de conhecimentos prévios e a metodologia de resolução de problemas",
+        "ano": 2024,
+        "autores": "VERCH, S. S. ; Blass, L. ; SILVA, EVERSON J. G.",
+        "revista": "REVISTA EDUCAÇÃO PÚBLICA (RIO DE JANEIRO)",
+        "volume": "24",
+        "numero": "",
+        "paginas": "1",
+        "issn": "1984-6290",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Simulação com o método Monte Carlo: Uma ferramenta para análise de risco no gerenciamento de projetos",
+        "ano": 2024,
+        "autores": "HERZOG, LUSIANNY PEREIRA ; SILVA, EVERSON JONATHA GOMES DA ; WEYMAR, GUILHERME JAHNECKE",
+        "revista": "REVISTA DE GESTÃO E PROJETOS",
+        "volume": "15",
+        "numero": "",
+        "paginas": "542-565",
+        "issn": "2236-0972",
+        "doi": "http://dx.doi.org/10.5585/gep.v15i3.26721",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "COVID-19 no município de Bagé/RS: radiografia da evolução da pandemia",
+        "ano": 2022,
+        "autores": "BIHAIN, ANDERSON L. J. ; Blass, L. ; Goergen, G. ; GRALA, K. ; SILVA, E.J.G.",
+        "revista": "CADERNOS IBERO-AMERICANOS DE DIREITO SANITÁRIO",
+        "volume": "11",
+        "numero": "",
+        "paginas": "155-174",
+        "issn": "2358-1824",
+        "doi": "http://dx.doi.org/10.17566/ciads.v11i2.837",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Avaliação de Diferentes Abordagens na Solução do Problema de Equilíbrio Sólido-Líquido em Óleos Parafínicos",
+        "ano": 2020,
+        "autores": "BLASS, LEANDRO ; BIHAIN, ANDERSON L. J. ; SILVA, EVERSON J. G. ; VASCONCELLOS, JOÃO F. V. ; PLATT, GUSTAVO M.",
+        "revista": "TENDÊNCIAS EM MATEMÁTICA APLICADA E COMPUTACIONAL",
+        "volume": "21",
+        "numero": "",
+        "paginas": "1-20",
+        "issn": "2179-8451",
+        "doi": "http://dx.doi.org/10.5540/tema.2020.021.01.1",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "A solution of the time-dependent advection-diffusion equation",
+        "ano": 2019,
+        "autores": "TIRABASSI, T. ; SILVA, E.J.G. ; BUSKE, D. ; VILHENA, M. T.",
+        "revista": "INTERNATIONAL JOURNAL OF ENVIRONMENT AND POLLUTION",
+        "volume": "65",
+        "numero": "",
+        "paginas": "211-228",
+        "issn": "0957-4352",
+        "doi": "http://dx.doi.org/10.1504/IJEP.2019.101842",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Modelagem Computacional no Estudo de DeformaÃ§Ãµes em Pavimentos FlexÃ­veis",
+        "ano": 2018,
+        "autores": "ENGENHARIA QUÍMICA, UNIPAMPA-CAMPUS/BAGÉ ; MOLIN, MARCELO ; BLAS, LEANDRO ; L. J. BIHAIN, ANDERSON ; DOTTO BUENO, LUCAS ; BUDNY, JAELSON ; VINICIUS ALTNETTER, MAICON ; LUIZ RODRIGUES DE SOUZA, ADEMILTON ; A. G. KAZMIRSKI, JOÃO ; ENGENHARIA QUIMICA, UFSM ; JONATHAN GOMES DA SILVA, EVERSON",
+        "revista": "REVISTA CEREUS",
+        "volume": "10",
+        "numero": "",
+        "paginas": "170-179",
+        "issn": "2175-7275",
+        "doi": "http://dx.doi.org/10.18605/2175-7275/cereus.v10n2p170-179",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "EQUAÇÃO DIFERENCIAL PARA UMA MODELAGEM CINÉTICA DE REAÇÃO",
+        "ano": 2018,
+        "autores": "Blass, L. ; MANERA, A. P. ; COLPO, A. S. ; BIHAIN, A. L. J. ; SILVA, E. J. G. ; OLIVEIRA, M. S.",
+        "revista": "Revista da Jornada da Pós-Graduação e Pesquisa - Congrega",
+        "volume": "15",
+        "numero": "",
+        "paginas": "1-12",
+        "issn": "2526-4397",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "USO DE MÉTODOS NUMÉRICOS NA QUANTIFICAÇÃO DE GLICOSE DA HIDRÓLISE DA LACTOSE PARA OBTENÇÃO DE GALACTO-OLIGOSSACARÍDEOS",
+        "ano": 2018,
+        "autores": "Blass, L. ; MANERA, A. P. ; BIHAIN, A. L. J. ; SOARES, G. S. ; SILVA, E. J. G. ; OLIVEIRA, M. S.",
+        "revista": "Revista da Jornada da Pós-Graduação e Pesquisa - Congrega",
+        "volume": "15",
+        "numero": "",
+        "paginas": "12-24",
+        "issn": "2526-4397",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "ESTUDO DE DEFORMAÇÕES EM PAVIMENTOS FLEXÍVEIS EM DECORRÊNCIA DA VARIAÇÃO DE TEMPERATURA",
+        "ano": 2017,
+        "autores": "BLASS, L. ; Bihain, A. L. J. ; SILVA, E. J. G. ; Bueno, L.D. ; MOLIN, M. ; ALTNETTER, M. V.",
+        "revista": "REVISTA DA 14ª JORNADA DE PÓS GRADUAÇÃO E PESQUISA CONGREGA 2017",
+        "volume": "14",
+        "numero": "",
+        "paginas": "1-12-12",
+        "issn": "1982-2960",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "EQUILÍBRIO SÓLIDO - LÍQUIDO NA DEPOSIÇÃO DE CERAS COM MODELO MULTISÓLIDO",
+        "ano": 2017,
+        "autores": "BLASS, L. ; Bihain, A. L. J. ; MOLIN, M. ; SANTOS, F.J. ; SILVA, E. J. G.",
+        "revista": "REVISTA DA 14ª JORNADA DE PÓS GRADUAÇÃO E PESQUISA",
+        "volume": "14",
+        "numero": "",
+        "paginas": "1106-1118",
+        "issn": "1982-2960",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Modeling of Pollutant Dispersion in the Atmosphere Considering the Wind Profile and the Eddy Diffusivity Time Dependent.",
+        "ano": 2016,
+        "autores": "SILVA, E. J. G.; BUSKE, D. ; TIRABASSI, T. ; BODMANN, B. ; VILHENA, M. T.",
+        "revista": "American Journal of Environmental Engineering",
+        "volume": "6",
+        "numero": "",
+        "paginas": "12-19",
+        "issn": "2166-4633",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "A puff model using a three-dimensional analytical solution for the pollutant diffusion process",
+        "ano": 2013,
+        "autores": "SILVA, E.J.G.; TIRABASSI, T. ; VILHENA, M.T. ; BUSKE, D.",
+        "revista": "Atmospheric Research (Print)",
+        "volume": "134",
+        "numero": "",
+        "paginas": "131-136",
+        "issn": "0169-8095",
+        "doi": "http://dx.doi.org/10.1016/j.atmosres.2013.07.009",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "A NEW PUFF MODEL APPLYING AN EXACT SOLUTION OF DIFFUSION EQUATION",
+        "ano": 2013,
+        "autores": "SILVA, E. J. G.; TIRABASSI, T. ; BUSKE, D. ; VILHENA, M. T.",
+        "revista": "Ciência e Natura",
+        "volume": "1",
+        "numero": "",
+        "paginas": "109-111",
+        "issn": "2179-460X",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "The GILTT analytical solution applied in a puff model.",
+        "ano": 2011,
+        "autores": "SILVA, E. J. G.; TIRABASSI, T. ; BUSKE, D. ; VILHENA, M. T.",
+        "revista": "Ciência e Natura",
+        "volume": "1",
+        "numero": "",
+        "paginas": "135-138",
+        "issn": "0100-8307",
+        "doi": "",
+        "periodico_canonico": ""
+      }
+    ],
+    "livros_publicados": [
+      {
+        "titulo": "Matem@tica na pr@tica: práticas inovadoras e reflexões no ensino de matemática",
+        "ano": 2024,
+        "autores": "SILVA, E. J. G. (Org.) ; BLASS, L. (Org.) ; BIHAIN A. L. J. (Org.) ; OLIVEIRA, C. P. (Org.) ; VAZ, F. A. (Org.)",
+        "edicao": "1",
+        "editora": "São Paulo: Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "193"
+      }
+    ],
+    "capitulos_livros": [
+      {
+        "titulo": "COMO PROFESSORES CURSISTAS AVALIAM O ENSINO A DISTÂNCIA: UMA ANÁLISE A PARTIR DE UM CURSO DE ESPECIALIZAÇÃO EM MATEMÁTICA. Caminhos da Educação a Distância na Unipampa: perspectivas e desafios.. 1ed",
+        "ano": 2025,
+        "autores": "BLASS, LEANDRO ; Goergen, G. ; Bihain, A.L.J. ; Vaz, F. A. ; SILVA, E.J.G.",
+        "titulo_livro": "Núcleo de Educação a Distância Divisão e Coordenação UAB. (Org.). Caminhos da Educação a Distância na Unipampa: perspectivas e desafios. 1ed",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "12-18"
+      },
+      {
+        "titulo": "RE(PENSAR) AS SIMETRIAS DE FIGURAS PLANAS COM UTILIZAÇÃO DO GEOGEBRA",
+        "ano": 2024,
+        "autores": "SANTANA, W. J. S. ; BLASS, L. ; BIHAIN A. L. J. ; OLIVEIRA, C. P. ; SILVA, E. J. G. ; VAZ, F. A.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Leandro Blass, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira e Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica: práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "184-192"
+      },
+      {
+        "titulo": "A UTILIZAÇÃO DO GEOGEBRA PARA A CONSTRUÇÃO DE TRIÂNGULOS RETÂNGULOS E SUAS RELAÇÕES TRIGONOMÉTRICAS UMA TURMA DO ENSINO MÉDIO. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. v1ed",
+        "ano": 2024,
+        "autores": "OLIVEIRA, C. D. S. ; VAZ, F. A. ; Bihain, A. L. J. ; OLIVEIRA, C. P. ; SILVA, E. J. G. ; BLASS, L.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "21-32"
+      },
+      {
+        "titulo": "DESENVOLVIMENTO DE UM PROJETO SOBRE O DESPERDÍCIO DE ALIMENTOS EM UMA ESCOLA COM O AUXÍLIO DA MATEMÁTICA CRÍTICA E DA METODOLOGIA POR PROJETOS. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. v1ed",
+        "ano": 2024,
+        "autores": "SILVA, D. T. S. ; VAZ, F. A. ; BLASS, L. ; Bihain, A. L. J. ; OLIVEIRA, C. P. ; SILVA, E. J. G.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "33-43"
+      },
+      {
+        "titulo": "EXPERIMENTANDO NA PRÁTICA CONCEITOS DA ANÁLISE COMBINATÓRIA DESDE O ENSINO FUNDAMENTAL. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. v1ed",
+        "ano": 2024,
+        "autores": "MATO, D. V. ; VAZ, F. A. ; OLIVEIRA, C. P. ; Bihain, A. L. J. ; SILVA, E. J. G. ; BLASS, L.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "44-53"
+      },
+      {
+        "titulo": "EXPLORANDO A MODELAGEM MATEMÁTICA NO ESTUDO DA FUNÇÃO EXPONENCIAL NO CRESCIMENTO DO BOLOR (MOFO) DO PÃO: UMA ABORDAGEM DIDÁTICA EM SALA DE AULA. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. v1ed",
+        "ano": 2024,
+        "autores": "MEDEIROS, D. M. A. ; Bihain, A. L. J. ; SILVA, E. J. G. ; OLIVEIRA, C. P. ; VAZ, F. A. ; BLASS, L.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "54-63"
+      },
+      {
+        "titulo": "ENSINO DAS FUNÇÕES AFIM E EXPONENCIAL NA 1ª SÉRIE DO ENSINO MÉDIO: RELATO DE UMA EXPERIÊNCIA COM MODELAGEM MATEMÁTICA. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. 1ed",
+        "ano": 2024,
+        "autores": "MARTINS, E. V. ; BLASS, L. ; VAZ, F. A. ; Bihain, A. L. J. ; OLIVEIRA, C. P. ; SILVA, E. J. G.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "64-74"
+      },
+      {
+        "titulo": "APRENDENDO ATRAVÉS DO PRINCÍPIO FUNDAMENTAL DA CONTAGEM EM SITUAÇÕES DO COTIDIANO. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. 1ed",
+        "ano": 2024,
+        "autores": "SILVEIRA, E. F. ; SILVA, E. J. G. ; OLIVEIRA, C. P. ; Bihain, A. L. J. ; VAZ, F. A. ; BLASS, L.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "75-86"
+      },
+      {
+        "titulo": "O ENSINO DA MATEMÁTICA NA EDUCAÇÃO BÁSICA: APLICAÇÃO DE UMA SEQUÊNCIA DIDÁTICA SOBRE MATEMÁTICA FINANCEIRA. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. 1ed",
+        "ano": 2024,
+        "autores": "BRITO, E. P. ; OLIVEIRA, C. P. ; BLASS, L. ; Bihain, A. L. J. ; SILVA, E. J. G. ; VAZ, F. A.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "87-94"
+      },
+      {
+        "titulo": "RELATO DE 'ARQUITETANDO: A MATEMÁTICA NA CONSTRUÇÃO DA PLANTA BAIXA DA ESCOLA', TRABALHO DE CONCLUSÃO DE CURSO DO CURSO DE ESPECIALIZAÇÃO EM ENSINO DE MATEMÁTICA NO ENSINO MÉDIO: MATEM@TICA NA PR@TICA. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. 1ed",
+        "ano": 2024,
+        "autores": "OLIVEIRA, H. D. M. ; OLIVEIRA, C. P. ; VAZ, F. A. ; Bihain, A. L. J. ; SILVA, E. J. G. ; BLASS, L.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "95-103"
+      },
+      {
+        "titulo": "A UTILIZAÇÃO DE JOGOS COMO ESTRATÉGIA PARA APRIMORAR A PARTICIPAÇÃO DOS ALUNOS NO ENSINO DE FRAÇÕES. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. 1ed",
+        "ano": 2024,
+        "autores": "COSTA, J. M. ; BIHAIN, A. L. J. ; OLIVEIRA, C. P. ; SILVA, E.J.G. ; Vaz, F. A. ; Blass, L.",
+        "titulo_livro": "",
+        "edicao": "",
+        "editora": "",
+        "paginas": "104-113"
+      },
+      {
+        "titulo": "A CRIPTOGRAFIA COMO TEMA MOTIVADOR NA APRENDIZAGEM DE CONTEÚDOS MATEMÁTICOS. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. 1ed",
+        "ano": 2024,
+        "autores": "GUDAITES, L. A. ; VAZ, F. A. ; BLASS, L. ; BIHAIN A. L. J. ; OLIVEIRA, C. P. ; SILVA, E. J. G.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "114-124"
+      },
+      {
+        "titulo": "PROJEÇÕES ORTOGONAIS DE OBJETOS TRIDIMENSIONAIS NO ENSINO MÉDIO. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. 1ed",
+        "ano": 2024,
+        "autores": "DURO, M. L. ; BLASS, LEANDRO ; Bihain, A.L.J. ; OLIVEIRA, C. P. ; SILVA, E.J.G. ; Vaz, F. A.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "125-134"
+      },
+      {
+        "titulo": "UM ESTUDO SOBRE O ENSINO DE FUNÇÃO AFIM UTILIZANDO A MODELAGEM MATEMÁTICA NO ENSINO MÉDIO. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. 1ed",
+        "ano": 2024,
+        "autores": "AZAMBUJA, M. P. ; OLIVEIRA, C. P. ; SILVA, E. J. G. ; BIHAIN A. L. J. ; VAZ, F. A. ; BLASS, L.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "135-143"
+      },
+      {
+        "titulo": "ABORDAGEM INVESTIGATIVA E COLABORATIVA NO ESTUDO DOS POLIEDROS DE PLATÃO: UMA ESTRATÉGIA PARA ENRIQUECER O ENSINO. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. 1ed",
+        "ano": 2024,
+        "autores": "AZEREDO, N. B. P. ; BIHAIN A. L. J. ; VAZ, F. A. ; OLIVEIRA, C. P. ; SILVA, E. J. G. ; BLASS, L.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "144-152"
+      },
+      {
+        "titulo": "A FUNÇÃO LINEAR SOB A PERSPECTIVA DE SALÁRIOS E PROFISSÕES: A RESOLUÇÃO DE PROBLEMAS NO ENSINO MÉDIO. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. 1ed",
+        "ano": 2024,
+        "autores": "RAMOS, N. P. ; BLASS, L. ; OLIVEIRA, C. P. ; BIHAIN A. L. J. ; SILVA, E. J. G. ; VAZ, F. A.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Leandro Blass, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira e Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica: práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "153-162"
+      },
+      {
+        "titulo": "DESVENDANDO AS ELEIÇÕES BRASILEIRAS DE 2022: UMA ABORDAGEM INOVADORA NA ESTATÍSTICA DO ENSINO MÉDIO. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. 1ed",
+        "ano": 2024,
+        "autores": "REIS, R. B. C. P. ; BIHAIN, A. L. J. ; SILVA, E. J. G. ; OLIVEIRA, C. P. ; Vaz, F. A. ; Blass, L.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Leandro Blass, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira e Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica: práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "163-173"
+      },
+      {
+        "titulo": "MODELAGEM MATEMÁTICA: UMA METODOLOGIA PARA APLICAÇÃO DE FUNÇÕES EXPONENCIAIS. Matem@tica Na Pr@tica: Práticas Inovadoras e Reflexões no Ensino de Matemática. 1ed",
+        "ano": 2024,
+        "autores": "PRADO, S. T. G. ; OLIVEIRA, C. P. ; BIHAIN A. L. J. ; SILVA, E. J. G. ; VAZ, F. A. ; BLASS, L.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Leandro Blass, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira e Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica: práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "174-183"
+      },
+      {
+        "titulo": "UTILIZANDO JOGOS PARA O ENSINO DE FUNÇÕES DO PRIMEIRO E SEGUNDO GRAU COM ESTUDANTES DO 1º ANO DO ENSINO MÉDIO. Matem@tica na pr@tica: práticas inovadoras e reflexões no ensino de matemática.. 1ed.São Paulo",
+        "ano": 2024,
+        "autores": "PRADO, A. A. ; Bihain, A. L. J. ; OLIVEIRA, C. P. ; SILVA, E. J. G. ; VAZ, F. A.",
+        "titulo_livro": "Everson Jonatha Gomes da Silva, Anderson Luis Jeske Bihain, Cristiano Peres Oliveira, Francieli Aparecida Vaz. (Org.). Matem@tica na pr@tica [livro eletrônico] : práticas inovadoras e reflexões no ensino de matemática. 1ed.Santo André - SP: SP",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "09-20"
+      },
+      {
+        "titulo": "A importância das políticas públicas de formação de professores para a educação no Brasil",
+        "ano": 2022,
+        "autores": "OLIVEIRA, C. P. ; SILVA, E.J.G.",
+        "titulo_livro": "Claudete da Silva Lima Martins; Fernanda de Lima Pinheiro; Samara de Oliveira Pereira. (Org.). Desafios e possibilidades à formação a acadêmico-profissional: a experiência do Programa de Residência Pedagógica da UNIPAMPA. 1ed.São Paulo",
+        "edicao": "",
+        "editora": "São Paulo",
+        "paginas": "108-117"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "SIMULAÇÃO COM O MÉTODO DE MONTE CARLO: ANÁLISE DE RISCO NO GERENCIAMENTO DE PROJETOS INDUSTRIAIS",
+        "ano": 2022,
+        "autores": "HERZOG, L. P. ; SILVA, E. J. G. ; Weymer, G., J.",
+        "evento": "XXIV Encontro de Pós Graduação",
+        "volume": "",
+        "paginas": "",
+        "doi": "http://dx.doi.org/10.5281/zenodo.12727241",
+        "evento_sigla": "",
+        "evento_edicao": "XXIV",
+        "evento_local": "Pelotas",
+        "evento_veiculo": "ENPOS",
+        "evento_chave": "encontro de pos graduacao",
+        "evento_serie": "encontro de pos graduacao",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Análise do comportamento mecânico de pavimentos flexíveis considerando a variação sazonal de temperatura",
+        "ano": 2021,
+        "autores": "BLASS, LEANDRO ; MOTA, BRENO TIAGO DE SOUZA ; BIHAIN, ANDERSON LUÍS JESKE ; SILVA, EVERSON JONATHA GOMES DA",
+        "evento": "CNMAC 2021 XL Congresso Nacional de Matemática Aplicada e Computacional",
+        "volume": "8",
+        "paginas": "",
+        "doi": "http://dx.doi.org/10.5540/03.2021.008.01.0366",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "Evento Virtual, 2021",
+        "evento_veiculo": "v. 8",
+        "evento_chave": "cnmac 2021 xl congresso nacional de matematica aplicada e computacional",
+        "evento_serie": "cnmac 2021 xl congresso nacional de matematica aplicada e computacional",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "ENSINO HÍBRIDO: UMA PROPOSTA AO COMPONENTE CURRICULAR EQUAÇÕES DIFERENCIAIS",
+        "ano": 2018,
+        "autores": "SILVA, E. J. G. ; FERNANDES, A. J. M. ; Bihain, A. L. J. ; BLASS, L.",
+        "evento": "10° Salão Internacional de Ensino",
+        "volume": "10",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "Santana do Livramento",
+        "evento_veiculo": "ANAIS DO 10º SIEPE, 2018. v. 1",
+        "evento_chave": "salao internacional de ensino",
+        "evento_serie": "salao internacional de ensino",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "USO DE SOFTWARE ESCRITO EM LINGUAGEM JAVA NO ENSINO DE CÁLCULO NUMÉRICO",
+        "ano": 2018,
+        "autores": "Blass, L. ; LOSINSKAS, L. ; Bihain, A.L.J. ; SILVA, E. J. G.",
+        "evento": "10º SIEPE UNIPAMPA",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "10º",
+        "evento_local": "Santana do Livramento",
+        "evento_veiculo": "10º SIEPE UNIPAMPA",
+        "evento_chave": "siepe unipampa",
+        "evento_serie": "siepe unipampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "DESENVOLVIMENTO DE UM SOFTWARE PARA DETERMINAR O EQUILÍBRIO SÓLIDO - LÍQUIDO DE ÓLEO PARAFÍNICO",
+        "ano": 2018,
+        "autores": "Blass, L. ; CORREIA, M. C. ; SILVA, E. J. G. ; Bihain, A.L.J.",
+        "evento": "10º SIEPE UNIPAMPA",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "10º",
+        "evento_local": "Santana do Livramento",
+        "evento_veiculo": "10º SIEPE",
+        "evento_chave": "siepe unipampa",
+        "evento_serie": "siepe unipampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "SUPORTE PRESENCIAL VERSUS SUPORTE VIRTUAL NO PROCESSO DE ENSINOAPRENDIZAGEM: UMA ANÁLISE EXPLORATÓRIA DAS PERCEPÇÕES DISCENTES",
+        "ano": 2018,
+        "autores": "Bihain, A.L.J. ; SOARES, G. ; IRALA, V. B. ; SILVA, E. J. G. ; Blass, L.",
+        "evento": "10º SIEPE UNIPAMPA",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "10º",
+        "evento_local": "Santana do Livramento",
+        "evento_veiculo": "10º SIEPE",
+        "evento_chave": "siepe unipampa",
+        "evento_serie": "siepe unipampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "A solution of the time-dependent advection-diffusion equation.. In:",
+        "ano": 2017,
+        "autores": "TIRABASSI, T. ; SILVA, E.J.G. ; BUSKE, D. ; VILHENA, M.T.",
+        "evento": "18th International Conference on Harmonisation within Atmospheric Dispersion Modelling for Regulatory Purposes",
+        "volume": "1",
+        "paginas": "1-934",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "Bologna",
+        "evento_veiculo": "HARMO 2017, 2017. v. 1",
+        "evento_chave": "international conference on harmonisation within atmospheric dispersion modelling for regulatory purposes",
+        "evento_serie": "international conference on harmonisation within atmospheric dispersion modelling for regulatory purposes",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "INFLUÊNCIA DA VARIAÇÃO DA TEMPERATURA NAS DEFORMAÇÕES DE UM PAVIMENTO FLEXÍVEL",
+        "ano": 2017,
+        "autores": "Molin, M. ; Blass, L. ; Bihain, A.L.J. ; Bueno, L. D. ; BUDNY, J. ; SILVA, E. J. G.",
+        "evento": "9º SIEPE UNIPAMPA",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "9º",
+        "evento_local": "Santana do Livramento",
+        "evento_veiculo": "ANAIS 9º SIEPE",
+        "evento_chave": "siepe unipampa",
+        "evento_serie": "siepe unipampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "ENSINO DE CÁLCULO VOLTADO PARA O DESENVOLVIMENTO DE UMA DIDÁTICA PASSO A PASSO",
+        "ano": 2017,
+        "autores": "POLINO, R. C. ; Blass, L. ; Bihain, A.L.J. ; SILVA, E. J. G.",
+        "evento": "9º SIEPE UNIPAMPA",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "9º",
+        "evento_local": "Santana do Livramento",
+        "evento_veiculo": "ANAIS 9º SIEPE",
+        "evento_chave": "siepe unipampa",
+        "evento_serie": "siepe unipampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "USO DO SOFTWARE MAXIMA NO ENSINO E ENTENDIMENTO DA SOLUÇÃO DE EQUAÇÕES DIFERENCIAIS",
+        "ano": 2017,
+        "autores": "CUSTODIO, E. N. ; Blass, L. ; SILVA, E. J. G. ; Bihain, A.L.J.",
+        "evento": "9º SIEPE UNIPAMPA",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "9º",
+        "evento_local": "Santana do Livramento",
+        "evento_veiculo": "ANAIS 9º SIEPE",
+        "evento_chave": "siepe unipampa",
+        "evento_serie": "siepe unipampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Modelagem da dispersão de poluentes na atmosfera considerando uma fonte móvel",
+        "ano": 2016,
+        "autores": "SILVA, E. J. G.; VILHENA, M. T. ; BUSKE, D. ; QUADROS, R. S. ; TIRABASSI, T.",
+        "evento": "XXXVI Congresso Nacional de Matemática Aplicada e Computacional.",
+        "volume": "",
+        "paginas": "1-7",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "XXXVI",
+        "evento_local": "Gramado",
+        "evento_veiculo": "XXXVI Congresso Nacional de Matemática Aplicada e Computacional",
+        "evento_chave": "congresso nacional de matematica aplicada e computacional",
+        "evento_serie": "congresso nacional de matematica aplicada e computacional",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "A Puff Model for Pollutant Dispersion in the Atmospheric Boundary Layer by an Analytical Solution Approach",
+        "ano": 2014,
+        "autores": "SILVA, E.J.G.; VILHENA, M. ; TIRABASSI, T. ; BUSKE, D.",
+        "evento": "35º Congresso Nacional de Matemática Aplicada e Computacional",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "35º",
+        "evento_local": "Natal",
+        "evento_veiculo": "CNMAC 2014",
+        "evento_chave": "congresso nacional de matematica aplicada e computacional",
+        "evento_serie": "congresso nacional de matematica aplicada e computacional",
+        "evento_nome_canonico": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "DESFILANDO COM O PRINCÍPIO DE CONTAGEM",
+        "ano": 2022,
+        "autores": "SILVEIRA, E. F. ; SILVA, E. J. G.",
+        "evento": "5 simposio nacional da formação do professor de matematica",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "5",
+        "evento_local": "Santa Maria",
+        "evento_veiculo": "5 simposio nacional da formação do professor de matematica",
+        "evento_chave": "simposio nacional da formacao do professor de matematica",
+        "evento_serie": "simposio nacional da formacao do professor de matematica",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Projeto Pró Multiplicar",
+        "ano": 2016,
+        "autores": "SOUZA, P. K. ; SILVA, E. J. G.",
+        "evento": "VIII Salão Internacional de Ensino, Pesquisa e Extensão",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "VIII",
+        "evento_local": "Uruguaiana",
+        "evento_veiculo": "VIII Salão Internacional de Ensino, Pesquisa e Extensão., 2016. v. 8",
+        "evento_chave": "salao internacional de ensino pesquisa e extensao",
+        "evento_serie": "salao internacional de ensino pesquisa e extensao",
+        "evento_nome_canonico": ""
+      }
+    ],
+    "resumos_congressos": [
+      {
+        "titulo": "NIVELAMENTO: UM OLHAR PARA OS FUTUROS DISCENTES",
+        "ano": 2018,
+        "autores": "SANTOS, T. Q. ; SILVA, E. J. G.",
+        "evento": "10º SIEPE UNIPAMPA",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "10º",
+        "evento_local": "Santana do Livramento",
+        "evento_veiculo": "10º SIEPE",
+        "evento_chave": "siepe unipampa",
+        "evento_serie": "siepe unipampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Modelagem da dispersão de poluentes na atmosfera considerando o perfil de vento e o coeficiente de difusão dependentes do tempo",
+        "ano": 2014,
+        "autores": "SILVA, E.J.G.; BUSKE, D. ; VILHENA, M. ; TIRABASSI, T.",
+        "evento": "CBMET 2014 - Congresso Brasileiro de Micrometeorologia",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "Recife",
+        "evento_veiculo": "CBMET 2014",
+        "evento_chave": "cbmet 2014 congresso brasileiro de micrometeorologia",
+        "evento_serie": "cbmet 2014 congresso brasileiro de micrometeorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "The Generalized Integral Laplace Transform Technique applied in an air pollution puff model",
+        "ano": 2012,
+        "autores": "SILVA, E. J. G.; TIRABASSI, T. ; BUSKE, D. ; VILHENA, M. T.",
+        "evento": "XII International Conference on Integral Methods in Science and Engineering",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "XII",
+        "evento_local": "Bento Gonçalves",
+        "evento_veiculo": "IMSE 2012",
+        "evento_chave": "international conference on integral methods in science and engineering",
+        "evento_serie": "international conference on integral methods in science and engineering",
+        "evento_nome_canonico": ""
+      }
+    ],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [
+        {
+          "ano_conclusao": 2025,
+          "titulo": "O JOGO BATALHA NAVAL COMO PONTE ENTRE A TEORIA TRADICIONAL E A APLICAÇÃO PRÁTICA",
+          "orientando": "Rosilene Toniolo",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        },
+        {
+          "ano_conclusao": 2025,
+          "titulo": "Aprendizagem Baseada em Problemas no Ensino Médio: Uma abordagem ativa para o ensino de Matemática",
+          "orientando": "Lorrana Bárbara dos Santos Rodrigues",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        },
+        {
+          "ano_conclusao": 2023,
+          "titulo": "APRENDENDO ATRAVÉS DO PRINCÍPIO FUNDAMENTAL DA CONTAGEM EM SITUAÇÕES DO COTIDIANO",
+          "orientando": "Eliane de Fraga Silveira",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        },
+        {
+          "ano_conclusao": 2023,
+          "titulo": "A LUDICIDADE DA DANÇA DAS CADEIRAS NO ENSINO DE ANÁLISE COMBINATÓRIA",
+          "orientando": "Rosinéia de Oliveira Gonçalves",
+          "tipo_trabalho": "Monografia",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        },
+        {
+          "ano_conclusao": 2018,
+          "titulo": "MODELAGEM MATEMÁTICA E SIMULAÇÃO COMPUTACIONAL COMO ESTRATÉGIAS DE ENSINO-APRENDIZAGEM APLICADAS EM UM CICLO DE MODELAGEM",
+          "orientando": "Rodrigo da Silva Franco",
+          "tipo_trabalho": "",
+          "instituicao": "(Aperfeiçoamento/Especialização em Modelagem Computacional em Ensino",
+          "instituicao_chave": "aperfeicoamento especializacao em modelagem computacional em ensino",
+          "instituicao_canonica": "",
+          "curso": "",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": "Experimentação e Simulação.) - Universidade Federal do Pampa"
+        }
+      ],
+      "tcc": [
+        {
+          "ano_conclusao": 2021,
+          "titulo": "O PAPEL DO ENSINO HÍBRIDO APÓS O PERÍODO DE ENSINO REMOTO EMERGENCIAL",
+          "orientando": "Danver de Oliveira Vernetti",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "Graduação em Matemática",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        },
+        {
+          "ano_conclusao": 2019,
+          "titulo": "MODELAGEM MATEMÁTICA COMO PROPOSTA DE METODOLOGIA ATIVA ATRAVÉS DO CICLO DE MODELAGEM DE HESTENES",
+          "orientando": "Nilvane Porcellis Alves",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "Graduação em Matemática",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        },
+        {
+          "ano_conclusao": 2018,
+          "titulo": "MOOC: uma Proposta para um Curso de Nivelamento em Matemática",
+          "orientando": "ALINE DOMENECH DE SOUZA",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "Graduação em Matemática",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        }
+      ],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "15º Salão Internacional de Ensino, Pesquisa e Extensão (SIEPE)",
+        "apresentacao": "",
+        "ano": 2023,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "siepe",
+        "evento_serie": "siepe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "4º Congresso Nordestino de Educação a Distância",
+        "apresentacao": "",
+        "ano": 2023,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "congresso nordestino de educacao a distancia",
+        "evento_serie": "congresso nordestino de educacao a distancia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "VII Fórum EaD UNIPAMPA",
+        "apresentacao": "",
+        "ano": 2017,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "forum ead unipampa",
+        "evento_serie": "forum ead unipampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "IX Workshop Brasileiro de Micrometeorologia",
+        "apresentacao": "Modelagem da Dispersão de Poluentes na Atmosfera Considerando o Perfil de Vento e os Coeficientes de Difusão Dependentes do Tempo.",
+        "ano": 2015,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "workshop brasileiro de micrometeorologia",
+        "evento_serie": "workshop brasileiro de micrometeorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "35º Congresso Nacional de Matemática Aplicada e Computacional",
+        "apresentacao": "A Puff Model for Pollutant Dispersion in the Atmospheric Boundary Layer by an Analytical Solution Approach.",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "congresso nacional de matematica aplicada e computacional",
+        "evento_serie": "congresso nacional de matematica aplicada e computacional",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "CBMET 2014 - Congresso Brasileiro de Micrometeorologia",
+        "apresentacao": "Modelagem da dispersão de poluentes na atmosfera considerando o perfil de vento e o coeficiente de difusão dependentes do tempo.",
+        "ano": 2014,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "cbmet 2014 congresso brasileiro de micrometeorologia",
+        "evento_serie": "cbmet 2014 congresso brasileiro de micrometeorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "VIII Workshop Brasileiro de Micrometeorologia",
+        "apresentacao": "A NEW PUFF MODEL APPLYING AN EXACT SOLUTION OF DIFFUSION EQUATION",
+        "ano": 2013,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "workshop brasileiro de micrometeorologia",
+        "evento_serie": "workshop brasileiro de micrometeorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Seminário de Capacitação Docente",
+        "apresentacao": "",
+        "ano": 2012,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "seminario de capacitacao docente",
+        "evento_serie": "seminario de capacitacao docente",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "XII International Conference on Integral Methods in Science and Engineering",
+        "apresentacao": "The Generalized Integral Laplace Transform Technique applied in an air pollution puff model",
+        "ano": 2012,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "international conference on integral methods in science and engineering",
+        "evento_serie": "international conference on integral methods in science and engineering",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "VII Workshop Brasileiro de Micrometeorologia",
+        "apresentacao": "",
+        "ano": 2011,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "workshop brasileiro de micrometeorologia",
+        "evento_serie": "workshop brasileiro de micrometeorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "INAC - International Nuclear Atomic Conference",
+        "apresentacao": "",
+        "ano": 2009,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "inac international nuclear atomic conference",
+        "evento_serie": "inac international nuclear atomic conference",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "O Teorema de Pitágoras é mesmo de Pitágoras?",
+        "apresentacao": "",
+        "ano": 2008,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "o teorema de pitagoras e mesmo de pitagoras",
+        "evento_serie": "o teorema de pitagoras e mesmo de pitagoras",
+        "evento_nome_canonico": ""
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "OLIVEIRA, C. P. ; SILVA, E. J. G. ; Bihain, A.L.J. ; ANGELO, C. L. ; Vaz, F. A. ; Goergen, G. ; LINDNER, L. M. T. ; FERREIRA, V. L. D. ; JUNQUEIRA, S. M. S. ; LEAO, A. S. G. ; MAGGIO, D. P. ; MACHADO, S. B. ; PADILHA, F. R. R. ; ASEFF, D. T. A. ; CARPES, P. P. G.",
+        "evento": "XV EGEM - XV Encontro Gaúcho de Educação Matemática",
+        "ano": 2024,
+        "natureza": "Outro",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "egem xv encontro gaucho de educacao matematica",
+        "evento_serie": "egem xv encontro gaucho de educacao matematica",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "BIHAIN A. L. J.; BLASS, LEANDRO ; OLIVEIRA, C. P. ; SILVA, E. J. G. ; VAZ, F. A. ; GOERGEN, G. ; JUNQUEIRA, S. M. S. ; ANGELO, C. L. ; NEGRAO, M. M. ; PADILHA, F. R.",
+        "evento": "II Colóquio de Matemática do Pampa",
+        "ano": 2022,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "coloquio de matematica do pampa",
+        "evento_serie": "coloquio de matematica do pampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "OLIVEIRA, C. P. ; MENEGAIS, D. A. F. N. ; BLASS, LEANDRO ; Bihain, A. L. J. ; DIAS, E. P. ; VAZ, F. A. ; GOERGEN, GUILHERME ; JUNQUEIRA, S. M. S. ; NEGRAO, M. M. ; ANGELO, C. L. ; SILVA, E. J. G.",
+        "evento": "I Colóquio de Matemática do Pampa. 2021",
+        "ano": 2021,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "coloquio de matematica do pampa 2021",
+        "evento_serie": "coloquio de matematica do pampa 2021",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "OLIVEIRA, C. P. ; SILVA, E. J. G. ; Goergen, G. ; Junqueira, S.M.S. ; ANGELO, C. L. ; ASEFF, D. T. A. ; NEGRAO, M. M. R. ; Pereira, E. D. ; Bihain, A.L.J.",
+        "evento": "I COLÓQUIO DE MATEMÁTICA DO PAMPA",
+        "ano": 2021,
+        "natureza": "Outro",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "coloquio de matematica do pampa",
+        "evento_serie": "coloquio de matematica do pampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "CASSENEGO, A. P. V. ; MANN, M. ; SILVA, E. J. G.",
+        "evento": "III Simpósio de Microbiologia Aplicada",
+        "ano": 2009,
+        "natureza": "Outro",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "simposio de microbiologia aplicada",
+        "evento_serie": "simposio de microbiologia aplicada",
+        "evento_nome_canonico": ""
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "MORAES, M. R.; SCHÄFER, A.; SILVA, E. J. G.. Participação em banca de Victor Hugo Machado Madruga.Simulação da Energia Produzida no Parque Eólico de Cerro Chato com o Modelo Windsim. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente) - Universidade Federal do Pampa.",
+        "ano": 2018,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Victor Hugo Machado Madruga",
+        "membros_banca": [
+          "MORAES, M. R.",
+          "SCHÄFER, A.",
+          "SILVA, E. J. G."
+        ],
+        "titulo_trabalho": "Simulação da Energia Produzida no Parque Eólico de Cerro Chato com o Modelo Windsim",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "Junqueira, S.M.S.; SILVA, E. J. G.; Pereira, E. D.. Participação em banca de ELISANDRA LEMOS DE OLIVEIRA.UMA ABORDAGEM SOBRE EDUCAÇÃO FINANCEIRA UTILIZANDO A RESOLUÇÃO DE PROBLEMAS. 2018. Trabalho de Conclusão de Curso (Graduação em Matemática) - Universidade Federal do Pampa.",
+        "ano": 2018,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "ELISANDRA LEMOS DE OLIVEIRA",
+        "membros_banca": [
+          "Junqueira, S.M.S.",
+          "SILVA, E. J. G.",
+          "Pereira, E. D."
+        ],
+        "titulo_trabalho": "UMA ABORDAGEM SOBRE EDUCAÇÃO FINANCEIRA UTILIZANDO A RESOLUÇÃO DE PROBLEMAS",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Matemática)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "Bihain, A.L.J.; Blass, L.; PAVAN, F. A.; SILVA, E. J. G.. Participação em banca de EVERTON MENDES DE OLIVEIRA.AVALIAÇÃO DO MODELO STEPWISE NA MODELAGEM DO LEITO MOVEL SIMULADO COM GRADIENTE DE SOLVENTE. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Química) - Universidade Federal do Pampa.",
+        "ano": 2018,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "EVERTON MENDES DE OLIVEIRA",
+        "membros_banca": [
+          "Bihain, A.L.J.",
+          "Blass, L.",
+          "PAVAN, F. A.",
+          "SILVA, E. J. G."
+        ],
+        "titulo_trabalho": "AVALIAÇÃO DO MODELO STEPWISE NA MODELAGEM DO LEITO MOVEL SIMULADO COM GRADIENTE DE SOLVENTE",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia Química)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "SILVA, E. J. G.; Junqueira, S.M.S.; Pereira, E. D.. Participação em banca de ALINE DOMENECH DE SOUZA.MOOC: UMA PROPOSTA PARA O CURSO DE NIVELAMENTO EM MATEMÁTICA. 2018. Trabalho de Conclusão de Curso (Graduação em Matemática) - Universidade Federal do Pampa.",
+        "ano": 2018,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "ALINE DOMENECH DE SOUZA",
+        "membros_banca": [
+          "SILVA, E. J. G.",
+          "Junqueira, S.M.S.",
+          "Pereira, E. D."
+        ],
+        "titulo_trabalho": "MOOC: UMA PROPOSTA PARA O CURSO DE NIVELAMENTO EM MATEMÁTICA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Matemática)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "CARRETTA, A.; FERREIRA, V. L. D.; SILVA, E. J. G.. Participação em banca de BRUNA JANN LEITE.RELACIONANDO O NÍVEL DE MOTIVAÇÃO COM A APRENDIZAGEM SIGNIFICATIVA: UM ESTUDO DE CASO COM O SOFTWARE GEOGEBRA NO ENSINO DE GEOMETRIA PLANA. 2018. Trabalho de Conclusão de Curso (Graduação em Matemática) - Universidade Federal do Pampa.",
+        "ano": 2018,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "BRUNA JANN LEITE",
+        "membros_banca": [
+          "CARRETTA, A.",
+          "FERREIRA, V. L. D.",
+          "SILVA, E. J. G."
+        ],
+        "titulo_trabalho": "RELACIONANDO O NÍVEL DE MOTIVAÇÃO COM A APRENDIZAGEM SIGNIFICATIVA: UM ESTUDO DE CASO COM O SOFTWARE GEOGEBRA NO ENSINO DE GEOMETRIA PLANA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Matemática)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "Bihain, A.L.J.; SILVA, E. J. G.; Vaz, F. A.. Participação em banca de Evanildo Franco de Jesus.Simulação Numérica das Equações de Navier-Stokes pelo Método de Diferenças Finitas para um Escoamento Incompressível.. 2017. Trabalho de Conclusão de Curso (Graduação em Matemática) - Universidade Federal do Pampa.",
+        "ano": 2017,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Evanildo Franco de Jesus",
+        "membros_banca": [
+          "Bihain, A.L.J.",
+          "SILVA, E. J. G.",
+          "Vaz, F. A."
+        ],
+        "titulo_trabalho": "Simulação Numérica das Equações de Navier-Stokes pelo Método de Diferenças Finitas para um Escoamento Incompressível",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Matemática)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "MORAES, M. R.; OLIVEIRA, C. P.; SILVA, E. J. G.. Participação em banca de DAISSON DA SILVA MARQUES.SIMULAÇÕES NUMÉRICAS DO CAMPO DE VENTO NA REGIÃO DO PARQUE EÓLICO DE CERRO CHATO COM MODELOS WRF E WINDSIM.. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente) - Universidade Federal do Pampa.",
+        "ano": 2015,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "DAISSON DA SILVA MARQUES",
+        "membros_banca": [
+          "MORAES, M. R.",
+          "OLIVEIRA, C. P.",
+          "SILVA, E. J. G."
+        ],
+        "titulo_trabalho": "SIMULAÇÕES NUMÉRICAS DO CAMPO DE VENTO NA REGIÃO DO PARQUE EÓLICO DE CERRO CHATO COM MODELOS WRF E WINDSIM",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "MORAES, M. R.; SCHÄFER, A.; SILVA, E. J. G.. Participação em banca de EVERTON DE ALMEIDA LUCAS.ANÁLISE DO MODELO NUMÉRICO WRF-ARW EM ESTIMAR A VELOCIDADE MÉDIA DO VENTO A DISTINTAS ALTURAS NOS PRIMEIROS 100 METROS DA CAMADA LIMITE PLANETÁRIA. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente) - Universidade Federal do Pampa.",
+        "ano": 2015,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "EVERTON DE ALMEIDA LUCAS",
+        "membros_banca": [
+          "MORAES, M. R.",
+          "SCHÄFER, A.",
+          "SILVA, E. J. G."
+        ],
+        "titulo_trabalho": "ANÁLISE DO MODELO NUMÉRICO WRF-ARW EM ESTIMAR A VELOCIDADE MÉDIA DO VENTO A DISTINTAS ALTURAS NOS PRIMEIROS 100 METROS DA CAMADA LIMITE PLANETÁRIA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente)",
+        "universidade": "Universidade Federal do Pampa"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "Vaz, F. A.; OLIVEIRA, C. P.; SILVA, E. J. G.. Participação em banca de CLÉIA DALCUL DA SILVA OLIVEIRA. CONSTRUÇÃO DE TRIÂNGULOS RETÂNGULOS E SUAS RELAÇÕES TRIGONOMÉTRICAS COM O AUXÍLIO DO GEOGEBRA EM UMA TURMA DE ENSINO MÉDIO. 2023. Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica) - Universidade Federal do Pampa.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "CLÉIA DALCUL DA SILVA OLIVEIRA",
+        "membros_banca": [
+          "Vaz, F. A.",
+          "OLIVEIRA, C. P.",
+          "SILVA, E. J. G."
+        ],
+        "titulo_trabalho": "CONSTRUÇÃO DE TRIÂNGULOS RETÂNGULOS E SUAS RELAÇÕES TRIGONOMÉTRICAS COM O AUXÍLIO DO GEOGEBRA EM UMA TURMA DE ENSINO MÉDIO",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "Vaz, F. A.; OLIVEIRA, C. P.; SILVA, E. J. G.. Participação em banca de Daniella Thiemy Sada da Silva. A METODOLOGIA DE PROJETOS E A EDUCAÇÃO MATEMÁTICA CRÍTICA DURANTE O DESENVOLVIMENTO DE UM PROJETO SOBRE O DESPERDÍCIO DE ALIMENTOS NA ESCOLA. 2023. Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica) - Universidade Federal do Pampa.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "Daniella Thiemy Sada da Silva",
+        "membros_banca": [
+          "Vaz, F. A.",
+          "OLIVEIRA, C. P.",
+          "SILVA, E. J. G."
+        ],
+        "titulo_trabalho": "A METODOLOGIA DE PROJETOS E A EDUCAÇÃO MATEMÁTICA CRÍTICA DURANTE O DESENVOLVIMENTO DE UM PROJETO SOBRE O DESPERDÍCIO DE ALIMENTOS NA ESCOLA",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "Bihain, A.L.J.; Blass, L.; SILVA, E. J. G.. Participação em banca de Dérik Becker Pereira. TRANSFORMAÇÕES GEOMÉTRICAS NO PLANO CARTESIANO. 2023. Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica) - Universidade Federal do Pampa.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "Dérik Becker Pereira",
+        "membros_banca": [
+          "Bihain, A.L.J.",
+          "Blass, L.",
+          "SILVA, E. J. G."
+        ],
+        "titulo_trabalho": "TRANSFORMAÇÕES GEOMÉTRICAS NO PLANO CARTESIANO",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "OLIVEIRA, C. P.; SILVA, E. J. G.; Blass, L.. Participação em banca de Heidi Daiana Machado de Oliveira. ARQUITETANDO: A MATEMÁTICA NA CONSTRUÇÃO DA PLANTA BAIXA DA ESCOLA. 2023. Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica) - Universidade Federal do Pampa.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "Heidi Daiana Machado de Oliveira",
+        "membros_banca": [
+          "OLIVEIRA, C. P.",
+          "SILVA, E. J. G.",
+          "Blass, L."
+        ],
+        "titulo_trabalho": "ARQUITETANDO: A MATEMÁTICA NA CONSTRUÇÃO DA PLANTA BAIXA DA ESCOLA",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "Blass, L.; Vaz, F. A.; SILVA, E. J. G.. Participação em banca de JAMERSON HENRIQUE DA SILVA MARQUES. ADAPTAÇÃO DO JOGO GENERAL: USANDO O JOGO PARA COMPLEMENTAR O ESTUDO DE PROBABILIDADE E ESTATÍSTICA. 2023. Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica) - Universidade Federal do Pampa.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "JAMERSON HENRIQUE DA SILVA MARQUES",
+        "membros_banca": [
+          "Blass, L.",
+          "Vaz, F. A.",
+          "SILVA, E. J. G."
+        ],
+        "titulo_trabalho": "ADAPTAÇÃO DO JOGO GENERAL: USANDO O JOGO PARA COMPLEMENTAR O ESTUDO DE PROBABILIDADE E ESTATÍSTICA",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "OLIVEIRA, C. P.; SILVA, E. J. G.; BIHAIN, A. L. J.. Participação em banca de ANA MARGARIDA DOS SANTOS PADILHA. PERSPECTIVA DE UMA AULA USANDO A MODELAGEM MATEMÁTICA: ASTROLÁBIO. 2023. Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica) - Universidade Federal do Pampa.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "ANA MARGARIDA DOS SANTOS PADILHA",
+        "membros_banca": [
+          "OLIVEIRA, C. P.",
+          "SILVA, E. J. G.",
+          "BIHAIN, A. L. J."
+        ],
+        "titulo_trabalho": "PERSPECTIVA DE UMA AULA USANDO A MODELAGEM MATEMÁTICA: ASTROLÁBIO",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "BIHAIN, A. L. J.; SILVA, E. J. G.; Vaz, F. A.. Participação em banca de Andressa Aparecida do Prado. O USO DE JOGOS NO ENSINO DE FUNÇÕES DO PRIMEIRO E SEGUNDO GRAU COM ALUNOS DO 1° ANO DO ENSINO MÉDIO. 2023. Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica) - Universidade Federal do Pampa.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "Andressa Aparecida do Prado",
+        "membros_banca": [
+          "BIHAIN, A. L. J.",
+          "SILVA, E. J. G.",
+          "Vaz, F. A."
+        ],
+        "titulo_trabalho": "O USO DE JOGOS NO ENSINO DE FUNÇÕES DO PRIMEIRO E SEGUNDO GRAU COM ALUNOS DO 1° ANO DO ENSINO MÉDIO",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "OLIVEIRA, C. P.; SILVA, E. J. G.; Vaz, F. A.. Participação em banca de EUDSON DOS PRAZERES BRITO. O ENSINO DA MATEMÁTICA NA EDUCAÇÃO BÁSICA: Aplicação de uma sequência didática sobre Matemática Financeira. 2023.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "EUDSON DOS PRAZERES BRITO",
+        "membros_banca": [
+          "OLIVEIRA, C. P.",
+          "SILVA, E. J. G.",
+          "Vaz, F. A."
+        ],
+        "titulo_trabalho": "O ENSINO DA MATEMÁTICA NA EDUCAÇÃO BÁSICA: Aplicação de uma sequência didática sobre Matemática Financeira",
+        "curso": "",
+        "universidade": ""
+      },
+      {
+        "descricao": "BIHAIN, A. L. J.; SILVA, E. J. G.; Blass, L.. Participação em banca de Jezabel Machado Costa. O USO DE JOGOS NO ENSINO DE FRAÇÕES: UMA ESTRATÉGIA PARA MELHORAR A PARTICIPAÇÃO DOS ALUNOS. 2023. Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica) - Universidade Federal do Pampa.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "Jezabel Machado Costa",
+        "membros_banca": [
+          "BIHAIN, A. L. J.",
+          "SILVA, E. J. G.",
+          "Blass, L."
+        ],
+        "titulo_trabalho": "O USO DE JOGOS NO ENSINO DE FRAÇÕES: UMA ESTRATÉGIA PARA MELHORAR A PARTICIPAÇÃO DOS ALUNOS",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "OLIVEIRA, C. P.; SILVA, E. J. G.; Blass, L.. Participação em banca de JULIA MONTEIRO DIAS. QUANTO CABE EM UM PORTA MALAS???: SOLUCIONANDO UM PROBLEMA MATEMÁTICO. 2023. Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica) - Universidade Federal do Pampa.",
+        "ano": 2023,
+        "tipo": "Participação em banca",
+        "aluno": "JULIA MONTEIRO DIAS",
+        "membros_banca": [
+          "OLIVEIRA, C. P.",
+          "SILVA, E. J. G.",
+          "Blass, L."
+        ],
+        "titulo_trabalho": "QUANTO CABE EM UM PORTA MALAS???: SOLUCIONANDO UM PROBLEMA MATEMÁTICO",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "Blass, L.; Bihain, A.L.J.; SILVA, E. J. G.. Participação em banca de Eduardo de Vasconcelos Martins. MODELAGEM MATEMÁTICA NO ENSINO DE FUNÇÕES: APLICAÇÃO DE UMA ATIVIDADE PARA O ENSINO DE FUNÇÃO AFIM E EXPONENCIAL. 2022. Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica) - Universidade Federal do Pampa.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "Eduardo de Vasconcelos Martins",
+        "membros_banca": [
+          "Blass, L.",
+          "Bihain, A.L.J.",
+          "SILVA, E. J. G."
+        ],
+        "titulo_trabalho": "MODELAGEM MATEMÁTICA NO ENSINO DE FUNÇÕES: APLICAÇÃO DE UMA ATIVIDADE PARA O ENSINO DE FUNÇÃO AFIM E EXPONENCIAL",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "Blass, L.; SILVA, E. J. G.; Vaz, F. A.. Participação em banca de Mariana Lima Duro. PROJEÇÕES ORTOGONAIS DE OBJETOS TRIDIMENSIONAIS NO ENSINO MÉDIO. 2022. Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica) - Universidade Federal do Pampa.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "Mariana Lima Duro",
+        "membros_banca": [
+          "Blass, L.",
+          "SILVA, E. J. G.",
+          "Vaz, F. A."
+        ],
+        "titulo_trabalho": "PROJEÇÕES ORTOGONAIS DE OBJETOS TRIDIMENSIONAIS NO ENSINO MÉDIO",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "BLAS, LEANDRO; SILVA, E. J. G.; Vaz, F. A.. Participação em banca de Nicoli Peroza Ramos. A FUNÇÃO LINEAR BASEADA NA RESOLUÇÃO DE PROBLEMAS: Um estudo envolvendo salário e profissões. 2022. Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica) - Universidade Federal do Pampa.",
+        "ano": 2022,
+        "tipo": "Participação em banca",
+        "aluno": "Nicoli Peroza Ramos",
+        "membros_banca": [
+          "BLAS, LEANDRO",
+          "SILVA, E. J. G.",
+          "Vaz, F. A."
+        ],
+        "titulo_trabalho": "A FUNÇÃO LINEAR BASEADA NA RESOLUÇÃO DE PROBLEMAS: Um estudo envolvendo salário e profissões",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Ensino de Matemática no Ensino Médio: Matem@tica Na Pr@tica)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "Blass, L.; TRINDADE, M. S.; SILVA, E. J. G.. Participação em banca de RODRIGO DA SILVA FRANCO. MODELAGEM MATEMÁTICA E SIMULAÇÃO COMPUTACIONAL COMO ESTRATÉGIAS DE ENSINO-APRENDIZAGEM APLICADAS EM UM CICLO DE MODELAGEM. 2018. Monografia (Aperfeiçoamento/Especialização em Modelagem Computacional em Ensino, Experimentação e Simulação.) - Universidade Federal do Pampa.",
+        "ano": 2018,
+        "tipo": "Participação em banca",
+        "aluno": "RODRIGO DA SILVA FRANCO",
+        "membros_banca": [
+          "Blass, L.",
+          "TRINDADE, M. S.",
+          "SILVA, E. J. G."
+        ],
+        "titulo_trabalho": "MODELAGEM MATEMÁTICA E SIMULAÇÃO COMPUTACIONAL COMO ESTRATÉGIAS DE ENSINO-APRENDIZAGEM APLICADAS EM UM CICLO DE MODELAGEM",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Modelagem Computacional em Ensino, Experimentação e Simulação.)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "SILVA, E. J. G.; Junqueira, S.M.S.; MARTINS, M. M.. Participação em banca de Gregório Bages Sanches.Tecnologias educacionais na prática de professores que ensinam matemática: consumir, incorporar e matematizar.. 2017 - Universidade Federal do Pampa.",
+        "ano": 2017,
+        "tipo": "Participação em banca",
+        "aluno": "Gregório Bages Sanches",
+        "membros_banca": [
+          "SILVA, E. J. G.",
+          "Junqueira, S.M.S.",
+          "MARTINS, M. M."
+        ],
+        "titulo_trabalho": "Tecnologias educacionais na prática de professores que ensinam matemática: consumir, incorporar e matematizar",
+        "curso": "",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "SILVA, E. J. G.; Ymai, L.H.; ALVES, E. F.. Processo Seletivo Simplificado para Professor Substituto do Magistério Superior. 2016. Universidade Federal do Pampa.",
+        "ano": 2016,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Pampa.",
+        "universidade": ""
+      },
+      {
+        "descricao": "SILVA, E. J. G.; Dias, F.L.; Ymai, L.H.. Processo Seletivo Simplificado para Professor Substituto do Magistério Superior. 2015. Universidade Federal do Pampa.",
+        "ano": 2015,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Pampa.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 17,
+    "total_livros": 1,
+    "total_capitulos": 20,
+    "total_trabalhos_congressos": 12,
+    "total_projetos_pesquisa": 6,
+    "total_projetos_extensao": 4,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "2830225920546651",
+    "nome_completo": "Raphaela Fagundes Dutra",
+    "nome_citacoes": "DUTRA, R. F.",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "",
+    "atualizacao_cv": "10/11/2023",
+    "url": "http://lattes.cnpq.br/2830225920546651",
+    "texto_resumo": "FORMADA NO CURSO NORMAL - MAGISTÉRIO, NA ESCOLA ESTADUAL DE ENSINO BÁSICO PROFESSOR JUSTINO COSTA QUINTANA, NA CIDADE DE BAGÉ/RS.FORMADA NO CURSO DE PEDAGOGIA EM LICENCIATURA, NA UNIVERSIDADE ANHANGUERA UNIDERP - BAGÉ/RS.FORMADA NO CURSO DE MATEMÁTICA EM LICENCIATURA, NA UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA, CAMPUS BAGÉ/RS.PARTICIPEI DO PROJETO DE ENSINO - ATIVIDADES DE GEOMETRIA ANALÍTICA COM GEOGEBRA, CAMPUS BAGÉ.PARTICIPEI DO PROJETO DE ENSINO - AS INTENCIONALIDADES E OS FOREGROUNDS DE ESTUDANTES DE BAGÉ SOB A PERSPECTIVA DA EDUCAÇÃO MATEMÁTICA CRÍTICA, CAMPUS BAGÉ.PARTICIPEI DO PROGRAMA INSTITUCIONAL DE BOLSAS DE INICIAÇÃO À DOCENCIA, CAMPUS BAGÉ.PARTICIPEI DO PROGRAMA RESIDÊNCIA PEDAGÓGICA, CAMPUS BAGÉ.AUTORA DA PESQUISA EM ENSINO \"UMA EXPERIÊNCIA PRÁTICA DE EDUCAÇÃO FINANCEIRA EM AULAS DA GRADUAÇÃO\" - NO 14 SALÃO INTERNACIONAL DE ENSINO, PESQUISA E EXTENSÃO (SIEPE).ATUEI COMO 1 SECRETÁRIA NO DIRETÓRIO ACADÊMICO DE MATEMÁTICA EM LICENCIATURA, NA UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA, CAMPUS BAGÉ/RS EM 2021 - 2022ATUEI COMO 2 SECRETÁRIA NO DIRETÓRIO ACADÊMICO DE MATEMÁTICA EM LICENCIATURA, NA UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA, CAMPUS BAGÉ/RS - 2023 (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Mestrado profissional interrompido em 2023 em Ensino de Matemática",
+      "nome_instituicao": "Universidade Federal do Rio Grande do Sul, UFRGS, Brasil",
+      "ano_inicio": "2023 interrompida",
+      "ano_conclusao": "",
+      "descricao": "Título: , Ano de Obtenção: . Orientador: Maurício Rosa. Coorientador: Cláudia Glavam. Ano de interrupção: 2023"
+    },
+    {
+      "tipo": "Graduação em Pedagogia",
+      "nome_instituicao": "Universidade Anhanguera - Uniderp, UNIDERP, Brasil",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2022",
+      "descricao": ""
+    },
+    {
+      "tipo": "Graduação em Matemática",
+      "nome_instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2023",
+      "descricao": ""
+    },
+    {
+      "tipo": "Ensino Médio (2º grau)",
+      "nome_instituicao": "E",
+      "ano_inicio": "2016",
+      "ano_conclusao": "2018",
+      "descricao": "E.E.B Prof Justino Costa Quintana, JQ, Brasil."
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "EEI Educartte, EDUCARTTE, Brasil.",
+      "instituicao_nome": "EEI Educartte",
+      "instituicao_sigla": "EDUCARTTE",
+      "instituicao_pais": "Brasil",
+      "periodo": "2019 - Atual",
+      "ano_inicio": "2019",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Orientadora Educacional",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "EEI Sesc, SESQUINHO, Brasil.",
+      "instituicao_nome": "EEI Sesc",
+      "instituicao_sigla": "SESQUINHO",
+      "instituicao_pais": "Brasil",
+      "periodo": "2021 - 2022",
+      "ano_inicio": "2021",
+      "ano_fim": "2022",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Auxiliar/Assistente Educacional",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil.",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2023 - 2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": "Diretório Acadêmico",
+      "enquadramento": "2 Secretária",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil.",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2021 - 2023",
+      "ano_inicio": "2021",
+      "ano_fim": "2023",
+      "vinculo": "Diretório Acadêmico",
+      "enquadramento": "1ª Secretária",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2021 - Atual",
+      "ano_inicio": "2021",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [],
+  "projetos_extensao": [],
+  "projetos_desenvolvimento": [],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Matemática",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Matemática."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Educação",
+      "subarea": "Pedagogia",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Educação / Subárea: Pedagogia."
+    },
+    {
+      "grande_area": "Ciências Humanas",
+      "area": "Educação",
+      "subarea": "Magistério",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Humanas / Área: Educação / Subárea: Magistério."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Português",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    }
+  ],
+  "premios_titulos": [],
+  "linhas_de_pesquisa": [],
+  "producao_bibliografica": {
+    "artigos_periodicos": [],
+    "livros_publicados": [],
+    "capitulos_livros": [],
+    "trabalhos_completos_congressos": [],
+    "resumos_expandidos": [],
+    "resumos_congressos": [],
+    "artigos_aceitos": [],
+    "apresentacoes_trabalhos": [],
+    "textos_jornais": [],
+    "outras_producoes": []
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "Acolhida 2023/01",
+        "apresentacao": "Acolhida 202301",
+        "ano": 2023,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "acolhida 2023 01",
+        "evento_serie": "acolhida 2023 01",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Programa Residência Pedagógica (PRP)",
+        "apresentacao": "Programa Residência Pedagógica (PRP)",
+        "ano": 2023,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "prp",
+        "evento_serie": "prp",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "II Colóquio de Matemática do Pampa",
+        "apresentacao": "II Colóquio de Matemática do Pampa",
+        "ano": 2022,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "coloquio de matematica do pampa",
+        "evento_serie": "coloquio de matematica do pampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Programa Residência Pedagógica (PRP)",
+        "apresentacao": "Programa Residência Pedagógica (PRP)",
+        "ano": 2022,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "prp",
+        "evento_serie": "prp",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Semana Acadêmica Integrada do Campus Bagé 2022/1",
+        "apresentacao": "Semana Acadêmica Integrada do Campus Bagé 2022/1",
+        "ano": 2022,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "semana academica integrada do campus bage 2022 1",
+        "evento_serie": "semana academica integrada do campus bage 2022 1",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "A Gamificação no Processo de Ensino e Aprendizagem de Matemática",
+        "apresentacao": "",
+        "ano": 2021,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "a gamificacao no processo de ensino e aprendizagem de matematica",
+        "evento_serie": "a gamificacao no processo de ensino e aprendizagem de matematica",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "I Colóquio de Matemática do Pampa",
+        "apresentacao": "I Colóquio de Matemática do Pampa",
+        "ano": 2021,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "coloquio de matematica do pampa",
+        "evento_serie": "coloquio de matematica do pampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Relato de Experiência de Alunos do Curso",
+        "apresentacao": "",
+        "ano": 2021,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "relato de experiencia de alunos do curso",
+        "evento_serie": "relato de experiencia de alunos do curso",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Semana Acadêmica Integrada do Campus Bagé 2021/1",
+        "apresentacao": "Semana Acadêmica Integrada do Campus Bagé 2021/1",
+        "ano": 2021,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "semana academica integrada do campus bage 2021 1",
+        "evento_serie": "semana academica integrada do campus bage 2021 1",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "PIBID - Projeto Institucional",
+        "apresentacao": "PIBID - Projeto Institucional",
+        "ano": 2019,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "pibid projeto institucional",
+        "evento_serie": "pibid projeto institucional",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Projeto de Ensino Geometria Analítica com o GeoGebra",
+        "apresentacao": ".Projeto de Ensino Geometria Analítica com o GeoGebra.",
+        "ano": 2019,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "projeto de ensino geometria analitica com o geogebra",
+        "evento_serie": "projeto de ensino geometria analitica com o geogebra",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Semana Acadêmica Integrada do Campus Bagé 2019/01",
+        "apresentacao": "Semana Acadêmica Integrada do Campus Bagé 2019/01",
+        "ano": 2019,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "semana academica integrada do campus bage 2019 01",
+        "evento_serie": "semana academica integrada do campus bage 2019 01",
+        "evento_nome_canonico": ""
+      }
+    ],
+    "organizacoes": []
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [],
+    "outras": []
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 0,
+    "total_livros": 0,
+    "total_capitulos": 0,
+    "total_trabalhos_congressos": 0,
+    "total_projetos_pesquisa": 0,
+    "total_projetos_extensao": 0,
+    "total_projetos_desenvolvimento": 0,
+    "total_orientacoes_concluidas": 0,
+    "total_orientacoes_andamento": 0
+  }
+}

@@ -1,0 +1,97 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>Grupo de pesquisa em Modelagem e Análise de Dados</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>Grupo de pesquisa em Modelagem e Análise de Dados</h2></div>
+    <link href="css/tabulator_site.min.css" rel="stylesheet" />
+    <link href="css/tabulator-scriplattes.css" rel="stylesheet" />
+    <script src="js/tabulator.min.js"></script>
+    <script src="js/xlsx.full.min.js"></script>
+    
+    <style>
+    /* ellipsis em todas as células */
+    #tabela-publicacoes .tabulator-cell {
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+    </style>
+    
+    <h3>Apresentações de trabalho</h3><br>
+    
+        <div id="grafico-producoes" style="width:100%; margin:1em auto;"></div>
+        <!-- script src="https://code.highcharts.com/highcharts.js"></script -->
+        <script src="./js/highcharts.js"></script>
+        <script>
+          document.addEventListener('DOMContentLoaded', function () {
+            Highcharts.chart('grafico-producoes', {"chart": {"type": "column", "height": 250}, "title": {"text": ""}, "xAxis": {"categories": ["2005", "2006", "2007", "2008", "2009", "2010", "2012", "2013", "2014", "2015", "2016", "2022", "2023", "2024", "2025"], "type": "category"}, "yAxis": {"title": {"text": "Quantidade"}}, "legend": {"enabled": false}, "plotOptions": {"column": {"color": "#4A4A4A", "borderRadius": 2, "pointPadding": 0.1, "groupPadding": 0.1}}, "series": [{"name": "Total", "data": [3, 3, 3, 2, 3, 4, 2, 4, 3, 3, 1, 2, 1, 4, 7]}], "credits": {"enabled": false}});
+          });
+        </script>
+        
+    Número total de itens: 45<br>
+    
+    
+    <div class="sl-controls" style="margin-top:.5rem">
+      <button id="pubs-csv">⬇️ CSV</button>
+      <button id="pubs-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-publicacoes" class="sl-tabela"></div>
+    
+    <script>
+    const DATA = [{"ano": 2025, "autores": "BLASS, L.; BIDART, A. O. P. ; SANTOS, F.J. ; SACARDI, S. H.", "titulo": "APLICAÇÃO DE UMA OFICINA COM APLICATIVO MOBILE: UMA PROPOSTA PARA O ENSINO DE FUNÇÕES QUADRÁTICAS", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2025, "autores": "BLASS, L.; COELHO, T. G. ; IRALA, V. B.", "titulo": "APRENDER JOGANDO: PERCEPÇÕES DE LICENCIANDOS SOBRE GAMIFICAÇÃO EM UMA OFICINA PEDAGÓGICA", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2025, "autores": "BLASS, L.; PEREIRA, P. F. ; IRALA, V. B.", "titulo": "Engajamento estudantil na sala de aula invertida: primeiras análises de um estudo de caso no ensino superior", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2025, "autores": "BLASS, L.; RHODEN, A. C.", "titulo": "Mapas mentais colaborativos integrados à Sala de Aula Invertida: conectando préaula e interação presencial", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2025, "autores": "BLASS, L.; RHODEN, A. C. ; ANA MARIA DE OLIVEIRA PEREIRA", "titulo": "Tecnologias digitais na formação docente: o olhar de futuros professores", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2025, "autores": "BLASS, L.; ROSA, P. V. ; IRALA, V. B.", "titulo": "Avaliação formativa com rubricas: contribuições para a aprendizagem autônoma e reflexiva", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2025, "autores": "MORALES, L. S. ; BLASS, L. ; IRALA, V. B.", "titulo": "PERCEPÇÕES DE ESTUDANTES E PROFESSORES SOBRE A APRENDIZAGEM BASEADA EM EQUIPES A PARTIR DE UMA OFICINA", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2024, "autores": "BLASS, L", "titulo": "REFLEXÕES SOBRE O USO DA SALA DE AULA INVERTIDA E O ENGAJAMENTO ESTUDANTIL", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2024, "autores": "BLASS, L", "titulo": "DESEMPENHO ACADÊMICO EM CURSOS PRESENCIAIS: UM ESTUDO COMPARATIVO ANTES E DURANTE A PANDEMIA DA COVID-19", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2024, "autores": "BLASS, LEANDRO; GOERGEN, G. ; BIHAIN, A. L. J. ; VAZ, F. A. ; SILVA, E. J. G.", "titulo": "COMO PROFESSORES CURSISTAS AVALIAM O ENSINO A DISTÂNCIA: UMA ANÁLISE A PARTIR DE UM CURSO DE ESPECIALIZAÇÃO EM MATEMÁTICA", "natureza": "Apresentação de Trabalho/Outra"}, {"ano": 2024, "autores": "TOIO, F. ; GOERGEN, G. ; BLASS, L. ; L. J. BIHAIN, ANDERSON", "titulo": "DESENVOLVIMENTO DE UM DASHBOARD INTERATIVO PARA ANÁLISE SOCIOECONÔMICA COMPARATIVA DE ALGUMAS CIDADES DO RIO GRANDE DO SUL", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2023, "autores": "BLASS, LEANDRO", "titulo": "SALA DE AULA INVERTIDA: OBJETIVOS E POSSIBILIDADES", "natureza": "Apresentação de Trabalho/Conferência ou palestra"}, {"ano": 2022, "autores": "GOERGEN, G", "titulo": "Minicurso: Criando documentos dinâmicos com o Rstudio", "natureza": "Apresentação de Trabalho/Outra"}, {"ano": 2022, "autores": "RAMOS, E. A. ; GOERGEN, G.", "titulo": "O QUE SE SABE SOBRE A EMPREGABILIDADE E A RENDA DOS EGRESSOS DO CURSO DE LICENCIATURA EM MATEMÁTICA DA UNIPAMPA ? CAMPUS BAGÉ?", "natureza": "Apresentação de Trabalho/Outra"}, {"ano": 2016, "autores": "Bihain, A. L. J.; SILVA, P. C. M. X. M. E. ; SILVA NETO, A. J. ; CAMARA, L. D. T.", "titulo": "Inverse stochastic routine combined to a stepwise modeling approach in the chromatographic column characterization applied to simulated moving bed-SMB separation of verapamil enantiomers", "natureza": "Apresentação de Trabalho/Conferência ou palestra"}, {"ano": 2015, "autores": "GOERGEN, G.; TATSCH, J. D.", "titulo": "Variabilidade hidroclimática e produtividade agrícola de arroz da Bacia Hidrográfica do Rio Negro - RS", "natureza": "Apresentação de Trabalho/Seminário"}, {"ano": 2015, "autores": "GOERGEN, G.; TATSCH, J. D. ; MENDOZA, F. R. T. ; VALDES, R. H. ; KANNEMBERG, C. ; PARCIANELLO, A. ; VALENTE, F. ; BOIASKI, N. T.", "titulo": "Variabilidade hidroclimática da Bacia Hidrográfica do Rio Negro: um estudo de caso para a porção brasileira", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2015, "autores": "GOERGEN, G.; TATSCH, J. D. ; VALDES, R. H. ; MENDOZA, F. R. T. ; VALENTE, F. ; KANNEMBERG, C. ; PARCIANELLO, A. ; BOIASKI, N. T.", "titulo": "Relação entre a produtividade agrícola de arroz e as variáveis hidroclimatológicas sobre a porção brasileira da Bacia do Rio Negro - RS", "natureza": "Apresentação de Trabalho/Outra"}, {"ano": 2014, "autores": "BIHAIN A. L. J.; CÂMARA, L. D. T. ; SILVA NETO, A. J.", "titulo": "O novo modelo Front Velocity aplicado na modelagem da separação de enantiômeros via processo Leito Móvel Simulado", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2014, "autores": "BIHAIN A. L. J.; CÂMARA, L. D. T. ; SILVA NETO, A. J.", "titulo": "The Front Velocity approach in the modelling of Simulated Moving Bed (SMB) processes", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2014, "autores": "GOERGEN, G", "titulo": "Análise de dados antropometricos de pessoas da terceira idade do município de Bagé/RS utilizando o software R", "natureza": "Apresentação de Trabalho/Simpósio"}, {"ano": 2013, "autores": "BIHAIN A. L. J.; CAMARA, L. D. T. ; SILVA NETO, A. J.", "titulo": "Uma nova abordagem para modelagem e simulação da separação dos enantiômeros do anestésico cetamina em Leito Móvel Simulado", "natureza": "Apresentação de Trabalho/Seminário"}, {"ano": 2013, "autores": "BLASS, L", "titulo": "Sociedade, Escola e Educação", "natureza": "Apresentação de Trabalho/Conferência ou palestra"}, {"ano": 2013, "autores": "BLASS, L.; VASCONCELLOS, J. F. V. ; PLATT, G. M.", "titulo": "ANÁLISE NUMÉRICA DA PRECIPITAÇÃO DE PARAFINAS EM DUTOS DE PETRÓLEO COM O MODELO TERMODINÂMICO MULTISOLID", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2013, "autores": "GOERGEN, G.; TATSCH, J. D. ; Moraes, M. R.", "titulo": "Estimativa da evapotranspiração potencial em Bagé-RS para aplicação no índice padronizado precipitação-evapotranspiração", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2012, "autores": "BIHAIN A. L. J.; ARAUJO, J. C. ; CAMARA, L. D. T. ; SILVA NETO, A. J.", "titulo": "ESTIMAÇÃO DA CINÉTICA DE TRANSFERÊNCIA DE MASSA NA SEPARAÇÃO DE CETAMINA EM LMS UTILIZANDO O TEMPO DE RESIDÊNCIA COMO PARÂMETRO DE AJUSTE", "natureza": "Apresentação de Trabalho/Seminário"}, {"ano": 2012, "autores": "BIHAIN A. L. J.; CAMARA, L. D. T. ; SILVA NETO, A. J.", "titulo": "Aplicação do Método R2W na Estimação de Parâmetros Cinéticos de Transferência de Massa em Colunas Cromatográficas para Separação de Glicose e Frutose", "natureza": "Apresentação de Trabalho/Simpósio"}, {"ano": 2010, "autores": "Bihain, A. L. J.; KHATCHATOURIAN, O. ; KWIATKOWSKI JUNIOR, J. E.", "titulo": "Dinâmica de secagem de grãos em camada fina: estudo teórico/experimental", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2010, "autores": "BLASS, L.; BORGES. P, A, P ; REIMBOLD. M, M, P ; SPECHT. L , P", "titulo": "MODELAGEM MATEMÁTICA DE RESPOSTAS ESTRUTURAIS EM PAVIMENTOS FLEXÍVEIS CONSIDERANDO A VARIAÇÃO SAZONAL DE TEMPERATURA", "natureza": "Apresentação de Trabalho/Seminário"}, {"ano": 2010, "autores": "BLASS, L.; BORGES. P, A, P ; SPECHT. L , P", "titulo": "Análise de degradação de pavimentos flexíveis considerando a variação sazonal de temperatura", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2010, "autores": "KWIATKOWSKI JUNIOR, J. E. ; KHATCHATOURIAN, O. ; Bihain, A. L. J.", "titulo": "Simulação e controle do sistema de aeração da massa de grãos de soja", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2009, "autores": "GOERGEN, G", "titulo": "Estimate of Evapotranspiration over the La Plata Basin Using Remote Sensing", "natureza": "Apresentação de Trabalho/Outra"}, {"ano": 2009, "autores": "GOERGEN, G.; ROBERTI, D. R. ; de Gonçalves, Luis Gustavo G", "titulo": "Estimativa da evapotranspiração sobre a bacia do Prata utilizando climatologia do IAF", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2009, "autores": "GOERGEN, G.; ROBERTI, D. R. ; de Gonçalves, Luis Gustavo G", "titulo": "Estimativa da evapotranspiração sobre a bacia do Prata", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2008, "autores": "GOERGEN, G.; FERRAZ, S. E. T. ; Roberta Goergen", "titulo": "Previsão de Temperatura e Precipitação Utilizando um Modelo Sarima", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2008, "autores": "GOERGEN, G.; ROBERTI, D. R.", "titulo": "Análise da evapotranspiração utilizando dados de sensoriamento remoto na equação de Penman-Monteith", "natureza": "Apresentação de Trabalho/Outra"}, {"ano": 2007, "autores": "Bihain, A. L. J.; OLIVEIRA, F. A. ; KHATCHATOURIAN, O.", "titulo": "Modelagem Matemática do Estado Térmico de Produtos Armazenados em Silos com Sistema de Aeração", "natureza": "Apresentação de Trabalho/Seminário"}, {"ano": 2007, "autores": "Bihain, A. L. J.; SILVA, L. ; DREWS, S. B. T.", "titulo": "O Uso da Tecnologia no Ensino da Matemática", "natureza": "Apresentação de Trabalho/Outra"}, {"ano": 2007, "autores": "GOERGEN, G.; ROBERTI, D. R. ; Paulo Ricardo Jauer", "titulo": "Determinação de Fontes de Poluição na Atmosfera Utilizando Algoritmo Genético", "natureza": "Apresentação de Trabalho/Outra"}, {"ano": 2006, "autores": "Bihain, A. L. J.; KHATCHATOURIAN, O. ; OLIVEIRA, F. A.", "titulo": "Modelos Matemáticos e Otimização dos Processos de Secagem de Grãos", "natureza": "Apresentação de Trabalho/Seminário"}, {"ano": 2006, "autores": "GOERGEN, G", "titulo": "Implementação do Método de Otimização Algoritmo Genético", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2006, "autores": "GOERGEN, G", "titulo": "Um Modelo Presa-Predador com Efeito Allee Fraco para uma População de Presas", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2005, "autores": "Bihain, A. L. J.; KHATCHATOURIAN, O. ; OLIVEIRA, F. A.", "titulo": "MODELAGEM MATEMÁTICA DO ESTADO TÉRMICO DE PRODUTOS ARMAZENADOS EM SILOS COM SISTEMAS DE AERAÇÃO", "natureza": "Apresentação de Trabalho/Seminário"}, {"ano": 2005, "autores": "GOERGEN, G.; Roberta Goergen", "titulo": "Oficina Permanente de Matemática - Histórico", "natureza": "Apresentação de Trabalho/Congresso"}, {"ano": 2005, "autores": "GOERGEN, G.; Roberta Goergen", "titulo": "Oficina Permanente de Matemática - Versão IV", "natureza": "Apresentação de Trabalho/Congresso"}];
+    const COLUMNS = [{"title": "Ano", "field": "ano", "hozAlign": "center", "sorter": "number", "headerFilter": "input", "headerFilterParams": {"values": true}, "width": 110, "formatter": "fmtAno", "tooltip": true, "resizable": true, "widthGrow": 0}, {"title": "Autores", "field": "autores", "hozAlign": "left", "sorter": "string", "headerFilter": "input", "tooltip": true, "resizable": true, "minWidth": 200, "widthGrow": 2}, {"title": "Título", "field": "titulo", "hozAlign": "left", "sorter": "string", "headerFilter": "input", "tooltip": true, "resizable": true, "minWidth": 200, "widthGrow": 2}, {"title": "Natureza", "field": "natureza", "hozAlign": "left", "sorter": "string", "headerFilter": "input", "tooltip": true, "resizable": true, "minWidth": 200, "widthGrow": 2}];
+    
+    const LANG_PT = {
+      "pt-br": {
+        "pagination": {
+          "first":"«","first_title":"Primeira",
+          "last":"»","last_title":"Última",
+          "prev":"‹","prev_title":"Anterior",
+          "next":"›","next_title":"Próxima"
+        },
+        "headerFilters": { "default":"⎯ Filtrar ⎯" }
+      }
+    };
+    
+    // Ano: mostra "—" quando 0
+    function fmtAno(cell) {
+      const v = cell.getValue() || 0;
+      return v === 0 ? "—" : v;
+    }
+    
+    // DOI → link clicável (aceita "10.xxxx/..." ou "doi:10...." ou já com http/https)
+    function fmtDOI(cell) {
+      let v = cell.getValue();
+      if (!v) return "";
+      v = String(v).trim();
+      let href = v;
+      if (!/^https?:/i.test(v)) {
+        v = v.replace(/^doi:\s*/i, "");
+        href = "https://doi.org/" + v;
+      }
+      const esc = (t) => String(t).replace(/[&<>"']/g, m => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"})[m]);
+      return `<a href="${esc(href)}" target="_blank" rel="noopener">${esc(v)}</a>`;
+    }
+    
+    // aplica formatter customizado quando marcado como "fmtDOI" em Python
+    COLUMNS.forEach(col => {
+      if (col.formatter === "fmtDOI") col.formatter = fmtDOI;
+    });
+    
+    document.addEventListener("DOMContentLoaded", function(){
+      const table = new Tabulator("#tabela-publicacoes", {
+        data: DATA,
+        layout: "fitColumns",
+        height: (DATA.length < 30 ? "45vh" : "70vh"),
+        responsiveLayout: "collapse",
+        pagination: "local",
+        paginationSize: 100,
+        paginationSizeSelector: [50, 100, 200, 500, 1000],
+        movableColumns: true,
+        headerFilterLiveFilter: true,
+        columns: COLUMNS,
+        locale: true, langs: LANG_PT, locale: "pt-br",
+      });
+    
+      document.getElementById("pubs-csv").onclick  = () => table.download("csv",  "publicacoes.csv",  { bom:true });
+      document.getElementById("pubs-xlsx").onclick = () => table.download("xlsx", "publicacoes.xlsx", { sheetName:"Publicações" });
+    });
+    </script>
+    <br><p><br>(*) Relatório criado com produções desde 1990 até hoje
+<br>Data de processamento: 20/10/2026 10:39:15<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V.2025.09</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:"></a>         </div> </body></html>

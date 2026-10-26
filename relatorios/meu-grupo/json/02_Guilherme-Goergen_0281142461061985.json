@@ -1,0 +1,3194 @@
+{
+  "informacoes_pessoais": {
+    "id_lattes": "0281142461061985",
+    "nome_completo": "Guilherme Goergen",
+    "nome_citacoes": "GOERGEN, G.;GOERGEN, GUILHERME",
+    "sexo": "Masculino",
+    "rotulo": "* Sem rótulo",
+    "periodo": "",
+    "bolsa_produtividade": "",
+    "endereco_profissional": "Universidade Federal de Santa Maria, Centro de Ciências Naturais e Exatas. Av. Roraima nº 1000 Camobi 96413170 - Santa Maria, RS - Brasil Telefone: (55) 32208000",
+    "atualizacao_cv": "08/10/2026",
+    "url": "http://lattes.cnpq.br/0281142461061985",
+    "texto_resumo": "Professor adjunto da Universidade Federal do Pampa, graduado em Matemática Bacharelado, mestre e doutor em Meteorologia pela Universidade Federal de Santa Maria. Tem interesse nas áreas de Matemática Aplicada, Micrometeorologia, Fundamentos de Probabilidade e Modelos Estatísticos. Trabalha com modelagem computacional dos processos físicos da dinâmica da atmosférica e temas relacionados a Equações Diferenciais, Modelos Dinâmicos, Problemas Inversos e Modelos de Interação Superfície-Atmosfera. Foi bolsista do Programa de Educação Tutorial e das agências de fomento CNPQ e CAPES. (Texto informado pelo autor)"
+  },
+  "formacao_academica": [
+    {
+      "tipo": "Doutorado em Meteorologia",
+      "nome_instituicao": "Universidade Federal de Santa Maria, UFSM, Brasil",
+      "ano_inicio": "2015",
+      "ano_conclusao": "2018",
+      "descricao": "Título: CALIBRAÇÃO DE UM MODELO DE SUPERFÍCIE APLICADO AO BIOMA PAMPA O Portal Brasileiro de Publicações e Dados Científicos em Acesso Aberto (Oasisbr) é uma iniciativa do Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) que reúne a produção científica e os dados de pesquisa em acesso aberto, publicados em revistas científicas, repositórios digitais de publicações científicas, repositórios digitais de dados de pesquisa e bibliotecas digitais de teses e dissertações. , Ano de obtenção: 2018. Orientador: Gervásio Annes Degrazia."
+    },
+    {
+      "tipo": "Mestrado em Meteorologia",
+      "nome_instituicao": "Universidade Federal de Santa Maria, UFSM, Brasil",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2010",
+      "descricao": "Título: Utilização do Índice de Área Foliar obtido por sensoriamento remoto para a estimativa da evapotranspiração na Bacia do Prata, Ano de Obtenção: 2010. Orientador: Débora Regina Roberti. Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil. Palavras-chave: evapotranspiração; Sensoriamento remoto. Grande área: Ciências Exatas e da Terra / Área: Física / Subárea: Meteorologia."
+    },
+    {
+      "tipo": "Graduação interrompida em 2010 em Meteorologia Bacharelado",
+      "nome_instituicao": "Universidade Federal de Santa Maria, UFSM, Brasil",
+      "ano_inicio": "2008 interrompida",
+      "ano_conclusao": "",
+      "descricao": "Ano de interrupção: 2010"
+    },
+    {
+      "tipo": "Graduação em Matemática Bacharelado",
+      "nome_instituicao": "Universidade Federal de Santa Maria, UFSM, Brasil",
+      "ano_inicio": "2004",
+      "ano_conclusao": "2008",
+      "descricao": "Bolsista do(a): Coordenação de Aperfeiçoamento de Pessoal de Nível Superior, CAPES, Brasil."
+    },
+    {
+      "tipo": "Curso técnico/profissionalizante em Técnico em Mecânica",
+      "nome_instituicao": "Universidade Federal de Santa Maria, UFSM, Brasil",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2007",
+      "descricao": ""
+    },
+    {
+      "tipo": "Curso técnico/profissionalizante em Técnico em Administração",
+      "nome_instituicao": "Instituto Estadual de Educação Cardeal Pacelli, IEECP, Brasil",
+      "ano_inicio": "2002",
+      "ano_conclusao": "2002",
+      "descricao": ""
+    },
+    {
+      "tipo": "Curso técnico/profissionalizante",
+      "nome_instituicao": "SENAI - Departamento Regional do Rio Grande do Sul, SENAI/DR/RS, Brasil",
+      "ano_inicio": "1999",
+      "ano_conclusao": "2000",
+      "descricao": ""
+    },
+    {
+      "tipo": "Curso técnico/profissionalizante em Básico em Usinagem de Madeiras",
+      "nome_instituicao": "SENAI - Departamento Regional do Rio Grande do Sul, SENAI/DR/RS, Brasil",
+      "ano_inicio": "1998",
+      "ano_conclusao": "1999",
+      "descricao": ""
+    }
+  ],
+  "atuacao_profissional": [
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil.",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2012 - Atual",
+      "ano_inicio": "2012",
+      "ano_fim": "Atual",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Professor Adjunto",
+      "regime": "Dedicação exclusiva",
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil.",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2024 - 2025",
+      "ano_inicio": "2024",
+      "ano_fim": "2025",
+      "vinculo": "Bolsista",
+      "enquadramento": "Tutor em EaD",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": null,
+      "ano_inicio": null,
+      "ano_fim": null,
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil.",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2011 - 2012",
+      "ano_inicio": "2011",
+      "ano_fim": "2012",
+      "vinculo": "Colaborador",
+      "enquadramento": "Colaborador em Projeto de Pesquisa",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil.",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "2010 - 2012",
+      "ano_inicio": "2010",
+      "ano_fim": "2012",
+      "vinculo": "Servidor Público",
+      "enquadramento": "Técnico Administrativo em Educação",
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Campus Bagé."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2025 - Atual",
+      "ano_inicio": "2025",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Campus Bagé."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2023 - Atual",
+      "ano_inicio": "2023",
+      "ano_fim": "Atual",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Campus Bagé."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2024 - 03/2026",
+      "ano_inicio": "2024",
+      "ano_fim": "2026",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Campus Bagé."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2023 - 03/2025",
+      "ano_inicio": "2023",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Campus Bagé."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2023 - 03/2025",
+      "ano_inicio": "2023",
+      "ano_fim": "2025",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Campus Bagé."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2023 - 12/2023",
+      "ano_inicio": "2023",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2022 - 02/2023",
+      "ano_inicio": "2022",
+      "ano_fim": "2023",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "04/2022 - 08/2022",
+      "ano_inicio": "2022",
+      "ano_fim": "2022",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "02/2021 - 06/2021",
+      "ano_inicio": "2021",
+      "ano_fim": "2021",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2020 - 12/2020",
+      "ano_inicio": "2020",
+      "ano_fim": "2020",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "08/2019 - 12/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2019 - 07/2019",
+      "ano_inicio": "2019",
+      "ano_fim": "2019",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2014 - 03/2015",
+      "ano_inicio": "2014",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Campus Bagé."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2014 - 01/2015",
+      "ano_inicio": "2014",
+      "ano_fim": "2015",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional",
+      "atividades": [
+        "Conselhos, Comissões e Consultoria, Campus Bagé."
+      ]
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "09/2014 - 12/2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "03/2014 - 12/2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "05/2014 - 09/2014",
+      "ano_inicio": "2014",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "11/2013 - 03/2014",
+      "ano_inicio": "2013",
+      "ano_fim": "2014",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "06/2013 - 10/2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "01/2013 - 05/2013",
+      "ano_inicio": "2013",
+      "ano_fim": "2013",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    },
+    {
+      "instituicao": "Universidade Federal do Pampa, UNIPAMPA, Brasil",
+      "instituicao_nome": "Universidade Federal do Pampa",
+      "instituicao_sigla": "UNIPAMPA",
+      "instituicao_pais": "Brasil",
+      "periodo": "07/2012 - 12/2012",
+      "ano_inicio": "2012",
+      "ano_fim": "2012",
+      "vinculo": null,
+      "enquadramento": null,
+      "regime": null,
+      "cargo_funcao": null,
+      "tipo": "Atuação profissional"
+    }
+  ],
+  "projetos_pesquisa": [
+    {
+      "nome": "Análise do desempenho matemático no Brasil: modelagem estatística multinível baseada nos microdados da OBMEP",
+      "ano_inicio": "2026",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: Este projeto de pesquisa propõe uma análise estatística avançada do desempenho matemático no Brasil utilizando microdados da OBMEP integrados ao Censo Escolar (INEP), dados do IBGE e do INEP. O objetivo principal é modelar os fatores associados às notas da 2a fase da competição, decompondo a variância do desempenho entre níveis individuais, escolares e municipais. A metodologia quantitativa utiliza o software R para aplicar modelos lineares multiníveis e análise espacial. O foco reside na identificação de \"clusters de excelência\" em microrregiões fora das capitais e no mapeamento da resiliência educacional. Além de mensurar o impacto do nível socioeconômico e da infraestrutura escolar, a pesquisa investiga desigualdades de gênero e geográficas. Os resultados esperados incluem uma estimativa precisa do peso de indicadores socioeconômicos versus a qualidade escolar no sucesso do aluno. Por fim, busca-se subsidiar políticas públicas mais equitativas e promover a produção científica na área de inteligência educacional.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Guilherme Goergen - Coordenador / Anderson Luis Jeske Bihain - Integrante / Francieli Aprecida Vaz - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Francieli Aprecida Vaz",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Prospecção nutricional e metabolômica da carne bovina produzida em sistemas pecuários modais do Rio Grande do Sul e seus potenciais impactos na saúde humana",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O projeto propõe uma abordagem inovadora para a prospecção nutricional e metabolômica da carne bovina produzida em sistemas pecuáriosmodais do Rio Grande do Sul, utilizando inteligência computacional e aprendizado de máquina. A iniciativa busca estabelecer vínculos entreos sistemas de produção, o perfil nutricional das carnes e seu impacto na saúde humana, considerando as necessidades nutricionais diárias eo potencial de agregação de valor aos produtos gaúchos. Com foco na sustentabilidade e eficiência, serão analisados fatores como tipo dealimentação, raça, emissões de gases de efeito estufa e características físico-químicas das carnes.Este projeto integra uma iniciativa maiorcoordenada pela Embrapa, responsável pela coleta de dados e análises laboratoriais. A equipe da UNIPAMPA atuará no armazenamento,organização e tratamento dos dados gerados, garantindo sua integridade e acessibilidade para análises futuras. O foco será a construção deum banco de dados estruturado e o desenvolvimento de metodologias analíticas baseadas em inteligência computacional, visando modelar eidentificar padrões nos perfis nutricionais e metabolômicos das carnes.A equipe utilizará ferramentas avançadas de ciência de dados,aprendizado de máquina e modelagem estatística para processar e interpretar as informações coletadas. Além disso, será desenvolvida umainterface gráfica interativa para permitir a visualização e consulta dinâmica dos dados, facilitando o acesso por pesquisadores e demaisinteressados.Entre os principais resultados esperados estão a criação de um banco de dados robusto com informações estruturadas, aaplicação de inteligência computacional para identificar padrões nutricionais e metabolômicos e o suporte à valorização da carne bovinagaúcha. Esses resultados poderão subsidiar políticas públicas, promover sistemas produtivos mais eficientes e sustentáveis e ampliar oconhecimento sobre a relação entre sistemas de produção e qualidade nutricional das carnes. A disseminação dos dados será realizada pormeio de capacitações, publicações científicas e estratégias de comunicação voltadas para produtores, consumidores e tomadores de decisão.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Guilherme Goergen - Integrante / Leandro Blass - Integrante / Everson Jonatha Gomes da Silva - Integrante / Anderson Luis Jeske Bihain - Coordenador / Elen Silveira Nalério - Integrante.",
+        "Descrição: O projeto propõe uma abordagem inovadora para a prospecção nutricional e metabolômica da carne bovina produzida em sistemas pecuários modais do Rio Grande do Sul, utilizando inteligência computacional e aprendizado de máquina. A iniciativa busca estabelecer vínculos entre os sistemas de produção, o perfil nutricional das carnes e seu impacto na saúde humana, considerando as necessidades nutricionais diárias e o potencial de agregação de valor aos produtos gaúchos. Com foco na sustentabilidade e eficiência, serão analisados fatores como tipo de alimentação, raça, emissões de gases de efeito estufa e características físico-químicas das carnes.Este projeto integra uma iniciativa maior coordenada pela Embrapa, responsável pela coleta de dados e análises laboratoriais. A equipe da UNIPAMPA atuará no armazenamento, organização e tratamento dos dados gerados, garantindo sua integridade e acessibilidade para análises futuras. O foco será a construção de um banco de dados estruturado e o desenvolvimento de metodologias analíticas baseadas em inteligência computacional, visando modelar e identificar padrões nos perfis nutricionais e metabolômicos das carnes.A equipe utilizará ferramentas avançadas de ciência de dados, aprendizado de máquina e modelagem estatística para processar e interpretar as informações coletadas. Além disso, será desenvolvida uma interface gráfica interativa para permitir a visualização e consulta dinâmica dos dados, facilitando o acesso por pesquisadores e demais interessados.Entre os principais resultados esperados estão a criação de um banco de dados robusto com informações estruturadas, a aplicação de inteligência computacional para identificar padrões nutricionais e metabolômicos e o suporte à valorização da carne bovina gaúcha. Esses resultados poderão subsidiar políticas públicas, promover sistemas produtivos mais eficientes e sustentáveis e ampliar o conhecimento sobre a relação entre sistemas de produção e qualidade nutricional das carnes. A disseminação dos dados será realizada por meio de capacitações, publicações científicas e estratégias de comunicação voltadas para produtores, consumidores e tomadores de decisão..Situação: Em andamento; Natureza: Pesquisa.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Everson Jonatha Gomes da Silva - Integrante / Leandro Blass - Integrante / Guilherme Goergen - Integrante / Anderson Luis Jeske Bihain - Coordenador. Financiador(es): FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL - Auxílio financeiro.",
+        "Descrição: O projeto propõe uma abordagem inovadora para a prospecção nutricional e metabolômica da carne bovina produzida em sistemas pecuários modais do Rio Grande do Sul, utilizando inteligência computacional e aprendizado de máquina. A iniciativa busca estabelecer vínculos entre os sistemas de produção, o perfil nutricional das carnes e seu impacto na saúde humana, considerando as necessidades nutricionais diárias e o potencial de agregação de valor aos produtos gaúchos. Com foco na sustentabilidade e eficiência, serão analisados fatores como tipo de alimentação, raça, emissões de gases de efeito estufa e características físico-químicas das carnes.Este projeto integra uma iniciativa maior coordenada pela Embrapa, responsável pela coleta de dados e análises laboratoriais. A equipe da UNIPAMPA atuará no armazenamento, organização e tratamento dos dados gerados, garantindo sua integridade e acessibilidade para análises futuras. O foco será a construção de um banco de dados estruturado e o desenvolvimento de metodologias analíticas baseadas em inteligência computacional, visando modelar e identificar padrões nos perfis nutricionais e metabolômicos das carnes.A equipe utilizará ferramentas avançadas de ciência de dados, aprendizado de máquina e modelagem estatística para processar e interpretar as informações coletadas. Além disso, será desenvolvida uma interface gráfica interativa para permitir a visualização e consulta dinâmica dos dados, facilitando o acesso por pesquisadores e demais interessados.Entre os principais resultados esperados estão a criação de um banco de dados robusto com informações estruturadas, a aplicação de inteligência computacional para identificar padrões nutricionais e metabolômicos e o suporte à valorização da carne bovina gaúcha. Esses resultados poderão subsidiar políticas públicas, promover sistemas produtivos mais eficientes e sustentáveis e ampliar o conhecimento sobre a relação entre sistemas de produção e qualidade nutricional das carnes. A disseminação dos dados será realizada por meio de capacitações, publicações científicas e estratégias de comunicação voltadas para produtores, consumidores e tomadores de decisão.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Anderson Luis Jeske Bihain - Coordenador / Leandro Blass - Integrante / Everson Jonatha Gomes da Silva - Integrante / Guilherme Goergen - Integrante. Financiador(es): FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leandro Blass",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Elen Silveira Nalério",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Biomassa: Situação Atual e Perspectivas para o Rio Grande do Sul",
+      "ano_inicio": "2025",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O Rio Grande do Sul é o 4 no ranking de estados produtores agrícolas e no ano de 2024, o estado produziu aproximadamente 34,6 milhões de toneladas de grãos, com maior produção de soja, seguida de arroz em casca, este último liderado pelos municípios de Dom Pedrito e Bagé, na região da Campanha, área de estudo deste projeto. Além de grãos, o estado é o quarto no cultivo de florestas. A área plantada de eucalipto representou 63,3 dos plantios no estado, totalizando cerca de 617 mil hectares, o pinus representou 29,5, com 287 mil hectares, enquanto a acácia-negra ocupou 6,9 da área de florestas plantadas, totalizando 67 mil hectares. Na região da Campanha, as maiores áreas plantadas são de eucalipto e acácia negra, localizadas nos municípios de Pinheiro Machado (10.524 e 2.268 ha) e Bagé (9.961 e 2.263 ha). O volume total das principais biomassas regionais geram grande quantidade de resíduos, os quais podem ter potencial energético significativo bem como para a carboquímica e no desenvolvimento de novos materiais. Dentro deste contexto, esse projeto tem por objetivo usar os resíduos das principais biomassas da região da Campanha como matérias primas nos processos de gaseificação e pirólise, com aproveitamento da infraestrutura existente no Laboratório de Energia e Carboquímica, da Unipampa. Para isso deverá ser atualizado o panorama de biomassas regional, adaptar os reatores de gaseificação e pirólise para o uso com biomassa em substituição ao carvão mineral, analisar todos os produtos gerados, syngas e licor amoniacal por cromatografia e biochar por diferentes análises físico químicas, e por fim, analisar a potencialidade dos produtos gerados, na produção de novos materiais e/ou produtos químicos. O resultado esperado com este projeto é a identificação dos produtos formados usando as tecnologias de gaseificação e pirólise e seus potenciais usos no desenvolvimento de novos materiais e também para a carboquímica.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Guilherme Goergen - Integrante / Ana Rosa Costa Muniz - Coordenador / Andre Ricardo Felkl de Almeida - Integrante / Ayala Goncalves do Couto - Integrante / Gabriela Silveira da Rosa - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ana Rosa Costa Muniz",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Andre Ricardo Felkl de Almeida",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ayala Goncalves do Couto",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gabriela Silveira da Rosa",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Estudo micrometeorológico e medidas de gases de efeito estufa no Bioma Pampa: conexões com eventos climáticos extremos",
+      "ano_inicio": "2024",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: O aumento progressivo da concentração de gases de efeito estufa (GEE) na atmosfera constitui a principal causa das mudanças climáticas. Os eventos extremos de temperatura e precipitação, bem como o aumento global da temperatura, observada nos últimos anos, são uma consequência direta das mudanças atuais do Clima. A redução das emissões de GEE e a implementação de medidas de mitigação das mudanças climáticas são vitais para o enfrentamento das questões relacionadas ao aumento da temperatura global e na preservação dos ecossistemas do planeta. Portanto, a identificação e a descrição dos processos de absorção e emissão de GEE nos ecossistemas terrestres são importantes na determinação do potencial de sumidouro de carbono. O conhecimento dos processos físicos de troca, ocorrendo nos ecossistemas permite estabelecer a utilização sustentável destes ambientes. Para caracterizar o papel de cada ecossistema no âmbito das políticas climáticas e dos mercados de carbono é fundamental o emprego de uma metodologia que permita realizar uma quantificação da captura de carbono. O Laboratório de Micrometeorologia da Universidade Federal de Santa Maria possui experiência em atividades gerais de pesquisa, na formação de recursos humanos e no monitoramento das trocas de GEE por utilizar a técnica de covariância dos vórtices (EC; Eddy Covariance). Esta técnica de análise, juntamente com as torres de fluxo, representa uma metodologia robusta para estimar os fluxos de CO2, vapor dágua entre os ecossistemas e a atmosfera. Como consequência, o presente projeto empregará um conjunto de dados de torres de fluxo e a metodologia de EC para dar continuidade e uma maior amplitude nas atividades de monitoramento e quantificação das trocas de GEE (CO2 e H2O) no Bioma Pampa do Rio Grande do Sul. Adicionalmente, pretende-se investigar a influência de eventos extremos de temperatura e precipitação (excesso ou falta de chuva) nos processos de trocas de GEE e, da mesma forma, a resiliência deste Bioma frente a cenários envolvendo condições meteorológicas extremas. Compreender as dinâmicas que controlam as trocas turbulentas e de GEE no Bioma Pampa é essencial para elaborar estratégias de redução dos GEE e para entender, de modo mais completo como a mitigação destes gases influência o meio ambiente.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) . Integrantes: Guilherme Goergen - Coordenador / Nathalie Tissot Boiaski - Integrante / Degrazia, Gervásio Annes - Integrante / Otávio Acevedo - Integrante / Ernani de Lima Nascimento - Integrante / Michel Baptistella Stefanello - Integrante / Franciano Scremin Puhales - Integrante / Daniel Caetano Santos - Integrante. Financiador(es): FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Nathalie Tissot Boiaski",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Degrazia, Gervásio Annes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Otávio Acevedo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ernani de Lima Nascimento",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Michel Baptistella Stefanello",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Franciano Scremin Puhales",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Daniel Caetano Santos",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Matemática e suas aplicações: um olhar para a Ciência de Dados",
+      "ano_inicio": "2023",
+      "ano_conclusao": "Atual",
+      "descricao": [
+        "Descrição: A CD é uma área multidisciplinar e contribui para a inovação em diferentes segmentos, tendo a matemática como uma competência fundamental para o seu desenvolvimento, pois conhecimentos nas áreas de probabilidade e estatística, álgebra linear, cálculo multivariável são a base para o desenvolvimento de algoritmos de aprendizado de máquina e para a realização de análises dos dados. Neste projeto, busca-se investigar as principais áreas da Ciência de Dados e identiﬁcar os tópicos matemáticos recorrentes, além de oportunizar o desenvolvimento da pesquisa no âmbito da Matemática Aplicada, bem como o contato de discentes com linguagens de programação modernas e com a pesquisa acadêmica. Com isso, neste projeto, propõe-se uma pesquisa exploratória onde será realizada uma revisão sistemática do tema e estudos de caso aplicados a métodos identiﬁcados na parte inicial da pesquisa. Assim, espera-se alcançar o domínio dos modelos computacionais e a compreensão avançada dos conceitos matemáticos envolvidos.. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Guilherme Goergen - Integrante / Leandro Blass - Integrante / Anderson Luis Jeske Bihain - Integrante / Everson Jonatha Gomes da Silva - Coordenador.",
+        "Descrição: A CD é uma área multidisciplinar e contribui para a inovação em diferentes segmentos, tendo a matemática como uma competência fundamental para o seu desenvolvimento, pois conhecimentos nas áreas de probabilidade e estatística, álgebra linear, cálculo multivariável são a base para o desenvolvimento de algoritmos de aprendizado de máquina e para a realização de análises dos dados. Neste projeto, busca-se investigar as principais áreas da Ciência de Dados e identificar os tópicos matemáticos recorrentes, além de oportunizar o desenvolvimento da pesquisa no âmbito da Matemática Aplicada, bem como o contato de discentes com linguagens de programação modernas e com a pesquisa acadêmica. Com isso, neste projeto, propõe-se uma pesquisa exploratória onde será realizada uma revisão sistemática do tema e estudos de caso aplicados a métodos identificados na parte inicial da pesquisa. Assim, espera-se alcançar o domínio dos modelos computacionais e a compreensão avançada dos conceitos matemáticos envolvidos.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Everson Jonatha Gomes da Silva - Coordenador / Guilherme Goergen - Integrante / BLASS, LEANDRO - Integrante / BIHAIN, ANDERSON L. J. - Integrante.",
+        "Descrição: A CD é uma área multidisciplinar e contribui para a inovação em diferentes segmentos, tendo a matemática como uma competência fundamental para o seu desenvolvimento, pois conhecimentos nas áreas de probabilidade e estatística, álgebra linear, cálculo multivariável são a base para o desenvolvimento de algoritmos de aprendizado de máquina e para a realização de análises dos dados. Neste projeto, busca-se investigar as principais áreas da Ciência de Dados e identificar os tópicos matemáticos recorrentes, além de oportunizar o desenvolvimento da pesquisa no âmbito da Matemática Aplicada, bem como o contato de discentes com linguagens de programação modernas e com a pesquisa acadêmica. Com isso, neste projeto, propõe-se uma pesquisa exploratória onde será realizada uma revisão sistemática do tema e estudos de caso aplicados a métodos identificados na parte inicial da pesquisa. Assim, espera-se alcançar o domínio dos modelos computacionais e a compreensão avançada dos conceitos matemáticos envolvidos. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Anderson Luis Jeske Bihain - Integrante / Leandro Blass - Integrante / Everson Jonatha Gomes da Silva - Coordenador / Guilherme Goergen - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leandro Blass",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "BLASS, LEANDRO",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "BIHAIN, ANDERSON L",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Análise do perfil socioeconômico e de vulnerabilidade social do município de Bagé - RS: entendimento e projeções",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: O município de Bagé - RS é considerado uma das principais cidades da campanha gaúcha. A despeito de sua situação socioeconômica, sabe-se que há grande fragilidade, especialmente devido a dinâmica econômica lenta, baixa atividade industrial, pobreza acentuada e a estrutura urbana esparsa. Ademais, indicadores sociais como acesso à saúde e saneamento básico estão, em geral, abaixo da média estadual. Uma das formas de mudar essa realidade é ampliarmos as pesquisas sobre questões históricas da economia e levantarmos informações quantitativas robustas que possam retratar o contexto socioeconômico local e regional. Nesse sentido, o objetivo central deste projeto de pesquisa é construir uma caracterização aprofundada do perfil socioeconômico e de vulnerabilidade social do município de Bagé. Para tanto, será analisado um conjunto amplo de dados de indicadores econômicos e sociais, proveniente de múltiplas fontes e plataformas. Serão empregadas técnicas de Análise Exploratória dos Dados (AED) para examinar a evolução temporal das questões econômicas e sociais da região e prospectar possíveis cenários para o desenvolvimento local e regional. Além disso, serão coletadas informações com lideranças locais de diversos segmentos e representantes de entidades da sociedade. Considerando a abordagem metodológica empregada, este projeto é considerado quali-quantitativo (pesquisa mista), pois visa analisar estatisticamente os dados coletados e posteriormente construir uma análise subjetiva do problema, contextualizando relatos e fatos históricos ocorridos. Com o desenvolvimento do projeto, espera-se contribuir para a melhoria no entendimento das questões históricas que levaram a cidade de Bagé ao atual cenário de desigualdade econômica e um aprofundamento do debate sobre ações de políticas públicas a curto, médio e longo prazo à luz da estagnação econômica da região.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Guilherme Goergen - Coordenador / Leandro Blass - Integrante / Anderson Luis Jeske Bihain - Integrante / Everson Jonatha Gomes da Silva - Integrante / Cláudio Sonáglio Albano - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Leandro Blass",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cláudio Sonáglio Albano",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Modelagem e simulação da dinâmica de contaminação do Sars-CoV-2 para a população do estado do Rio Grande do Sul",
+      "ano_inicio": "2020",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: Este projeto visa auxiliar o entendimento da evolução da doença no estado do Rio Grande do Sul através do monitoramento dos dados, do uso de modelagem numérica e da produção de materiais científicos informativos às prefeituras. Para acompanhar a evolução da pandemia e auxiliar os tomadores de decisão, em especial os gestores municipais, serão realizadas simulações numéricas da dinâmica de contaminação do Sars-CoV-2 considerando múltiplos cenários de distanciamento social, campanhas de intensificação dos cuidados básicos de saúde, alterações na taxa de testagem dos casos suspeitos, aumento da capacidade hospitalar, entre outros. Com os resultados, espera-se estimar com maior fidelidade a expectativa de contaminados, de imunizados, de curados e de mortes em cada período de tempo. Além disso, através das simulações dos diferentes cenários será possível estimar a capacidade hospitalar necessária e de como a epidemia se comportará diante da infraestrutura existente em diferentes municípios gaúchos. A presente pesquisa já apresentou os primeiros resultados através da cooperação dos pesquisadores com a secretaria da saúde de Bagé, auxiliando na tomada das primeiras decisões frente ao avanço atual da pandemia.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Guilherme Goergen - Integrante / Leandro Blass - Integrante / Anderson Luis Jeske Bihain - Coordenador / Everson Jonatha Gomes da Silva - Integrante / Ketleen Grala - Integrante.",
+        "Descrição: Este projeto visa auxiliar o entendimento da evolução da doença no estado do Rio Grande do Sul através do monitoramento dos dados, do uso de modelagem numérica e da produção de materiais científicos informativos às prefeituras. Para acompanhar a evolução da pandemia e auxiliar os tomadores de decisão, em especial os gestores municipais, serão realizadas simulações numéricas da dinâmica de contaminação do Sars-CoV-2 considerando múltiplos cenários de distanciamento social, campanhas de intensificação dos cuidados básicos de saúde, alterações na taxa de testagem dos casos suspeitos, aumento da capacidade hospitalar, entre outros. Com os resultados, espera-se estimar com maior fidelidade a expectativa de contaminados, de imunizados, de curados e de mortes em cada período de tempo. Além disso, através das simulações dos diferentes cenários será possível estimar a capacidade hospitalar necessária e de como a epidemia se comportará diante da infraestrutura existente em diferentes municípios gaúchos. A presente pesquisa já apresentou os primeiros resultados através da cooperação dos pesquisadores com a secretaria da saúde de Bagé, auxiliando na tomada das primeiras decisões frente ao avanço atual da pandemia... Situação: Concluído; Natureza: Pesquisa. Integrantes: Everson Jonatha Gomes da Silva - Integrante / Anderson Luis Jeske Bihain - Coordenador / BLAS, LEANDRO - Integrante / Guilherme Goergen - Integrante / Ketleen Grala - Integrante.",
+        "Descrição: Este projeto visa auxiliar o entendimento da evolução da doença no estado do Rio Grande do Sul através do monitoramento dos dados, do uso de modelagem numérica e da produção de materiais científicos informativos às prefeituras. Para acompanhar a evolução da pandemia e auxiliar os tomadores de decisão, em especial os gestores municipais, serão realizadas simulações numéricas da dinâmica de contaminação do Sars-CoV-2 considerando múltiplos cenários de distanciamento social, campanhas de intensificação dos cuidados básicos de saúde, alterações na taxa de testagem dos casos suspeitos, aumento da capacidade hospitalar, entre outros. Com os resultados, espera-se estimar com maior fidelidade a expectativa de contaminados, de imunizados, de curados e de mortes em cada período de tempo. Além disso, através das simulações dos diferentes cenários será possível estimar a capacidade hospitalar necessária e de como a epidemia se comportará diante da infraestrutura existente em diferentes municípios gaúchos. A presente pesquisa já apresentou os primeiros resultados através da cooperação dos pesquisadores com a secretaria da saúde de Bagé, auxiliando na tomada das primeiras decisões frente ao avanço atual da pandemia.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Anderson Luis Jeske Bihain - Coordenador / Leandro Blass - Integrante / Everson Jonatha Gomes da Silva - Integrante / Guilherme Goergen - Integrante / Ketleen Grala - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leandro Blass",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Ketleen Grala",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "BLAS, LEANDRO",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Aprendizagens ativas e colaborativas: análise da percepção docente, do engajamento discente, da autorregulação e do processo avaliativo",
+      "ano_inicio": "2019",
+      "ano_conclusao": "2023",
+      "descricao": [
+        "Descrição: O ensino superior, mundialmente, apesar de uma vertiginosa expansão, também tem sido marcado por evidentes contradições (McCOWAN, 2018), que vão desde os sentidos atribuídos ao seu papel na atualidade, até uma atenção às macro e micropolíticas para incidir sobre as problemáticas relacionadas ao acesso e permanência ou evasão dos estudantes, entendidos como fenômenos complexos e multifatoriais (TINTO, 1975; 2015). Muitos esforços têm sido empreendidos na tentativa de demarcar mudanças efetivas nos objetivos educacionais e no perfil dos profissionais a serem formados, resultando em uma constante revisão nas metodologias de ensino e de avaliação. Têm-se a clara finalidade de contemplar as demandas atuais e futuras, com vistas à inovação educativa (CARBONELL, 2002), a partir da ênfase na promoção de uma aprendizagem situada e co-construída, em um processo de participação ativa e crítica (SALVAT, 2008) dos diversos agentes envolvidos. Dito isso, este projeto, de caráter interdisciplinar (POMBO, 2008), trata de investigar cenários de aprendizagens ativas e colaborativas, segundo as perspectivas da percepção docente (GOLDSTONE; BARSALOU, 1998; GOLDSTONE, FENG, ROGOKSY, 2005), do engajamento discente (FREDRICKS, BLUMENFELD, e PARIS 2004; STELKO-PEREIRA, et al., 2015; REEVE E TSENG, 2011), da autorregulação da aprendizagem (SILVA RIBEIRO, 2007; LAWSON, et al., 2019) e do processo avaliativo ((BROOKHART, 2013; HOWELL,2014; HOFFMANN, 2012; LUCKESI, 2011; PERRENOUD, 1999; RAVELA, PICARONI E LOUREIRO, 2017). Considerando a complexidade dos fenômenos educacionais implicados e sua interrelação, adota-se uma perspectiva metodológica mista, na qual se desenha uma abordagem tanto quanti quanto qualitativa (BLAXTER, HUGHES e TIGHT, 2005; RAUEN, 2006), a partir do desenho e validação de diferentes instrumentos de geração de dados.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (3) . Integrantes: Guilherme Goergen - Integrante / Valesca Brasil Irala - Coordenador / Liziane Padilha Mena - Integrante / Sônia Maria Junqueira - Integrante / Leandro Blass - Integrante / Paulo Fernando Marques Filho - Integrante / Everton Silveira Ribeiro - Integrante / Fabiana Vincent - Integrante / Guilherme Bruzza Almeida - Integrante / Lara Severo - Integrante / Renata Lindemann - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Valesca Brasil Irala",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Liziane Padilha Mena",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sônia Maria Junqueira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leandro Blass",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Paulo Fernando Marques Filho",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Everton Silveira Ribeiro",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Fabiana Vincent",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Guilherme Bruzza Almeida",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Lara Severo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Renata Lindemann",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Análise da variabilidade climática na região de Bagé/RS",
+      "ano_inicio": "2014",
+      "ano_conclusao": "2015",
+      "descricao": [
+        "Descrição: O problema da escassez de água na região da campanha gaúcha, em especial na cidade de Bagé, RS, perdura há vários anos. Frequentes são as ocorrências de estiagens sazonais severas, que acarretam insuficiência de reservas de água para a população e que também condicionam as práticas na agricultura e na pecuária. Estudos sobre o comportamento estatístico e probabilístico das variáveis atmosféricas locais, principalmente da temperatura e da precipitação pluvial, ao longo do tempo, têm importância fundamental no sentido de orientar os governantes quanto ao uso dos recursos orçamentários destinados a campanhas do uso racional da água pela população e dos agricultores e pecuaristas na utilização dos recursos hídricos de forma sustentável. Nesse sentido, o projeto visa analisar o comportamento estatístico e probabilístico das variáveis atmosféricas, principalmente temperatura e precipitação pluvial, a fim de identificar padrões e tendências dessas variáveis na região de Bagé.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Guilherme Goergen - Coordenador / Marcelo Romero de Moraes - Integrante / Carla Kipper - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Marcelo Romero de Moraes",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Carla Kipper",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Emprego da equação de balanço de energia cinética para investigação do decaimento da turbulência na Camada Limite Convectiva.",
+      "ano_inicio": "2012",
+      "ano_conclusao": "2014",
+      "descricao": [
+        "Descrição: A derivação de um modelo teórico para o decaimento da turbulência em uma camada limite planetária convectiva (CLC) é ponderado. Consideram-se as características e a estrutura do decaimento da CLC para o período de transição dia-noite, durante a mudança do regime turbulento que ocorre entre a CLC e a camada limite estável (CLE). O modelo baseia-se em uma equação dinâmica homogênea e não isotrópica para o espectro densidade de energia, em que os termos de transferência devido ao empuxo, atrito e inércia, são retidos. Propõe-se um modelo de fechamento para os termos de fluxo de calor e de atrito através do número de Richardson fluxo, e uma parametrização para o termo de transferência de energia por efeito inercial baseado no Modelo de Heisenberg. O termo de dissipação de energia pela viscosidade molecular será parametrizado através do modelo clássico descrito na literatura. A equação dinâmica para o espectro de energia cinética tridimensional obtida será resolvida pelo método de decomposição de Adomian. Este método é utilizado com eficácia, facilidade e precisão na solução analítica de uma grande classe de equações diferenciais ordinárias ou parciais, lineares ou não lineares, determinísticas ou estocásticas. Por fim, o modelo teórico do espectro de energia encontrado e sua evolução temporal é confrontado com dados de simulação numérica (LES) e com dados micro meteorológicos obtidos pelo Laboratório de Micrometeorologia da Universidade Federal de Santa Maria (UFSM).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Guilherme Goergen - Coordenador / Débora Regina Roberti - Integrante / Carla Kipper - Integrante. Financiador(es): FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Débora Regina Roberti",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Carla Kipper",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO DO RIO GRANDE DO SUL",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    },
+    {
+      "nome": "Rede Sul Brasileira de Fluxos Superficiais e Mudanças Climáticas - SULFLUX",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2020",
+      "descricao": [
+        "Descrição: A Rede Sul Brasileira de Fluxos Superficiais e Mudanças Climáticas visa estabelecer uma rede de observações de longo período de interações entre a superfície e a atmosfera para quantificar o saldo de transferência (NEE) de CO2 e outras grandezas físicas na região Sul do Brasil. A rede consiste de um conjunto de torres micrometeorológicas, instrumentadas com sensores padrões, efetuando medidas a uma alta taxa amostral em importantes ecossistemas do Sul do Brasil. As observações fornecem dados de alta qualidade para inicializarem e validarem modelos numéricos, de clima e superfície, para o estado mais meridional do Brasil. Os ecossistemas monitorados compreendem áreas de cultivo agrícola, pecuária, silvicultura, mata atlântica e reserva ambiental. A rede conta com a participação de pesquisadores de diversas universidades do estado e a colaboração e intercâmbio com pesquisadores no Brasil e exterior.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (20) / Mestrado acadêmico: (4) / Doutorado: (4) . Integrantes: Guilherme Goergen - Integrante / Débora Regina Roberti - Integrante / Luis Gustavo G. de Gonçalves - Integrante / Osvaldo Luiz Leal de Moraes - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Débora Regina Roberti",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luis Gustavo G",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "The Impact of Land Cover and Land Use Changes on the Hydroclimate of the La Plata Basin",
+      "ano_inicio": "2008",
+      "ano_conclusao": "2012",
+      "descricao": [
+        "Descrição: La Plata Basin in southeastern South America is recognized as an area of great importance for the economic and social development of several countries. The scientific community of the region, aware of the sensitivity of this basin to potential changes, has developed a plan to assess the impacts of climate variability and climate change on the basin s extreme events, and to develop means to improve the prediction of seasonal floods and droughts. These activities are being developed in an international coordinated effort known by the name La Plata Basin Regional Hydroclimate Project (LPB). The project was reviewed by experts in hydrology and climate, and has gained the endorsement of CLIVAR and GEWEX, two Panels of the World Climate Research Programme that focus, respectively, on Climate and Hydrology. LPB offers a sound framework to identify the priorities in hydroclimate research and applications of the basin. A few Cooperative Research Network (CRN) projects funded by the Inter American Institute for Global Change Research (IAI) can be related to LPB activities; however, in those projects a clear climate component is missing. The current proposal will seek to complement existing IAI projects, and particularly the CRN-2031, to examine the impacts that changes in land cover have on the climate and extreme events of the basin. In this way, IAI will be able to have a broader scope of an issue that should be of high relevance to the agricultural progress of the region. Moreover, the IAI is uniquely positioned to contribute to the Outreach Activities and Capacity Building that are planned under the LPB project. This new proposal will focus on changes in land cover and land use and their impacts on the climate and hydrology of the La Plata basin, but will not examine the more general problem of gas emissions, anthropogenic climate change and future scenarios.. Situação: Em andamento; Natureza: Pesquisa. Integrantes: Guilherme Goergen - Integrante / Luis Gustavo G. de Gonçalves - Integrante / Ernesto Hugo Berbery - Coordenador. Financiador(es): Inter American Institute for Global Change Research - Outra."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Luis Gustavo G",
+          "papel": "Integrante"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Inter American Institute for Global Change Research",
+          "tipo_apoio": "Outra"
+        }
+      ]
+    },
+    {
+      "nome": "Estudo e Pesquisa em Análise Real",
+      "ano_inicio": "2007",
+      "ano_conclusao": "2008",
+      "descricao": [
+        "Descrição: Os alunos participantes da presente atividade encontram-se no último ano de graduação e têm o objetivo de ingressar em algum curso de Mestrado em Matemática. O processo seletivo de boa parte dos Programas de Pós-Graduação em Matemática do país pressupõe um bom conhecimento de Análise Real. O objetivo principal da atividade é preparar os alunos participantes para o ingresso em cursos de Mestrado em Matemática. A disciplina de Análise Real faz parte do currículo do curso de Bacharelado em Matemática da UFSM. A presente atividade visa aprofundar tópicos tratados na disciplina de Análise Real e cobrir tópicos que não fazem parte da ementa da referida disciplina. Ao definirmos o tema de pesquisa como sendo Análise Real, estamos convictos de que o tema é de fundamental importância para nossa carreira profissional e para o crescimento do grupo, pois o mesmo é assunto de discussões dentro do grupo e do curso. Quando escolhemos a bibliografia da qual se baseará nossa pesquisa, procuramos escolher a linguagem mais precisa possível, para que possamos no decorrer do projeto trocar experiências e auxiliar os acadêmicos do curso de Matemática, através de monitorias e aulas de reforço. Dessa forma, estaremos colaborando para o melhor desempenho dos acadêmicos do curso. O objetivo considerado relevante para a realização desta atividade é o de proporcionar aos bolsistas uma visão ampla das potencialidades das técnicas da Análise Real, tanto no desenvolvimento da teoria matemática, como na resolução de problemas em outras áreas do conhecimento. Além disso, procuramos introduzir e desenvolver técnicas de pesquisa na compreensão e resolução de problemas usando tópicos de Análise Real, garantindo aos bolsistas a possibilidade de amadurecimento matemático através da abordagem investigativa de tópicos do tema que será estudado. A atividade prevê a dedicação dos alunos por seis horas semanais.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Guilherme Goergen - Coordenador / Aleksandro de Mello - Integrante."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Aleksandro de Mello",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Implementação do método de otimização Algoritmo Genético",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2008",
+      "descricao": [
+        "Descrição: Problemas de otimização são caracterizados por situações em que se deseja maximizar ou minimizar uma função numérica de várias variáveis, num contexto em que podem existir restrições. Tanto as funções numéricas como as restrições dependem dos valores assumidos pelas variáveis do problema ao longo do procedimento de otimização. Neste projeto, dado um problema geral de otimização, nosso objetivo é minimizar uma função objetivo, sujeita ou não a restrições de igualdade, desigualdade e restrições laterais. A função objetivo e as funções de restrições podem ser funções lineares ou não lineares em relação às variáveis do projeto, implícitas ou explícitas, calculadas por técnicas analíticas ou numéricas. Aqui, o problema geral de otimização, em geral, é direcionado a fenômenos físicos da natureza. Além disso, através dos nossos conhecimentos matemáticos estaremos contribuindo para a evolução de outras pesquisas em áreas afins, expandindo e divulgando o grupo dentro da comunidade acadêmica. Ao final do projeto, almejamos ter implementado com sucesso o método de otimização Algoritmo Genético e ter adquirido prática na linguagem de programação de computadores utilizada para desenvolver o projeto. Durante o ano, pretendemos apresentar o projeto em eventos diversos organizados pela Instituição, tais como Jornada Acadêmica Integrada - JAI e Semana Acadêmica do Curso de Matemática. É nosso objetivo também expor este projeto de pesquisa em congressos científicos da área de Meteorologia, como por exemplo, o Congresso Brasileiro de Meteorologia. A metodologia adotada será a seguinte: cinco (05) horas semanais de pesquisa dividir-se-ão em três partes: duas (02) horas serão de leituras e interpretação de textos indicados pela orientadora do projeto; outras duas (02) horas serão destinadas a encontros individuais com a orientadora a fim de sanar dúvidas com relação aos problemas estudados; e por fim, uma (01) hora destinada ao bolsista PET preparar e apresentar seminários.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Guilherme Goergen - Coordenador. Financiador(es): Secretaria de Educação Superior - Bolsa. Número de produções C, T & A: 2"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Secretaria de Educação Superior",
+          "tipo_apoio": "Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "Modelos Matemáticos Discretos em Dinâmica Populacional",
+      "ano_inicio": "2006",
+      "ano_conclusao": "2006",
+      "descricao": [
+        "Descrição: Desenvolver o conhecimento do bolsita analisando o comportamento de Modelos Matemáticos Discretos em Dinâmica Populacional, com aplicação no software Mathematica. Expandir a potencialidade do bolsita de modo que este tenha conhecimento de todas as linhas de pesquisa após o término de sua graduação. Oportunizar ao bolsista não só um projeto de pesquisa, mas também algo que incentive a criação de novas formas de incentivar o ensino de matemática computacional . Metodologia: Semanalmente o bolsita estudará a bibliografia proposta que servirá de base para a discussão e análise com o professor. Após o encontro semanal o bolsista resolverá exercícios e deverá testar os resultados obtidos no software requerido pelo professor( neste caso o Mathematica ).. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Guilherme Goergen - Coordenador. Financiador(es): Universidade Federal de Santa Maria - Cooperação / Secretaria de Educação Superior - MEC - Bolsa. Número de produções C, T & A: 1"
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Universidade Federal de Santa Maria",
+          "tipo_apoio": "Cooperação"
+        },
+        {
+          "nome": "Secretaria de Educação Superior",
+          "tipo_apoio": "MEC - Bolsa"
+        }
+      ]
+    },
+    {
+      "nome": "Estudo de Cálculo Avançado",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2005",
+      "descricao": [
+        "Descrição: Foram realizados encontros semanais com os bolsistas objetivando aprender técnicas de demonstração na área de cálculo avançado enfatizando seus aspectos lógicos. A metodologia utilizada foi o estudo individual, ou em grupo, da bibliografia indicada pelo professor orientador Prof. Dr. João Batista Peneireiro, bem como sua discussão. Essa atividade possibilitou o entendimento e o amadurecimento de conceitos, definições e resultados, proporcionando aos bolsistas a complementação de sua formação. As discussões relacionadas ao assunto contribuíram, de forma decisiva, para a consolidação dos conhecimentos adquiridos, para o aprimoramento da expressão oral e, conseqüentemente, para um profissional com ótima capacidade técnica e científica.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Guilherme Goergen - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Estudo da Filosofia da Matemática",
+      "ano_inicio": "2005",
+      "ano_conclusao": "2005",
+      "descricao": [
+        "Descrição: A atividade objetivou promover pesquisas nos ramos da filosofia e da história da matemática. Para tal foi realizada uma revisão histórica do conhecimento matemático bem como de seus aspectos filosóficos. Foram realizados encontros quinzenais com o professor orientador nos quais cada dupla de bolsistas preparou e apresentou um seminário para o grupo sobre algum tema ligado à filosofia ou à história da matemática. Esta atividade permitiu o aprimoramento dos conhecimentos relacionados com o tema tratado e uma vivência maior na dinâmica de trabalho em pequenos grupos. Contribuiu também, de forma decisiva, para o aprimoramento da expressão oral e a construção de argumentações consistentes.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) . Integrantes: Guilherme Goergen - Coordenador."
+      ],
+      "tipo": "Projeto de pesquisa",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Coordenador"
+        }
+      ]
+    }
+  ],
+  "projetos_extensao": [
+    {
+      "nome": "Polo PIC UNIPAMPA: Formação de Estudantes para a OBMEP na Região da Campanha",
+      "ano_inicio": "2025",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: O presente projeto de extensão visa a implementação do Polo PIC na UNIPAMPA, com o objetivo de preparar estudantes do EnsinoFundamental II e Ensino Médio para a Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP). Atualmente, a região da Campanhanão possui medalhistas na OBMEP, mas conta com alunos que receberam menção honrosa, evidenciando um potencial a ser desenvolvido. Oprojeto oferecerá treinamentos regulares baseados no cronograma oficial do PIC, com aulas ministradas por um bolsista sob a orientação docoordenador. Durante os encontros presenciais e atividades online, os alunos terão acesso a materiais fornecidos pelo IMPA (OBMEP), além desimulados e desafios matemáticos. O período de execução será de março de 2025 a fevereiro de 2026, com os meses finais dedicados àprodução científica e elaboração de relatórios. A iniciativa busca fortalecer a educação matemática na região, promovendo a participação dosestudantes em competições científicas e incentivando a conquista de medalhas na OBMEP nos anos seguintes.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (3) . Integrantes: Guilherme Goergen - Integrante / Anderson Luis Jeske Bihain - Coordenador."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Ciclismo como um estilo de vida.",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2025",
+      "descricao": [
+        "Descrição: O projeto de extensão 'Ciclismo como um estilo de vida' foi concebido com o propósito de estabelecer um espaço interativo de lazer,educação, atividade física e integração entre a Universidade e a comunidade local. Seguindo as Normas para Atividades de Extensão eCultura da Universidade Federal do Pampa, a extensão é definida como um processo que articula ensino, pesquisa e transformação social,com foco prioritário na comunidade externa. O projeto visa divulgar o ciclismo na sociedade local, fornecendo informações gerais sobre oesporte, apresentando a legislação relacionada, conduzindo oficinas teórico-práticas e organizando eventos de pedalada para interação epromoção. A metodologia inclui a realização de oficinas temáticas sobre diversos aspectos do ciclismo, como legislação, uso da bicicleta comotransporte urbano, modalidades esportivas, manutenção básica, competições e participação das mulheres. Além disso, será realizado umevento de pedalada (passeio ciclístico) e aplicação de instrumentos avaliativos junto ao público-alvo. Os participantes são servidores,estudantes e membros da comunidade externa, com destaque para professores, funcionários e alunos da escola parceira a ser convidada. Oprojeto também se baseia em aspectos legais, como a Lei Federal 13.724, que institui o Programa Bicicleta Brasil (PBB), com o objetivo deincentivar o uso da bicicleta como meio de transporte em áreas urbanas, promovendo campanhas de conscientização sobre seus benefícioseconômicos, de saúde e ambientais.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (3) . Integrantes: Guilherme Goergen - Integrante / Carla Beatriz da Luz Peralta - Integrante / Caio Marcello Recart da Silveira - Coordenador."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Carla Beatriz da Luz Peralta",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Caio Marcello Recart da Silveira",
+          "papel": "Coordenador"
+        }
+      ]
+    },
+    {
+      "nome": "Tecendo rotas: mapeando rotas ciclísticas da campanha gaúcha",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2025",
+      "descricao": [
+        "Descrição: O projeto de extensão Tecendo rotas: mapeando as rotas ciclística da campanha gaúcha é uma proposta de mapeamento das rotas demontain bike e ciclismo de estrada, em conjunto com o perfil dos usuários de bicicleta no município de Bagé e cidades vizinhas (Aceguá, DomPedrito, Lavras do Sul, Hulha Negra, Candiota e Pinheiro Machado). Esses municípios contam com inúmeros grupos de ciclistas e muitosmoradores que usam a bicicleta como meio de transporte. Todavia, a quantidade e a extensão das ciclovias e ciclofaixas e o número de locaisadequados para guardar as bicicletas são insuficientes. Além disso, informações sobre as principais rotas utilizadas para a prática de esportessão pouco documentadas e divulgadas. Dessa forma, com o desenvolvimento do projeto, propõe-se contribuir para o fomento do ciclismocomo esporte e o uso adequado da bicicleta como meio de transporte no meio urbano. Por fim, o projeto tornará possível a interação dacomunidade universitária com a comunidade externa, proporcionando o intercâmbio de conhecimentos, saberes e serviços.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (3) . Integrantes: Guilherme Goergen - Coordenador / Udo Eckard Sinks - Integrante / Carla Beatriz da Luz Peralta - Integrante / Caio Marcello Recart da Silveira - Integrante / Gabriel Henrique Justi - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Udo Eckard Sinks",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Carla Beatriz da Luz Peralta",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Caio Marcello Recart da Silveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Gabriel Henrique Justi",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "XV Encontro Gaúcho de Educação Matemática - XV EGEM",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: O Encontro Gaúcho de Educação Matemática EGEM é o maior congresso de Educação Matemática que ocorre no RioGrande do Sul e é promovido de três em três anos pela Diretoria da Sociedade Brasileira de Educação Matemática, Regional RS em parceria com asinstituições de ensino do estado, o evento reúne professores, pesquisadores e estudantes que trabalham e estudam Matemática e Educação Matemática. Aprimeira edição do evento ocorreu na UNISINOS em Porto Alegre no ano de 1989, depois disso passou por outras instituições como, por exemplo, PUCRS(Porto Alegre), UNIJUÍ (Ijuí), FURG (Rio Grande), FACOS (Osório), UNISC (Santa Cruz do Sul), UCPEL (Pelotas), UCS (Caxias do Sul), UNIVATES (Lajeado), UFSM(Santa Maria) e UFPEL (Pelotas). A previsão é que o evento reúna em torno de 350 participantes e ocorrerá de 17 a 19 de setembro de 2024 e será realizadono Campus Bagé da Universidade Federal do Pampa. Salienta-se que a data foi cuidadosamente escolhida para que ocorresse durante as festividades daSemana Farroupilha e fosse mais uma oportunidade de fomentar o desenvolvimento e o turismo na Região da Campanha, visto que o evento contará comparticipantes de diferentes cidades do nosso estado.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (10) . Integrantes: Guilherme Goergen - Integrante / Cristiano Peres Oliveira - Coordenador / Claudia Laus Angelo - Integrante / Anderson Luis Jeske Bihain - Integrante / Everson Jonatha Gomes da Silva - Integrante.",
+        "Descrição: O Encontro Gaúcho de Educação Matemática #150; EGEM é o maior congresso de Educação Matemática que ocorre no Rio Grande do Sul e é promovido de três em três anos pela Diretoria da Sociedade Brasileira de Educação Matemática, Regional RS em parceria com as instituições de ensino do estado, o evento reúne professores, pesquisadores e estudantes que trabalham e estudam Matemática e Educação Matemática. A primeira edição do evento ocorreu na UNISINOS em Porto Alegre no ano de 1989, depois disso passou por outras instituições como, por exemplo, PUCRS (Porto Alegre), UNIJUÍ (Ijuí), FURG (Rio Grande), FACOS (Osório), UNISC (Santa Cruz do Sul), UCPEL (Pelotas), UCS (Caxias do Sul), UNIVATES (Lajeado), UFSM(Santa Maria) e UFPEL (Pelotas). A previsão é que o evento reúna em torno de 350 participantes e ocorrerá de 17 a 19 de setembro de 2024 e será realizado no Campus Bagé da Universidade Federal do Pampa. Salienta-se que a data foi cuidadosamente escolhida para que ocorresse durante as festividades da Semana Farroupilha e fosse mais uma oportunidade de fomentar o desenvolvimento e o turismo na Região da Campanha, visto que o evento contará com participantes de diferentes cidades do nosso estado.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (12) . Integrantes: Anderson Luis Jeske Bihain - Integrante / Everson Jonatha Gomes da Silva - Integrante / Cristiano Peres Oliveira - Coordenador / Francieli Aparecida Vaz - Integrante / GOERGEN, GUILHERME - Integrante / Cláudia Laus Angelo - Integrante / Fábio Ronei Padilha - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cristiano Peres Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Claudia Laus Angelo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Francieli Aparecida Vaz",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "GOERGEN, GUILHERME",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cláudia Laus Angelo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Fábio Ronei Padilha",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Programa Integração Matemática no Pampa",
+      "ano_inicio": "2024",
+      "ano_conclusao": "2026",
+      "descricao": [
+        "Descrição: O presente projeto se propõe a ser um espaço de formação inicial e continuada para professores dematemática da Região da Campanha. Neste projeto serão oferecidas ações de extensão para professorese discentes dos cursos de exatas, em especial docentes e futuros docentes de matemática. Além destescursos, serão realizadas atividades que envolvam os discentes, docentes e comunidades escolar euniversitária do Pampa como, por exemplo, ações de extensão voltadas a datas importantes como Dia daMatemática, Dia do Meio Ambiente, Dia Nacional de Combate ao Bullying e à Violência nas Escolas, entreoutras. Este Programa se constitui em um espaço essencial para o desenvolvimento das ações deextensão e cultura do Curso de Matemática - Licenciatura do Campus Bagé, pois a partir dele o processode curricularização da extensão toma corpo no Curso e a partir das ações previstas pode propiciar umespaço adequado no desenvolvimento das atividades inerentes à extensão e cultura. Como fechamentode ciclos será realizado de dois em dois anos o Colóquio de Matemática do Pampa a fim de ser um espaçode socialização de todos os projetos desenvolvidos no âmbito do Programa, bem como para recebermostrabalhos de instituições coirmãs que possam nos ajudar a aperfeiçoar as nossas práticas.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (6) . Integrantes: Guilherme Goergen - Integrante / Cristiano Peres Oliveira - Coordenador / Claudia Laus Angelo - Integrante / Anderson Luis Jeske Bihain - Integrante / Everson Jonatha Gomes da Silva - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cristiano Peres Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Claudia Laus Angelo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Mapeamento de Lixões Clandestinos",
+      "ano_inicio": "2023",
+      "ano_conclusao": "2024",
+      "descricao": [
+        "Descrição: Pedalando pelas estradas rurais no município de Bagé percebe-se que há depósitos de lixo em muitos pontos. Frequentemente lixo doméstico, entulho de construção civil, móveis, lixo eletrônico, animais mortos e até embalagens de defensivos agrícolas. No município de Bagé há muito grupos de ciclismo que exercem a atividade nas estradas do interior, passando inclusive em área de municípios vizinho, como Aceguá, Hulha Negra, Candiota, Dom Pedrito. Geralmente os ciclistas utilizam aplicativos em celulares (por exemplo Strava) que permitem rastrear o trajeto por GPS e muitostiram fotos dos passeios. Geralmente os celulares utilizados para tirar fotos gravam informações sobre o local da foto junto nos arquivos de imagem. Por causa da velocidade de passeio reduzida durante as pedaladas em comparação com veículos motorizados, os ciclistas têm uma outra percepção do ambiente por onde passam, inclusive conseguem observar melhor a paisagem e, consequentemente também as beiradas das estradas.. Situação: Desativado; Natureza: Extensão. Alunos envolvidos: Graduação: (1) . Integrantes: Guilherme Goergen - Integrante / Udo Eckard Sinks - Coordenador / Carla Beatriz da Luz Peralta - Integrante / Douglas Mayer Bento - Integrante / Caio Marcello Recart da Silveira - Integrante / Elisabete de Avila da Silva - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Udo Eckard Sinks",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Carla Beatriz da Luz Peralta",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Douglas Mayer Bento",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Caio Marcello Recart da Silveira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Elisabete de Avila da Silva",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "II Colóquio de Matemática do Pampa",
+      "ano_inicio": "2022",
+      "ano_conclusao": "2022",
+      "descricao": [
+        "Descrição: O presente projeto visa a realização do II Colóquio de Matemática do Pampa. A realização desse evento ocorrerá anualmente, sendo em 2022a segunda edição a ser realizada de maneira híbrida, repetindo a possibilidade de que participantes de outras regiões possam participar doevento de maneira remota. O referido evento tem como objetivo principal divulgar os trabalhos realizados por acadêmicos dos cursos dematemática, bem comoiniciativas de professores e estudantes da educação básica voltadas ao ensino de matemática. Espera-se que com esse espaço haja umamaior interação entre universidade x esxola x comunidade, propagando o conhecimento científico e as boas práticas pedagógicas acerca daMatemática e suas tecnologias.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (10) . Integrantes: Guilherme Goergen - Integrante / Cristiano Peres Oliveira - Coordenador / Claudia Laus Angelo - Integrante / Leandro Blass - Integrante / Anderson Luis Jeske Bihain - Integrante.",
+        "Descrição: O presente projeto visa a realização do II Colóquio de Matemática do Pampa. A realização desse evento ocorrerá anualmente, sendo em 2022 a segunda edição a ser realizada de maneira híbrida, repetindo a possibilidade de que participantes de outras regiões possam participar do evento de maneira remota. O referido evento tem como objetivo principal divulgar os trabalhos realizados por acadêmicos dos cursos de matemática, bem como iniciativas de professores e estudantes da educação básica voltadas ao ensino de matemática. Espera-se que com esse espaço haja uma maior interação entre universidade x escola x comunidade, propagando o conhecimento científico e as boas práticas pedagógicas acerca da Matemática e suas tecnologias.. Situação: Concluído; Natureza: Extensão. Integrantes: Everson Jonatha Gomes da Silva - Integrante / Cristiano Peres Oliveira - Coordenador / Elizangela Dias Pereira - Integrante / Guilherme Goergen - Integrante / BLASS, LEANDRO - Integrante / BIHAIN, ANDERSON L. J. - Integrante.",
+        "Descrição: O presente projeto visa a realização do II Colóquio de Matemática do Pampa. A realização desse evento ocorrerá anualmente, sendo em 2022 a segunda edição a ser realizada de maneira híbrida, repetindo apossibilidade de que participantes de outras regiões possam participar do evento de maneira remota. O referido evento tem como objetivo principal divulgar os trabalhos realizados por acadêmicos doscursos de matemática, bem como iniciativas de professores e estudantes da educação básica voltadas ao ensino de matemática. Espera-se que com esse espaço haja uma maior interação entre universidade x escola x comunidade, propagando o conhecimento científico e as boas práticas pedagógicas acerca da Matemática e suas tecnologias.. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (10) . Integrantes: Anderson Luis Jeske Bihain - Integrante / Leandro Blass - Integrante / Everson Jonatha Gomes da Silva - Integrante / Cristiano Peres Oliveira - Coordenador / Sidônia Bresolin - Integrante / Elizangela Dias Pereira - Integrante / Guilherme Goergen - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cristiano Peres Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Claudia Laus Angelo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leandro Blass",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Elizangela Dias Pereira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "BLASS, LEANDRO",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "BIHAIN, ANDERSON L",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sidônia Bresolin",
+          "papel": "Integrante"
+        }
+      ]
+    },
+    {
+      "nome": "Programa Integração Matemática no Pampa - PIMP",
+      "ano_inicio": "2021",
+      "ano_conclusao": "2023",
+      "descricao": [
+        "Descrição: O presente projeto se propõe a ser um espaço de formação inicial e continuada para professores de matemática da Região da Campanha. Neste projeto serão oferecidas ações de extensão para professores e discentes dos cursos de exatas, em especial docentes e futuros docentes de matemática. Além destes cursos, serão realizadas atividades que envolvam os discentes, docentes e comunidades escolar e universitária do Pampa como, por exemplo, ações de extensão voltadas a datas importantes como Dia da Matemática, Dia do Meio Ambiente, Dia Nacional de Combate ao Bullying e à Violência nas Escolas, entre outras. Como fechamento de ciclos será realizado, anualmente, o Colóquio de Matemática do Pampa, esse evento será realizado de forma híbrida, sendo possível a participação tanto de maneira presencial quanto de forma on-line, propiciando assim que pessoas dos mais diferentes lugares do país possam socializar suas experiências e com isso colaborar com o crescimento e aperfeiçoamento no estudo de matemática. Situação: Concluído; Natureza: Extensão. Alunos envolvidos: Graduação: (6) . Integrantes: Guilherme Goergen - Integrante / Cristiano Peres Oliveira - Coordenador / Claudia Laus Angelo - Integrante / Sônia Maria Junqueira - Integrante / Anderson Luis Jeske Bihain - Integrante / Everson Jonatha Gomes da Silva - Integrante.",
+        "Descrição: O presente projeto se propõe a ser um espaço de formação inicial e continuada para professores de matemática da Região da Campanha. Neste projeto serão oferecidas ações de extensão para professores e discentes dos cursos de exatas, em especial docentes e futuros docentes de matemática. Além destes cursos, serão realizadas atividades que envolvam os discentes, docentes e comunidades escolar e universitária do Pampa como, por exemplo, ações de extensão voltadas a datas importantes como Dia da Matemática, Dia do Meio Ambiente, Dia Nacional de Combate ao Bullying e à Violência nas Escolas, entre outras. Como fechamento de ciclos será realizado, anualmente, o Colóquio de Matemática do Pampa, esse evento será realizado de forma híbrida, sendo possível a participação tanto de maneira presencial quanto de forma on-line, propiciando assim que pessoas dos mais diferenteslugares do país possam socializar suas experiências e com isso colaborar com o crescimento e aperfeiçoamento no estudo de matemática.. Situação: Em andamento; Natureza: Extensão. Alunos envolvidos: Graduação: (20) . Integrantes: Anderson Luis Jeske Bihain - Integrante / Leandro Blass - Integrante / Everson Jonatha Gomes da Silva - Integrante / Cristiano Peres Oliveira - Coordenador / Francieli Aparecida Vaz - Integrante / Elizangela Dias Pereira - Integrante / Guilherme Goergen - Integrante / DENICE APARECIDA FONTANA NISXOTA MENEGAIS - Integrante / Sonia Maria da Silva Junqueira - Integrante."
+      ],
+      "tipo": "Projeto de extensão",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cristiano Peres Oliveira",
+          "papel": "Coordenador"
+        },
+        {
+          "nome": "Claudia Laus Angelo",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sônia Maria Junqueira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Anderson Luis Jeske Bihain",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Everson Jonatha Gomes da Silva",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Leandro Blass",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Francieli Aparecida Vaz",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Elizangela Dias Pereira",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "DENICE APARECIDA FONTANA NISXOTA MENEGAIS",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Sonia Maria da Silva Junqueira",
+          "papel": "Integrante"
+        }
+      ]
+    }
+  ],
+  "projetos_desenvolvimento": [
+    {
+      "nome": "Innovation for Equality in Latin American University",
+      "ano_inicio": "2010",
+      "ano_conclusao": "2013",
+      "descricao": [
+        "Descrição: O Projeto IGUAL propõe o uso das tecnologias dos objetos de aprendizagem para auxiliar o ensino de universitários públicas, visando reduzir as diferenças de conhecimento e habilidades entre estudantes da rede pública e a privada.. Situação: Em andamento; Natureza: Desenvolvimento. Integrantes: Guilherme Goergen - Integrante / Cristian Cechinel - Coordenador. Financiador(es): Tampere University of Applied Sciences - Auxílio financeiro."
+      ],
+      "tipo": "Projeto de desenvolvimento",
+      "integrantes": [
+        {
+          "nome": "Guilherme Goergen",
+          "papel": "Integrante"
+        },
+        {
+          "nome": "Cristian Cechinel",
+          "papel": "Coordenador"
+        }
+      ],
+      "financiadores": [
+        {
+          "nome": "Tampere University of Applied Sciences",
+          "tipo_apoio": "Auxílio financeiro"
+        }
+      ]
+    }
+  ],
+  "areas_de_atuacao": [
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Matemática",
+      "subarea": "Matemática Aplicada",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Matemática / Subárea: Matemática Aplicada."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Geociências",
+      "subarea": "Meteorologia",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Geociências / Subárea: Meteorologia."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Física",
+      "subarea": "Micrometeorologia",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Física / Subárea: Micrometeorologia."
+    },
+    {
+      "grande_area": "Ciências Exatas e da Terra",
+      "area": "Probabilidade e Estatística",
+      "subarea": "",
+      "especialidade": "",
+      "descricao_completa": "Grande área: Ciências Exatas e da Terra / Área: Probabilidade e Estatística."
+    },
+    {
+      "grande_area": "Engenharias",
+      "area": "Engenharia Civil",
+      "subarea": "Engenharia Hidráulica",
+      "especialidade": "Hidrologia",
+      "descricao_completa": "Grande área: Engenharias / Área: Engenharia Civil / Subárea: Engenharia Hidráulica/Especialidade: Hidrologia."
+    }
+  ],
+  "idiomas": [
+    {
+      "nome": "Inglês",
+      "compreende": "Bem",
+      "fala": "Bem",
+      "le": "Bem",
+      "escreve": "Bem",
+      "proficiencia_completa": "Compreende Bem, Fala Bem, Lê Bem, Escreve Bem."
+    },
+    {
+      "nome": "Espanhol",
+      "compreende": "Bem",
+      "fala": "Razoavelmente",
+      "le": "Bem",
+      "escreve": "Razoavelmente",
+      "proficiencia_completa": "Compreende Bem, Fala Razoavelmente, Lê Bem, Escreve Razoavelmente."
+    },
+    {
+      "nome": "Alemão",
+      "compreende": "Pouco",
+      "fala": "Pouco",
+      "le": "Pouco",
+      "escreve": "Pouco",
+      "proficiencia_completa": "Compreende Pouco, Fala Pouco, Lê Pouco, Escreve Pouco."
+    }
+  ],
+  "premios_titulos": [
+    {
+      "descricao": "Premiação de melhor trabalho na modalidade Pôster: \"Validação do modelo SiB2 para campo nativo do sul do Brasil (Pampa) utilizando calibração multiobjetiva\"., XV EPGMET - Encontro dos alunos de pós-graduação em Meteorologia do CPTEC/INPE.",
+      "ano": 2016
+    }
+  ],
+  "linhas_de_pesquisa": [
+    {
+      "nome": "Monitoramento dos fluxos superfíciais atmosféricos",
+      "objetivo": ""
+    }
+  ],
+  "producao_bibliografica": {
+    "artigos_periodicos": [
+      {
+        "titulo": "Da passividade ao protagonismo: o engajamento estudantil na sala de aula invertida em um estudo de caso qualitativoFrom passivity to protagonism: student engagement in the flipped classroom in a qualitative case studyDe la pasividad al protagonismo: el compromiso estudiantil en el aula invertida en un estudio de caso cualitativo",
+        "ano": 2026,
+        "autores": "PEREIRA, PABLO FERREIRA ; BLASS, L. ; GOERGEN, G.",
+        "revista": "ECCOS REVISTA CIENTÍFICA (ONLINE)",
+        "volume": "2",
+        "numero": "",
+        "paginas": "e30213",
+        "issn": "1983-9278",
+        "doi": "http://dx.doi.org/10.5585/2026.30213",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "MATEMÁTICA, EXTENSÃO UNIVERSITÁRIA E TERRITÓRIO:  O POLO PIC/OBMEP EM BAGÉ",
+        "ano": 2026,
+        "autores": "GOERGEN, G. ; VAZ, F. A. ; Bihain, A. L. J.",
+        "revista": "CHASQUE - Revista Eletrônica de Extensão e Cultura da Unipampa",
+        "volume": "4",
+        "numero": "",
+        "paginas": "8-17",
+        "issn": "2965-0283",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "PERFIL SOCIOECONÔMICO DE BAGÉ E CORRELAÇÃO COM MUNICÍPIOS DE PORTE SEMELHANTE DO ESTADO DO RIO GRANDE DO SUL",
+        "ano": 2025,
+        "autores": "GOERGEN, G.; BIHAIN, A. L. J. ; ALBANO, C. S. ; TOIO, F. O. ; BLASS, L.",
+        "revista": "REVISTA MUNDI ENGENHARIA, TECNOLOGIA E GESTÃO",
+        "volume": "10",
+        "numero": "",
+        "paginas": "1-19",
+        "issn": "2525-4782",
+        "doi": "http://dx.doi.org/10.21575/25254782rmetg2025vol10n12316",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "A resolução de problemas de contagem por jovens e adultos: o uso de conhecimentos prévios e a metodologia de resolução de problemas",
+        "ano": 2024,
+        "autores": "VERCH, S. S. ; Blass, L. ; SILVA, EVERSON J. G.",
+        "revista": "REVISTA EDUCAÇÃO PÚBLICA (RIO DE JANEIRO)",
+        "volume": "24",
+        "numero": "",
+        "paginas": "1-11",
+        "issn": "1984-6290",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "RUBRICAS NA AVALIAÇÃO DE SEMINÁRIOS NO ENSINO SUPERIOR: ABORDAGENS, VANTAGENS E CONSIDERAÇÕES",
+        "ano": 2024,
+        "autores": "BLASS, L. ; GOERGEN, G. ; RHODEN, ANGÉLICA CRISTINA ; FERNANDES, ANNA ELIZANDRA SONEGO",
+        "revista": "VIDYA (SANTA MARIA. ONLINE)",
+        "volume": "44",
+        "numero": "",
+        "paginas": "153-171",
+        "issn": "2176-4603",
+        "doi": "http://dx.doi.org/10.37781/vidya.v44i1.4725",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Perfil dos egressos dos cursos de engenharia e licenciatura: um estudo no campus Bagé da Universidade Federal do Pampa",
+        "ano": 2023,
+        "autores": "GOERGEN, GUILHERME ; bihain, anderson luis jeske ; BLASS, LEANDRO ; ALBANO, CLAUDIO SONAGLIO",
+        "revista": "REGAE: REVISTA DE GESTÃO E AVALIAÇÃO EDUCACIONAL",
+        "volume": "12",
+        "numero": "",
+        "paginas": "e74541-16",
+        "issn": "2176-2171",
+        "doi": "http://dx.doi.org/10.5902/2318133874541",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "COVID-19 no município de Bagé/RS: radiografia da evolução da pandemia",
+        "ano": 2022,
+        "autores": "BIHAIN, ANDERSON LUÍS JESKE ; GOERGEN, GUILHERME ; BLASS, LEANDRO ; SILVA, EVERSON JONATHA GOMES DA ; GRALA, KETLEEN",
+        "revista": "CADERNOS IBERO-AMERICANOS DE DIREITO SANITÁRIO",
+        "volume": "11",
+        "numero": "",
+        "paginas": "155-174",
+        "issn": "2358-1824",
+        "doi": "http://dx.doi.org/10.17566/ciads.v11i2.837",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "ANÁLISE DAS PERCEPÇÕES E DESEMPENHOS DISCENTES COM A UTILIZAÇÃO DO SOFTWARE R EM UMA DISCIPLINA DE GRADUAÇÃO DE NATUREZA MULTICURSO",
+        "ano": 2021,
+        "autores": "BLASS, LEANDRO ; GOERGEN, GUILHERME ; IRALA, VALESCA BRASIL",
+        "revista": "REVISTA PRÁTICA DOCENTE",
+        "volume": "5",
+        "numero": "",
+        "paginas": "1568-1592",
+        "issn": "2526-2149",
+        "doi": "http://dx.doi.org/10.23926/rpd.2526-2149.2020.v5.n3.p1568-1592.id886",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Energy and CO2 Fluxes over Native Fields of Southern Brazil through Multi-Objective Calibration of INLAND Model",
+        "ano": 2020,
+        "autores": "GOERGEN, G.; VALDES, R. H. ; Degrazia, Gervásio Annes ; GOTUZZO, R. A. ; HERDIES, D. L. ; GONCALVES, L. G. G. ; ROBERTI, D. R.",
+        "revista": "Geosciences",
+        "volume": "10",
+        "numero": "",
+        "paginas": "479",
+        "issn": "2076-3263",
+        "doi": "http://dx.doi.org/10.3390/geosciences10120479",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Mudanças na cobertura do solo sobre os Campos do Sul do Brasil: modelagem dos impactos sobre os fluxos de energia em superfície",
+        "ano": 2018,
+        "autores": "GOERGEN, G.; VALDES, ROILAN HERNANDEZ ; ROBERTI, D. R. ; Degrazia, Gervásio Annes",
+        "revista": "CIÊNCIA E NATURA",
+        "volume": "40",
+        "numero": "",
+        "paginas": "39",
+        "issn": "2179-460X",
+        "doi": "http://dx.doi.org/10.5902/2179460X30563",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Modelagem Computacional no Estudo de DeformaÃ§Ãµes em Pavimentos FlexÃ­veis",
+        "ano": 2018,
+        "autores": "ENGENHARIA QUÍMICA, UNIPAMPA-CAMPUS/BAGÉ ; MOLIN, MARCELO ; BLAS, LEANDRO ; L. J. BIHAIN, ANDERSON ; DOTTO BUENO, LUCAS ; BUDNY, JAELSON ; VINICIUS ALTNETTER, MAICON ; LUIZ RODRIGUES DE SOUZA, ADEMILTON ; A. G. KAZMIRSKI, JOÃO ; ENGENHARIA QUIMICA, UFSM ; JONATHAN GOMES DA SILVA, EVERSON",
+        "revista": "REVISTA CEREUS",
+        "volume": "10",
+        "numero": "",
+        "paginas": "170-179",
+        "issn": "2175-7275",
+        "doi": "http://dx.doi.org/10.18605/2175-7275/cereus.v10n2p170-179",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Modelagem Computacional no Estudo de Deformações em Pavimentos Flexíveis",
+        "ano": 2018,
+        "autores": "MOLIN, M. ; BLASS, L. ; GOERGEN, G. ; Bueno, L.D. ; BUDNY, JAELSON ; ALTNETTER, M. V. ; SOUZA, A. L .R. ; KAZMIRSKI, J. A. ; SILVA, E. J. G.",
+        "revista": "REVISTA CEREUS",
+        "volume": "10",
+        "numero": "",
+        "paginas": "170-179",
+        "issn": "2175-7275",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "VARIABILIDADE HIDROCLIMÁTICA DA BACIA HIDROGRÁFICA DO RIO NEGRO: UM ESTUDO DE CASO PARA A PORÇÃO BRASILEIRA",
+        "ano": 2016,
+        "autores": "GOERGEN, GUILHERME; TATSCH, JÔNATAN DUPONT ; MENDOZA, FELIPE RAPHAEL THEODOROVITZ ; VALDÉS, ROILAN HERNÁNDEZ ; KANNEMBERG, CAROLINA ; PARCIANELLO, ANDRÉ ; VALENTE, FABÍOLA ; BOIASKI, NATHALIE TISSOT",
+        "revista": "Ciência e Natura",
+        "volume": "38",
+        "numero": "",
+        "paginas": "376-382",
+        "issn": "2179-460X",
+        "doi": "http://dx.doi.org/10.5902/2179460X20270",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "SENSIBILIDADE DO MODELO DISTRIBUÍDO HIDROLÓGICO DA BIOSFERA ÀS PROPRIEDADES HÍDRICAS DO SOLO EM UMA PEQUENA BACIA DE CERRADO",
+        "ano": 2016,
+        "autores": "VALDÉS, ROILAN HERNÁNDEZ ; TATSCH, JÔNATAN DUPONT ; CABRAL, OSVALDO MACHADO RODRIGUES ; ROCHA, HUMBERTO RIVEIRO DA ; BRASILIO, EMILIA MARIA DOS SANTOS ; GOERGEN, GUILHERME ; MENDOZA, FELIPE RAFAEL THEODOROVITZ ; PARCIANELLO, ANDRÉ FOGLIARINI ; KANNENBERG, CAROLINA",
+        "revista": "Ciência e Natura",
+        "volume": "38",
+        "numero": "",
+        "paginas": "277-283",
+        "issn": "2179-460X",
+        "doi": "http://dx.doi.org/10.5902/2179460X20285",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Estimativa da Evapotranspiração Potencial em Bagé-RS para aplicação no índice Padronizado Precipitação-Evapotranspiração",
+        "ano": 2013,
+        "autores": "GOERGEN, G.; TATSCH, J. D. ; Moraes, M. R.",
+        "revista": "Ciência e Natura",
+        "volume": "1",
+        "numero": "",
+        "paginas": "181-183",
+        "issn": "2179-460X",
+        "doi": "",
+        "periodico_canonico": ""
+      },
+      {
+        "titulo": "Estimativa da evapotranspiração sobre a Bacia do Prata utilizando climatologia do IAF",
+        "ano": 2009,
+        "autores": "GOERGEN, G.; ROBERTI, D. R. ; GONCALVES, L. G. G.",
+        "revista": "Ciência e Natura",
+        "volume": "1",
+        "numero": "",
+        "paginas": "77-80",
+        "issn": "0100-8307",
+        "doi": "",
+        "periodico_canonico": ""
+      }
+    ],
+    "livros_publicados": [],
+    "capitulos_livros": [
+      {
+        "titulo": "IA na Educação Matemática: trajetórias recentes e aprendizados no contexto brasileiro. Possibilidades para o uso da IA na docência e na pesquisa. 1ed",
+        "ano": 2026,
+        "autores": "BIHAIN, ANDERSON LUÍS JESKE ; Machado Junior, José Wilson ; GOERGEN, GUILHERME ; BLASS, LEANDRO",
+        "titulo_livro": "Valesca Brasil Irala e Leandro Blass. (Org.). Possibilidades para o uso da IA na docência e na pesquisa. 1ed.São Paulo",
+        "edicao": "",
+        "editora": "Pimenta Cultural",
+        "paginas": "126-142"
+      },
+      {
+        "titulo": "COMO PROFESSORES CURSISTAS AVALIAM O ENSINO A DISTÂNCIA: UMA ANÁLISE A PARTIR DE UM CURSO DE ESPECIALIZAÇÃO EM MATEMÁTICA. Caminhos da Educação a Distância na Unipampa: perspectivas e desafios.. 1ed",
+        "ano": 2025,
+        "autores": "BLASS, LEANDRO ; Goergen, G. ; Bihain, A.L.J. ; Vaz, F. A. ; SILVA, E.J.G.",
+        "titulo_livro": "Núcleo de Educação a Distância Divisão e Coordenação UAB. (Org.). Caminhos da Educação a Distância na Unipampa: perspectivas e desafios.. 1ed",
+        "edicao": "",
+        "editora": "Innova Media Comunicação e Serviços Empresariais",
+        "paginas": "12-18"
+      },
+      {
+        "titulo": "DESENVOLVIMENTO REGIONAL E POLÍTICAS PÚBLICAS: ATUAIS IMPACTOS ECONÔMICOS GERADOS PELA UNIPAMPA NO MUNICÍPIO DE BAGÉ",
+        "ano": 2022,
+        "autores": "BLASS, L. ; GOERGEN, G. ; BIHAIN, A. L. J. ; ALBANO, C. S.",
+        "titulo_livro": "Adilson Tadeu Basquerote Silva, Andréa Cristina Marques de Araújo e Roger Goulart Mello. (Org.). GEOPOLÍTICA E DEBATES EMERGENTES EM POLÍTICA, ECONOMIA, RELIGIÃO E CULTURA, VOLUME 2. 1ed.Rio de Janeiro",
+        "edicao": "",
+        "editora": "Editora e-Publicar",
+        "paginas": "328-346"
+      },
+      {
+        "titulo": "PROPRIEDADES BIOFÍSICAS DO BIOMA PAMPA: O PAPEL DA VEGETAÇÃO NATIVA NA REGULAÇÃO CLIMÁTICA",
+        "ano": 2020,
+        "autores": "GOERGEN, GUILHERME; VALDÉS, ROILAN HERNÁNDEZ ; Roberti, Débora Regina",
+        "titulo_livro": "Raissa Rachel Salustriano da Silva-Matos; Nitalo André Farias Machado; Hosana Aguiar Freitas de Andrade. (Org.). As Ciências Exatas e da Terra e a Interface com vários Saberes 2. 1ed.Ponta Grossa, PR",
+        "edicao": "",
+        "editora": "Atena Editora",
+        "paginas": "249-255"
+      }
+    ],
+    "trabalhos_completos_congressos": [
+      {
+        "titulo": "Variabilidade hidroclimática da Bacia Hidrográfica do Rio Negro: um estudo de caso para a porção brasileira",
+        "ano": 2015,
+        "autores": "GOERGEN, G.; TATSCH, J. D. ; VALDES, R. H. ; MENDOZA, F. R. T. ; KANNEMBERG, C. ; PARCIANELLO, A. ; VALENTE, F. ; BOIASKI, N. T.",
+        "evento": "IX Workshop Brasileiro de Micrometeorologia",
+        "volume": "",
+        "paginas": "",
+        "doi": "http://dx.doi.org/10.22533/at.ed.08020130123",
+        "evento_sigla": "",
+        "evento_edicao": "IX",
+        "evento_local": "Santa Maria",
+        "evento_veiculo": "Anais do IX Workshop Brasileiro de Micrometeorologia",
+        "evento_chave": "workshop brasileiro de micrometeorologia",
+        "evento_serie": "workshop brasileiro de micrometeorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Calibração do Modelo Distribuído Hidrológico da Biosfera para uma pequena bacia de cerrado",
+        "ano": 2015,
+        "autores": "VALDES, R. H. ; TATSCH, J. D. ; ROCHA, H. R. ; CABRAL, O. M. R. ; NAVARRETE, N. L. V. ; GOERGEN, G. ; BRASILIO, E. M. S. ; MENDOZA, F. R. T. ; PARCIANELLO, A. ; KANNEMBERG, C. ; VALENTE, F.",
+        "evento": "VIII Congresso Cubano de Meteorologia",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "VIII",
+        "evento_local": "Havana",
+        "evento_veiculo": "Anais do VIII Congresso Cubano de Meteorologia",
+        "evento_chave": "congresso cubano de meteorologia",
+        "evento_serie": "congresso cubano de meteorologia",
+        "evento_nome_canonico": ""
+      }
+    ],
+    "resumos_expandidos": [
+      {
+        "titulo": "PIC-JR EM BAGÉ: CONSOLIDAÇÃO DE AÇÃO EXTENSIONISTA PARA A FORMAÇÃO MATEMÁTICA DE ESTUDANTES DA EDUCAÇÃO BÁSICA",
+        "ano": 2026,
+        "autores": "GOERGEN, G.; LINS, G. S. ; MACHADO JUNIOR, J. W. ; MACHADO, V. L. ; Bihain, A. L. J. ; VAZ, F. A. ; SOUZA, I. G. ; DIAS, C. C.",
+        "evento": "44º Seminário de Extensão Universitária da Região Sul",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "44º",
+        "evento_local": "Curitiba",
+        "evento_veiculo": "ANAIS do 44º SEURS Seminário de Extensão Universitária da Região Sul, 2026. v. 1",
+        "evento_chave": "seminario de extensao universitaria da regiao sul",
+        "evento_serie": "seminario de extensao universitaria da regiao sul",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "PANORAMA SOCIOECONÔMICO DE BAGÉ E A CORRELAÇÃO COM MUNICÍPIOS DE PORTE SEMELHANTE",
+        "ano": 2023,
+        "autores": "GOERGEN, G.; TOIO, F. O. ; Bihain, A. L. J. ; ALBANO, C. S. ; BLASS, L.",
+        "evento": "15º Salão Internacional de Ensino, Pesquisa e Extensão (SIEPE)",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "SIEPE",
+        "evento_edicao": "15º",
+        "evento_local": "Caçapava do Sul",
+        "evento_veiculo": "Anais do 15º Salão Internacional de Ensino, Pesquisa e Extensão da UNIPAMPA: Pesquisa e Inovação, 2023. v. 3",
+        "evento_chave": "siepe",
+        "evento_serie": "siepe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "DESAFIOS E ADAPTA«?ES NA EDUCA«ÃO: O ENSINO EM TEMPOS DE PANDEMIA",
+        "ano": 2023,
+        "autores": "GOERGEN, G.; SILVA, E. J. G. ; NORO, G. ; GONAALVES, E. S.",
+        "evento": "15º Salão Internacional de Ensino, Pesquisa e Extensão (SIEPE)",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "SIEPE",
+        "evento_edicao": "15º",
+        "evento_local": "Caçapava do Sul",
+        "evento_veiculo": "Anais do 15º Salão Internacional de Ensino, Pesquisa e Extensão da UNIPAMPA: Pesquisa e Inovação, 2023. v. 3",
+        "evento_chave": "siepe",
+        "evento_serie": "siepe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Relação entre a produtividade agrícola de arroz e as variáveis hidroclimatológicas sobre a porção brasileira da Bacia do Rio Negro - RS",
+        "ano": 2015,
+        "autores": "GOERGEN, G.; TATSCH, J. D. ; VALDES, R. H. ; MENDOZA, F. R. T. ; VALENTE, F. ; KANNEMBERG, C. ; PARCIANELLO, A. ; BOIASKI, N. T.",
+        "evento": "VI Encontro Sul-Brasileiro de Meteorologia",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "VI",
+        "evento_local": "Santa Maria",
+        "evento_veiculo": "Anais do VI Encontro Sul-Brasileiro de Meteorologia",
+        "evento_chave": "encontro sul brasileiro de meteorologia",
+        "evento_serie": "encontro sul brasileiro de meteorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Simulação hidrológica da bacia do rio Vacacaí",
+        "ano": 2015,
+        "autores": "PARCIANELLO, A. ; TATSCH, J. D. ; KANNEMBERG, C. ; MENDOZA, F. R. T. ; GOERGEN, G. ; VALENTE, F. ; NAVARRETE, N. L. V. ; VALDES, R. H.",
+        "evento": "XIX Congresso Brasileiro de Agrometeorologia",
+        "paginas": "1157-1161",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "XIX",
+        "evento_local": "Lavras, MG",
+        "evento_veiculo": "Anais do XIX CBAgro, 2015. v. 1",
+        "evento_chave": "congresso brasileiro de agrometeorologia",
+        "evento_serie": "congresso brasileiro de agrometeorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Reconstrução do ciclo diário da temperatura do ar do Rio Grande do Sul a partir de seus extremos diários",
+        "ano": 2015,
+        "autores": "KANNEMBERG, C. ; PARCIANELLO, A. ; MENDOZA, F. R. T. ; GOERGEN, G. ; VALENTE, F. ; NAVARRETE, N. L. V. ; VALDES, R. H. ; TATSCH, J. D.",
+        "evento": "XIX Congresso Brasileiro de Agrometeorologia",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "XIX",
+        "evento_local": "Lavras, MG",
+        "evento_veiculo": "Anais do XIX CBAgro",
+        "evento_chave": "congresso brasileiro de agrometeorologia",
+        "evento_serie": "congresso brasileiro de agrometeorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Interpolação da temperatura do ar horária a partir de seus extremos diários para 34 Estações Meteorológicas do RS",
+        "ano": 2015,
+        "autores": "KANNEMBERG, C. ; PARCIANELLO, A. ; TATSCH, J. D. ; MENDOZA, F. R. T. ; VALDES, R. H. ; VALENTE, F. ; GOERGEN, G.",
+        "evento": "VI Encontro Sul-Brasileiro de Meteorologia",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "VI",
+        "evento_local": "Santa Maria",
+        "evento_veiculo": "Anais do VI Encontro Sul-Brasileiro de Meteorologia",
+        "evento_chave": "encontro sul brasileiro de meteorologia",
+        "evento_serie": "encontro sul brasileiro de meteorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Teste de sensibilidade dos parâmetros hídricos do solo do modelo SIB2 para microbacia de cerrado",
+        "ano": 2015,
+        "autores": "VALDES, R. H. ; TATSCH, J. D. ; NAVARRETE, N. L. V. ; GOERGEN, G. ; MENDOZA, F. R. T. ; KANNEMBERG, C. ; PARCIANELLO, A. ; VALENTE, F.",
+        "evento": "VI Encontro Sul-Brasileiro de Meteorologia",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "VI",
+        "evento_local": "Santa Maria",
+        "evento_veiculo": "Anais do VI Encontro Sul-Brasileiro de Meteorologia",
+        "evento_chave": "encontro sul brasileiro de meteorologia",
+        "evento_serie": "encontro sul brasileiro de meteorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Intensidade da precipitação horária no Rio Grande do Sul",
+        "ano": 2015,
+        "autores": "PARCIANELLO, A. ; KANNEMBERG, C. ; MENDOZA, F. R. T. ; GOERGEN, G. ; VALDES, R. H. ; TATSCH, J. D.",
+        "evento": "VI Encontro Sul-Brasileiro de Meteorologia",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "VI",
+        "evento_local": "Santa Maria",
+        "evento_veiculo": "Anais do VI Encontro Sul-Brasileiro de Meteorologia",
+        "evento_chave": "encontro sul brasileiro de meteorologia",
+        "evento_serie": "encontro sul brasileiro de meteorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Interpolação da chuva ponderada pela distância angular para a Bacia Hidrográfica do Rio Vacacaí",
+        "ano": 2015,
+        "autores": "MENDOZA, F. R. T. ; GOERGEN, G. ; VALDES, R. H. ; KANNEMBERG, C. ; PARCIANELLO, A. ; TATSCH, J. D.",
+        "evento": "VI Encontro Sul-Brasileiro de Meteorologia",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "VI",
+        "evento_local": "Santa Maria",
+        "evento_veiculo": "Anais do VI Encontro Sul-Brasileiro de Meteorologia",
+        "evento_chave": "encontro sul brasileiro de meteorologia",
+        "evento_serie": "encontro sul brasileiro de meteorologia",
+        "evento_nome_canonico": ""
+      }
+    ],
+    "resumos_congressos": [
+      {
+        "titulo": "CICLISMO COMO UM ESTILO DE VIDA",
+        "ano": 2025,
+        "autores": "GOERGEN, G.; SILVEIRA, C. M. R. ; LOPES, D. E. G. ; PERALTA, C. B. L. ; PIZZATTO, V. E. L.",
+        "evento": "43º Seminário de Extensão Universitária da Região Sul",
+        "volume": "1",
+        "paginas": "2116-2119",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "43º",
+        "evento_local": "Lages, SC",
+        "evento_veiculo": "ANAIS SEURS 43 - Seminário de Extensão Universitária da Região Sul. Lages, SC: Editora Udesc, 2025. v. 1",
+        "evento_chave": "seminario de extensao universitaria da regiao sul",
+        "evento_serie": "seminario de extensao universitaria da regiao sul",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "DESENVOLVIMENTO DE UM DASHBOARD INTERATIVO PARA ANÁLISE SOCIOECONÔMICA COMPARATIVA DE ALGUMAS CIDADES DO RIO GRANDE DO SUL",
+        "ano": 2024,
+        "autores": "TOIO, F. O. ; GOERGEN, G. ; BLASS, L. ; BIHAIN, A. L. J.",
+        "evento": "XV Encontro Gaúcho de Educação Matemática (XV EGEM)",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "XV",
+        "evento_local": "Bagé",
+        "evento_veiculo": "Anais do XV Encontro Gaúcho de Educação Matemática (XV EGEM)",
+        "evento_chave": "encontro gaucho de educacao matematica",
+        "evento_serie": "encontro gaucho de educacao matematica",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "LINHA DO TEMPO DA HISTÓRIA DA MATEMÁTICA: EXPLORANDO GRANDES DESCOBERTAS AO LONGO DOS TEMPOS",
+        "ano": 2024,
+        "autores": "SACARDI, S. H. ; SILVA, E. S. ; TOIO, F. O. ; GOERGEN, G. ; CUNHA, J. B.",
+        "evento": "XV Encontro Gaúcho de Educação Matemática (XV EGEM)",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "XV",
+        "evento_local": "Bagé",
+        "evento_veiculo": "Anais do XV Encontro Gaúcho de Educação Matemática (XV EGEM)",
+        "evento_chave": "encontro gaucho de educacao matematica",
+        "evento_serie": "encontro gaucho de educacao matematica",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Validação do modelo SiB2 para campo nativo do sul do Brasil (Pampa) utilizando calibração multiobjetiva",
+        "ano": 2016,
+        "autores": "GOERGEN, G.; VALDES, R. H. ; MENDOZA, F. R. T. ; PARCIANELLO, A. ; VALENTE, F. ; TATSCH, J. D.",
+        "evento": "XV Encontro dos Alunos de Pós-Graduação em Meteorologia do CPTEC/INPE",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "XV",
+        "evento_local": "Cachoeira Paulista",
+        "evento_veiculo": "Anais do XV EPGMET",
+        "evento_chave": "encontro dos alunos de pos graduacao em meteorologia do cptec inpe",
+        "evento_serie": "encontro dos alunos de pos graduacao em meteorologia do cptec inpe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "MELHORES PARAMETRIZAÇÕES DE RADIAÇÃO DE ONDA LONGA INCIDENTE PARA A REGIÃO CENTRAL DO RS",
+        "ano": 2016,
+        "autores": "VALDES, R. H. ; GOERGEN, G. ; TATSCH, J. D. ; MENDOZA, F. R. T. ; PARCIANELLO, A.",
+        "evento": "XV Encontro dos Alunos de Pós-Graduação em Meteorologia do CPTEC/INPE",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "XV",
+        "evento_local": "Cachoeira Paulista, SP",
+        "evento_veiculo": "Anais do XV EPGMET",
+        "evento_chave": "encontro dos alunos de pos graduacao em meteorologia do cptec inpe",
+        "evento_serie": "encontro dos alunos de pos graduacao em meteorologia do cptec inpe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "titulo": "Previsão de temperatura e precipitação utilizando um modelo Sarima",
+        "ano": 2008,
+        "autores": "FERRAZ, S. E. T. ; Roberta Goergen ; MENDONCA, A. ; GOERGEN, G.",
+        "evento": "XV CBMET - Congresso Brasileiro de Meteorologia",
+        "volume": "",
+        "paginas": "",
+        "doi": "",
+        "evento_sigla": "",
+        "evento_edicao": "XV",
+        "evento_local": "São Paulo",
+        "evento_veiculo": "Anais do XV CBMET",
+        "evento_chave": "cbmet congresso brasileiro de meteorologia",
+        "evento_serie": "cbmet congresso brasileiro de meteorologia",
+        "evento_nome_canonico": ""
+      }
+    ],
+    "artigos_aceitos": [
+      {
+        "titulo": "Sensibiblidade dos parâmetros hídricos do solo do Modelo Distribuído Hidrológico da Biosfera para uma pequena bacia de Cerrado",
+        "ano": 2016,
+        "autores": "VALDES, R. H. ; TATSCH, J. D. ; ROCHA, H. R. ; BRASILIO, E. M. S. ; NAVARRETE, N. L. V. ; GOERGEN, G. ; MENDOZA, F. R. T. ; PARCIANELLO, A. ; KANNEMBERG, C. ; VALENTE, F.",
+        "revista": "Ciência e Natura",
+        "volume": "",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": ""
+      },
+      {
+        "titulo": "Variabilidade hidroclimática da Bacia Hidrográfica do Rio Negro: um estudo de caso para a porção brasileira",
+        "ano": 2016,
+        "autores": "GOERGEN, G.; TATSCH, J. D. ; VALDES, R. H. ; MENDOZA, F. R. T. ; VALENTE, F. ; KANNEMBERG, C. ; PARCIANELLO, A. ; BOIASKI, N. T.",
+        "revista": "Ciência e Natura",
+        "volume": "",
+        "numero": "",
+        "paginas": "",
+        "issn": "",
+        "doi": ""
+      }
+    ],
+    "apresentacoes_trabalhos": [
+      {
+        "titulo": "O QUE SE SABE SOBRE A EMPREGABILIDADE E A RENDA DOS EGRESSOS DO CURSO DE LICENCIATURA EM MATEMÁTICA DA UNIPAMPA ? CAMPUS BAGÉ?",
+        "ano": 2022,
+        "autores": "RAMOS, E. A. ; GOERGEN, G.",
+        "natureza": "Apresentação de Trabalho/Outra"
+      },
+      {
+        "titulo": "Minicurso: Criando documentos dinâmicos com o Rstudio",
+        "ano": 2022,
+        "autores": "GOERGEN, G",
+        "natureza": "Apresentação de Trabalho/Outra"
+      },
+      {
+        "titulo": "Variabilidade hidroclimática da Bacia Hidrográfica do Rio Negro: um estudo de caso para a porção brasileira",
+        "ano": 2015,
+        "autores": "GOERGEN, G.; TATSCH, J. D. ; MENDOZA, F. R. T. ; VALDES, R. H. ; KANNEMBERG, C. ; PARCIANELLO, A. ; VALENTE, F. ; BOIASKI, N. T.",
+        "natureza": "Apresentação de Trabalho/Congresso"
+      },
+      {
+        "titulo": "Variabilidade hidroclimática e produtividade agrícola de arroz da Bacia Hidrográfica do Rio Negro - RS",
+        "ano": 2015,
+        "autores": "GOERGEN, G.; TATSCH, J. D.",
+        "natureza": "Apresentação de Trabalho/Seminário"
+      },
+      {
+        "titulo": "Relação entre a produtividade agrícola de arroz e as variáveis hidroclimatológicas sobre a porção brasileira da Bacia do Rio Negro - RS",
+        "ano": 2015,
+        "autores": "GOERGEN, G.; TATSCH, J. D. ; VALDES, R. H. ; MENDOZA, F. R. T. ; VALENTE, F. ; KANNEMBERG, C. ; PARCIANELLO, A. ; BOIASKI, N. T.",
+        "natureza": "Apresentação de Trabalho/Outra"
+      },
+      {
+        "titulo": "Análise de dados antropometricos de pessoas da terceira idade do município de Bagé/RS utilizando o software R",
+        "ano": 2014,
+        "autores": "GOERGEN, G",
+        "natureza": "Apresentação de Trabalho/Simpósio"
+      },
+      {
+        "titulo": "Estimativa da evapotranspiração potencial em Bagé-RS para aplicação no índice padronizado precipitação-evapotranspiração",
+        "ano": 2013,
+        "autores": "GOERGEN, G.; TATSCH, J. D. ; Moraes, M. R.",
+        "natureza": "Apresentação de Trabalho/Congresso"
+      },
+      {
+        "titulo": "Estimativa da evapotranspiração sobre a bacia do Prata utilizando climatologia do IAF",
+        "ano": 2009,
+        "autores": "GOERGEN, G.; ROBERTI, D. R. ; de Gonçalves, Luis Gustavo G",
+        "natureza": "Apresentação de Trabalho/Congresso"
+      },
+      {
+        "titulo": "Estimativa da evapotranspiração sobre a bacia do Prata",
+        "ano": 2009,
+        "autores": "GOERGEN, G.; ROBERTI, D. R. ; de Gonçalves, Luis Gustavo G",
+        "natureza": "Apresentação de Trabalho/Congresso"
+      },
+      {
+        "titulo": "Estimate of Evapotranspiration over the La Plata Basin Using Remote Sensing",
+        "ano": 2009,
+        "autores": "GOERGEN, G",
+        "natureza": "Apresentação de Trabalho/Outra"
+      },
+      {
+        "titulo": "Análise da evapotranspiração utilizando dados de sensoriamento remoto na equação de Penman-Monteith",
+        "ano": 2008,
+        "autores": "GOERGEN, G.; ROBERTI, D. R.",
+        "natureza": "Apresentação de Trabalho/Outra"
+      },
+      {
+        "titulo": "Previsão de Temperatura e Precipitação Utilizando um Modelo Sarima",
+        "ano": 2008,
+        "autores": "GOERGEN, G.; FERRAZ, S. E. T. ; Roberta Goergen",
+        "natureza": "Apresentação de Trabalho/Congresso"
+      },
+      {
+        "titulo": "Determinação de Fontes de Poluição na Atmosfera Utilizando Algoritmo Genético",
+        "ano": 2007,
+        "autores": "GOERGEN, G.; ROBERTI, D. R. ; Paulo Ricardo Jauer",
+        "natureza": "Apresentação de Trabalho/Outra"
+      },
+      {
+        "titulo": "Implementação do Método de Otimização Algoritmo Genético",
+        "ano": 2006,
+        "autores": "GOERGEN, G",
+        "natureza": "Apresentação de Trabalho/Congresso"
+      },
+      {
+        "titulo": "Um Modelo Presa-Predador com Efeito Allee Fraco para uma População de Presas",
+        "ano": 2006,
+        "autores": "GOERGEN, G",
+        "natureza": "Apresentação de Trabalho/Congresso"
+      },
+      {
+        "titulo": "Oficina Permanente de Matemática - Histórico",
+        "ano": 2005,
+        "autores": "GOERGEN, G.; Roberta Goergen",
+        "natureza": "Apresentação de Trabalho/Congresso"
+      },
+      {
+        "titulo": "Oficina Permanente de Matemática - Versão IV",
+        "ano": 2005,
+        "autores": "GOERGEN, G.; Roberta Goergen",
+        "natureza": "Apresentação de Trabalho/Congresso"
+      }
+    ],
+    "textos_jornais": [],
+    "outras_producoes": [
+      {
+        "titulo": "X Encontro Regional de Matemática Aplicada e Computacional do Rio Grande do Sul (10. : 2020 : Porto Alegre, RS). Porto Alegre, RS: EDIPUCRS",
+        "ano": 2020,
+        "autores": "SAUSEN, A. T. Z. R. ; GOERGEN, G.",
+        "tipo": "Demais tipos de produção bibliográfica",
+        "natureza": "10. : 2020 : Porto Alegre, RS). Porto Alegre, RS: EDIPUCRS, 2020 (Revisor dos textos publicados nos anais de evento"
+      }
+    ]
+  },
+  "producao_tecnica": {
+    "softwares_com_patente": [],
+    "softwares_sem_patente": [],
+    "produtos_tecnologicos": [],
+    "processos_tecnicas": [],
+    "trabalhos_tecnicos": [],
+    "outras_producoes_tecnicas": [
+      {
+        "titulo": "Como o R pode ajudar a escrever meu relatório acadêmico?. 2023",
+        "ano": 2023,
+        "autores": "GOERGEN, G",
+        "tipo": "Demais tipos de produção técnica",
+        "natureza": ""
+      },
+      {
+        "titulo": "Criando documentos dinâmicos com Rstudio. 2022",
+        "ano": 2022,
+        "autores": "GOERGEN, G",
+        "tipo": "Demais tipos de produção técnica",
+        "natureza": ""
+      },
+      {
+        "titulo": "VI Simpósio Internacional de Ensino, Pesquisa e Extensão",
+        "ano": 2014,
+        "autores": "GOERGEN, G",
+        "tipo": "Demais tipos de produção técnica",
+        "natureza": "Avaliador de resumos submetidos ao VI SIEPE"
+      },
+      {
+        "titulo": "XX EREMATSUL - Encontro Regional de Estudantes da Região Sul",
+        "ano": 2014,
+        "autores": "GOERGEN, G",
+        "tipo": "Demais tipos de produção técnica",
+        "natureza": "Avaliador de artigos submetidos ao XX EREMATSUL"
+      },
+      {
+        "titulo": "Monitoria não subsidiada de Matemática Básica. 2005",
+        "ano": 2005,
+        "autores": "GOERGEN, G",
+        "tipo": "Demais tipos de produção técnica",
+        "natureza": ""
+      }
+    ],
+    "entrevistas": []
+  },
+  "patentes_registros": {
+    "patentes": [],
+    "programas_computador": [],
+    "desenhos_industriais": []
+  },
+  "producao_artistica": [],
+  "orientacoes": {
+    "em_andamento": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [],
+      "iniciacao_cientifica": [],
+      "outros": []
+    },
+    "concluidas": {
+      "pos_doutorado": [],
+      "doutorado": [],
+      "mestrado": [],
+      "especializacao": [],
+      "tcc": [
+        {
+          "ano_conclusao": 2025,
+          "titulo": "A SEQUÊNCIA DIDÁTICA INTERATIVA (SDI) COMO AVALIAÇÃO DIAGNÓSTICA E ESTRATÉGIA DE ENSINO DE FUNÇÕES PARA INGRESSANTES EM CURSOS DE LICENCIATURA EM MATEMÁTICA",
+          "orientando": "VINÍCIUS DE LIMA MACHADO",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "Graduação em Matemática",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        },
+        {
+          "ano_conclusao": 2024,
+          "titulo": "A RELAÇÃO ENTRE O NÍVEL DE ESCOLARIDADE E O MERCADO DE TRABALHO NO MUNICÍPIO DE BAGÉ",
+          "orientando": "FELIPE DE OLIVEIRA TOIO",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "Graduação em Matemática",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        },
+        {
+          "ano_conclusao": 2022,
+          "titulo": "USO DO SOFTWARE R PARA CONSTRUÇÃO DE MAPAS DE VULNERABILIDADE SOCIAL: APLICAÇÃO AO MUNICÍPIO DE BAGÉ/RS",
+          "orientando": "VIVIANE CASTRO DE VASCONCELLOS WERNER",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "Graduação em Matemática",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        },
+        {
+          "ano_conclusao": 2021,
+          "titulo": "Perfil dos Egressos do curso de Licenciatura em Matemática da UNIPAMPA: Um Olhar Sobre os Impactos Socioeconômicos",
+          "orientando": "ELIANE ALBRECHT RAMOS",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "Graduação em Matemática",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        }
+      ],
+      "iniciacao_cientifica": [
+        {
+          "ano_conclusao": 2023,
+          "titulo": "Análise do perfil socioeconômico e de vulnerabilidade social do município de Bagé - RS: entendimento e projeções",
+          "orientando": "FELIPE DE OLIVEIRA TOIO",
+          "tipo_trabalho": "Trabalho de Conclusão de Curso",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "Graduando em Matemática",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        },
+        {
+          "ano_conclusao": 2022,
+          "titulo": "ANÁLISE DO PERFIL SOCIOECONÔMICO E DE VULNERABILIDADE SOCIAL DO MUNICÍPIO DE BAGÉ - RS: ENTENDIMENTO E PROJEÇÕES",
+          "orientando": "Maria Eduarda Soares Delgado",
+          "tipo_trabalho": "Iniciação Científica",
+          "instituicao": "Universidade Federal do Pampa",
+          "instituicao_chave": "universidade federal do pampa",
+          "instituicao_canonica": "",
+          "curso": "",
+          "tipo_orientacao": "Orientador",
+          "agencia_fomento": ""
+        }
+      ],
+      "outros": []
+    }
+  },
+  "eventos": {
+    "participacoes": [
+      {
+        "evento": "44º Seminário de Extensão da Região Sul - SEURS 2026",
+        "apresentacao": "PIC-JR EM BAGÉ: CONSOLIDAÇÃO DE AÇÃO EXTENSIONISTA PARA A FORMAÇÃO MATEMÁTICA DE ESTUDANTES DA EDUCAÇÃO BÁSICA",
+        "ano": 2026,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "seminario de extensao da regiao sul seurs 2026",
+        "evento_serie": "seminario de extensao da regiao sul seurs 2026",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "43º Seminário de Extensão Universitária da Região Sul ? SEURS 2025",
+        "apresentacao": "Ciclismo como um estilo de vida",
+        "ano": 2025,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "seminario de extensao universitaria da regiao sul seurs 2025",
+        "evento_serie": "seminario de extensao universitaria da regiao sul seurs 2025",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "XII Fórum de Educação a Distância da UNIPAMPA",
+        "apresentacao": "COMO PROFESSORES CURSISTAS AVALIAM O ENSINO A DISTÂNCIA: UMA ANÁLISE A PARTIR DE UM CURSO DE ESPECIALIZAÇÃO EM MATEMÁTICA",
+        "ano": 2024,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "forum de educacao a distancia da unipampa",
+        "evento_serie": "forum de educacao a distancia da unipampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "XV Encontro Gaúco de Educação Matemática - EGEM",
+        "apresentacao": "",
+        "ano": 2024,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro gauco de educacao matematica egem",
+        "evento_serie": "encontro gauco de educacao matematica egem",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "XV Encontro Gaúco de Educação Matemática - EGEM",
+        "apresentacao": "DESENVOLVIMENTO DE UM DASHBOARD INTERATIVO PARA ANÁLISE SOCIOECONÔMICA COMPARATIVA DE ALGUMAS CIDADES DO RIO GRANDE DO SUL",
+        "ano": 2024,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro gauco de educacao matematica egem",
+        "evento_serie": "encontro gauco de educacao matematica egem",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "15º Salão Internacional de Ensino, Pesquisa e Extensão (SIEPE)",
+        "apresentacao": "PANORAMA SOCIOECONÔMICO DE BAGÉ E A CORRELAÇÃO COM MUNICÍPIOS DE PORTE SEMELHANTE",
+        "ano": 2023,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "siepe",
+        "evento_serie": "siepe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "15º Salão Internacional de Ensino, Pesquisa e Extensão (SIEPE)",
+        "apresentacao": "DESAFIOS E ADAPTAÇÕES NA EDUCAÇÃO: O ENSINO EM TEMPOS DE PANDEMIA",
+        "ano": 2023,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "siepe",
+        "evento_serie": "siepe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "14º Salão Internacional de Ensino, Pesquisa e Extensão -SIEPE",
+        "apresentacao": "Avaliador de trabalhos científicos",
+        "ano": 2022,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "salao internacional de ensino pesquisa e extensao siepe",
+        "evento_serie": "salao internacional de ensino pesquisa e extensao siepe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "II Colóquio de Matemática do Pampa",
+        "apresentacao": "",
+        "ano": 2022,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "coloquio de matematica do pampa",
+        "evento_serie": "coloquio de matematica do pampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Programa de Desenvolvimento Acadêmico, edição 2021",
+        "apresentacao": "Pesquisa, Desenvolvimento Tecnológico e Inovação",
+        "ano": 2021,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "programa de desenvolvimento academico edicao 2021",
+        "evento_serie": "programa de desenvolvimento academico edicao 2021",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "X ERMAC RS",
+        "apresentacao": "Projeto de extensão \"X ERMAC RS\"",
+        "ano": 2020,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "ermac rs",
+        "evento_serie": "ermac rs",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "11º Salão Internacional de Ensino, Pesquisa e Extensão -SIEPE",
+        "apresentacao": "Avaliador de resumos da Mostra Científica",
+        "ano": 2019,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "salao internacional de ensino pesquisa e extensao siepe",
+        "evento_serie": "salao internacional de ensino pesquisa e extensao siepe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Encontro dos Alunos de Pós-Graduação em Meteorologia do CPTEC/INPE",
+        "apresentacao": "Validação do modelo SiB2 para campo nativo do sul do Brasil (Pampa) utilizando calibração multiobjetiva",
+        "ano": 2016,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro dos alunos de pos graduacao em meteorologia do cptec inpe",
+        "evento_serie": "encontro dos alunos de pos graduacao em meteorologia do cptec inpe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "IX Workshop Brasileiro de Micrometeorologia",
+        "apresentacao": "Variabilidade hidroclimática da Bacia Hidrográfica do Rio Negro: um estudo de caso para a porção brasileira",
+        "ano": 2015,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "workshop brasileiro de micrometeorologia",
+        "evento_serie": "workshop brasileiro de micrometeorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Seminário Internacional de Recursos Hídricos, Energia e Desenvolvimento Sustentável - SInRHEDS",
+        "apresentacao": "Variabilidade hidroclimática e produtividade agrícola de arroz da Bacia Hidrográfica do Rio Negro - RS",
+        "ano": 2015,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "seminario internacional de recursos hidricos energia e desenvolvimento sustentavel sinrheds",
+        "evento_serie": "seminario internacional de recursos hidricos energia e desenvolvimento sustentavel sinrheds",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "VI Encontro Sul-Brasileiro de Meteorologia",
+        "apresentacao": "Relação entre a produtividade agrícola de arroz e as variáveis hidroclimatológicas sobre a porção brasileira da Bacia do Rio Negro - RS",
+        "ano": 2015,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro sul brasileiro de meteorologia",
+        "evento_serie": "encontro sul brasileiro de meteorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "21° SINAPE - Simposio Nacional de Probabilidade e Estatstica - 2014",
+        "apresentacao": "Análise de dados antropométricos de pessoas da terceira idade do município de Bagé/RS utilizando o software R",
+        "ano": 2014,
+        "tipo_evento": "Simpósio",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "sinape simposio nacional de probabilidade e estatstica 2014",
+        "evento_serie": "sinape simposio nacional de probabilidade e estatstica 2014",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "XX Encontro Regional de Estudantes de Matemática da Região Sul - EREMATSUL",
+        "apresentacao": "",
+        "ano": 2014,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro regional de estudantes de matematica da regiao sul erematsul",
+        "evento_serie": "encontro regional de estudantes de matematica da regiao sul erematsul",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Capacitação de Professores para atuarem com o Multiplano no Ensino da Matemática para alunos com deficiência visal",
+        "apresentacao": "",
+        "ano": 2013,
+        "tipo_evento": "Oficina",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "capacitacao de professores para atuarem com o multiplano no ensino da matematica para alunos com deficiencia visal",
+        "evento_serie": "capacitacao de professores para atuarem com o multiplano no ensino da matematica para alunos com deficiencia visal",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Ciclo de Colóquios Interdisciplinares - Desafios da Educação Inclusiva",
+        "apresentacao": "",
+        "ano": 2013,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "ciclo de coloquios interdisciplinares desafios da educacao inclusiva",
+        "evento_serie": "ciclo de coloquios interdisciplinares desafios da educacao inclusiva",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "V Encontro de Educação Matemática de Ouro Preto",
+        "apresentacao": "",
+        "ano": 2013,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro de educacao matematica de ouro preto",
+        "evento_serie": "encontro de educacao matematica de ouro preto",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "VIII Workshop Brasileiro de Micrometeorologia",
+        "apresentacao": "Estimativa da evapotranspiração potencial em Bagé-RS para aplicação no índice padronizado precipitação-evapotranspiração",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "workshop brasileiro de micrometeorologia",
+        "evento_serie": "workshop brasileiro de micrometeorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "V SIEPE - Salão Internacional de Ensino, Pesquisa e Extensão",
+        "apresentacao": "Avaliador dos resumos submetidos ao evento",
+        "ano": 2013,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "siepe salao internacional de ensino pesquisa e extensao",
+        "evento_serie": "siepe salao internacional de ensino pesquisa e extensao",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "IV SIEPE - Salão Internacional de Ensino, Pesquisa e Extensão",
+        "apresentacao": "Avaliador dos resumos submetidos ao evento",
+        "ano": 2012,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "siepe salao internacional de ensino pesquisa e extensao",
+        "evento_serie": "siepe salao internacional de ensino pesquisa e extensao",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "3rd IGUAL Project Meeting",
+        "apresentacao": "",
+        "ano": 2011,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "igual project meeting",
+        "evento_serie": "igual project meeting",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "8ª Semana Acadêmica Integrada do Centro de Ciências Naturais e Exatas",
+        "apresentacao": "Programa de Pós-Graduação em Meteorologia",
+        "ano": 2009,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "semana academica integrada do centro de ciencias naturais e exatas",
+        "evento_serie": "semana academica integrada do centro de ciencias naturais e exatas",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "III Encontro Sul Brasileiro de Meteorologia",
+        "apresentacao": "",
+        "ano": 2009,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro sul brasileiro de meteorologia",
+        "evento_serie": "encontro sul brasileiro de meteorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "International Summer School on Land Cover Change and Hydroclimate of La Plata Basin",
+        "apresentacao": "",
+        "ano": 2009,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "international summer school on land cover change and hydroclimate of la plata basin",
+        "evento_serie": "international summer school on land cover change and hydroclimate of la plata basin",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "International Summer School on Land Cover Change and Hydroclimate of La Plata Basin",
+        "apresentacao": "Estimate of Evapotranspiration over the La Plata Basin Using Remote Sensing",
+        "ano": 2009,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "international summer school on land cover change and hydroclimate of la plata basin",
+        "evento_serie": "international summer school on land cover change and hydroclimate of la plata basin",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "IX Encontro dos Alunos de Pós-Graduação em Meteorologia do INPE",
+        "apresentacao": "Estimativa da evapotranspiração sobre a bacia do Prata",
+        "ano": 2009,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro dos alunos de pos graduacao em meteorologia do inpe",
+        "evento_serie": "encontro dos alunos de pos graduacao em meteorologia do inpe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "VI Workshop Brasileiro de Micrometeorologia",
+        "apresentacao": "Estimativa da evapotranspiração sobre a bacia do Prata utilizando climatologia do IAF",
+        "ano": 2009,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "workshop brasileiro de micrometeorologia",
+        "evento_serie": "workshop brasileiro de micrometeorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "VI Workshop Brasileiro de Micrometeorologia",
+        "apresentacao": "",
+        "ano": 2009,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "workshop brasileiro de micrometeorologia",
+        "evento_serie": "workshop brasileiro de micrometeorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "VIII Encontro dos Alunos de Pós-Graduação em Meteorologia do INPE",
+        "apresentacao": "Análise da evapotranspiração utilizando dados de sensoriamento remoto na equação de Penman-Monteith",
+        "ano": 2008,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro dos alunos de pos graduacao em meteorologia do inpe",
+        "evento_serie": "encontro dos alunos de pos graduacao em meteorologia do inpe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "VIII Encontro dos Alunos de Pós-Graduação em Meteorologia do INPE",
+        "apresentacao": "",
+        "ano": 2008,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro dos alunos de pos graduacao em meteorologia do inpe",
+        "evento_serie": "encontro dos alunos de pos graduacao em meteorologia do inpe",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "XV Congresso Brasileiro de Meteorologia",
+        "apresentacao": "",
+        "ano": 2008,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "congresso brasileiro de meteorologia",
+        "evento_serie": "congresso brasileiro de meteorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "XV Congresso Brasileiro de Meteorologia",
+        "apresentacao": "Previsão de Temperatura e Precipitação Utilizando um Modelo Sarima",
+        "ano": 2008,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "congresso brasileiro de meteorologia",
+        "evento_serie": "congresso brasileiro de meteorologia",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "X SulPET - Encontro dos Grupos PET da Região Sul",
+        "apresentacao": "",
+        "ano": 2007,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "sulpet encontro dos grupos pet da regiao sul",
+        "evento_serie": "sulpet encontro dos grupos pet da regiao sul",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "6ª Semana Acadêmica Integrada do Centro de Ciências Naturais e Exatas",
+        "apresentacao": "",
+        "ano": 2006,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "semana academica integrada do centro de ciencias naturais e exatas",
+        "evento_serie": "semana academica integrada do centro de ciencias naturais e exatas",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "III Encontro de Matemática Universitária",
+        "apresentacao": "",
+        "ano": 2006,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro de matematica universitaria",
+        "evento_serie": "encontro de matematica universitaria",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "IX SulPET - Encontro dos Grupos PET da Região Sul",
+        "apresentacao": "",
+        "ano": 2006,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "sulpet encontro dos grupos pet da regiao sul",
+        "evento_serie": "sulpet encontro dos grupos pet da regiao sul",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Visita de Estudos à Empresa TSM Telecomunicações do Brasil",
+        "apresentacao": "",
+        "ano": 2006,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "visita de estudos a empresa tsm telecomunicacoes do brasil",
+        "evento_serie": "visita de estudos a empresa tsm telecomunicacoes do brasil",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "1° Ciclo de Palestras Integradas EXPANSÃO",
+        "apresentacao": "",
+        "ano": 2005,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "ciclo de palestras integradas expansao",
+        "evento_serie": "ciclo de palestras integradas expansao",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "25° Colóquio Brasileiro de Matemática",
+        "apresentacao": "",
+        "ano": 2005,
+        "tipo_evento": "Congresso",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "coloquio brasileiro de matematica",
+        "evento_serie": "coloquio brasileiro de matematica",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Feira das Profissões - VII edição",
+        "apresentacao": "",
+        "ano": 2005,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "feira das profissoes vii edicao",
+        "evento_serie": "feira das profissoes vii edicao",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "VIII SulPET - Encontro dos grupos PET da Região Sul",
+        "apresentacao": "",
+        "ano": 2005,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "sulpet encontro dos grupos pet da regiao sul",
+        "evento_serie": "sulpet encontro dos grupos pet da regiao sul",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "XI Encontro Regional de Estudantes de Matemática da Região Sul",
+        "apresentacao": "",
+        "ano": 2005,
+        "tipo_evento": "Encontro",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro regional de estudantes de matematica da regiao sul",
+        "evento_serie": "encontro regional de estudantes de matematica da regiao sul",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "5ª Semana Acadêmica Integrada do Centro de Ciências Naturais e Exatas",
+        "apresentacao": "",
+        "ano": 2004,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "semana academica integrada do centro de ciencias naturais e exatas",
+        "evento_serie": "semana academica integrada do centro de ciencias naturais e exatas",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Feira das Profissões - VI edição",
+        "apresentacao": "",
+        "ano": 2004,
+        "tipo_evento": "Outra",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "feira das profissoes vi edicao",
+        "evento_serie": "feira das profissoes vi edicao",
+        "evento_nome_canonico": ""
+      },
+      {
+        "evento": "Seminário de Administração",
+        "apresentacao": "",
+        "ano": 2002,
+        "tipo_evento": "Seminário",
+        "tipo": "Participação em evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "seminario de administracao",
+        "evento_serie": "seminario de administracao",
+        "evento_nome_canonico": ""
+      }
+    ],
+    "organizacoes": [
+      {
+        "autores": "OLIVEIRA, C. P. ; PEREIRA, E. D. ; SILVA, E. J. G. ; PADILHA, F. R. ; VAZ, F. A. ; GOERGEN, GUILHERME ; JUNQUEIRA, S. M. S. ; Bihain, A. L. J.",
+        "evento": "XV Encontro Gaúco de Educação Matemática - EGEM",
+        "ano": 2024,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "encontro gauco de educacao matematica egem",
+        "evento_serie": "encontro gauco de educacao matematica egem",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "BIHAIN A. L. J.; BLASS, LEANDRO ; OLIVEIRA, C. P. ; SILVA, E. J. G. ; VAZ, F. A. ; GOERGEN, G. ; JUNQUEIRA, S. M. S. ; ANGELO, C. L. ; NEGRAO, M. M. ; PADILHA, F. R.",
+        "evento": "II Colóquio de Matemática do Pampa",
+        "ano": 2022,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "coloquio de matematica do pampa",
+        "evento_serie": "coloquio de matematica do pampa",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "GOERGEN, G.. Semana Acadêmica Integrada do Campus Bagé. 2022. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "",
+        "evento_serie": "",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "GOERGEN, G.. I Colóquio de Matemática do Pampa. 2021. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "",
+        "evento_serie": "",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "GOERGEN, G.; OLIVEIRA, C. P.",
+        "evento": "XX EREMATSUL - Encontro Regional de Estudantes da Região Sul",
+        "ano": 2014,
+        "natureza": "Congresso",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "erematsul encontro regional de estudantes da regiao sul",
+        "evento_serie": "erematsul encontro regional de estudantes da regiao sul",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "GOERGEN, G.. V Salão Internacional de Ensino, Pesquisa e Extensão (SIEPE). 2013. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "",
+        "evento_serie": "",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "GOERGEN, G.. VI Workshop Brasileiro de Micrometeorologia. 2009. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "",
+        "evento_serie": "",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "GOERGEN, G.. X SulPET - Encontro dos Gurpos PET da Região Sul. 2007. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "",
+        "evento_serie": "",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "GOERGEN, G.. 1° Ciclo de Palestras Integradas Expansão. 2005. (Outro).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "",
+        "evento_serie": "",
+        "evento_nome_canonico": ""
+      },
+      {
+        "autores": "GOERGEN, G.. XI Encontro Regional de Estudantes de Matemática da Região Sul. 2005. (Congresso).",
+        "evento": "",
+        "ano": 0,
+        "natureza": "",
+        "tipo": "Organização de evento",
+        "evento_sigla": "",
+        "evento_edicao": "",
+        "evento_local": "",
+        "evento_veiculo": "",
+        "evento_chave": "",
+        "evento_serie": "",
+        "evento_nome_canonico": ""
+      }
+    ]
+  },
+  "bancas": {
+    "mestrado": [],
+    "doutorado": [],
+    "qualificacao_doutorado": [],
+    "qualificacao_mestrado": [],
+    "graduacao": [
+      {
+        "descricao": "BLASS, LEANDRO; IRALA, VALESCA BRASIL; BIHAIN, A. L. J.; GOERGEN, GUILHERME. Participação em banca de CRISTIANO SALDANHA DA SILVA.ENSINO REMOTO NA EDUCAÇÃO SUPERIOR: UMA ANÁLISE QUANTITATIVA COM FOCO NA PERCEPÇÃO DOS ESTUDANTES EM COMPONENTES CURRICULARES DA ÁREA DE MATEMÁTICA. 2022. Trabalho de Conclusão de Curso (Graduação em Matemática) - Universidade Federal do Pampa.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "CRISTIANO SALDANHA DA SILVA",
+        "membros_banca": [
+          "BLASS, LEANDRO",
+          "IRALA, VALESCA BRASIL",
+          "BIHAIN, A. L. J.",
+          "GOERGEN, GUILHERME"
+        ],
+        "titulo_trabalho": "ENSINO REMOTO NA EDUCAÇÃO SUPERIOR: UMA ANÁLISE QUANTITATIVA COM FOCO NA PERCEPÇÃO DOS ESTUDANTES EM COMPONENTES CURRICULARES DA ÁREA DE MATEMÁTICA",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Matemática)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "GOERGEN, GUILHERME; BIHAIN, A. L. J.; BLASS, LEANDRO. Participação em banca de VIVIANE CASTRO DE VASCONCELLOS WERNER.USO DO SOFTWARE R PARA CONSTRUÇÃO DE MAPAS DE VULNERABILIDADE SOCIAL: APLICAÇÃO AO MUNICÍPIO DE BAGÉ/RS. 2022. Trabalho de Conclusão de Curso (Graduação em Matemática) - Universidade Federal do Pampa.",
+        "ano": 2022,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "VIVIANE CASTRO DE VASCONCELLOS WERNER",
+        "membros_banca": [
+          "GOERGEN, GUILHERME",
+          "BIHAIN, A. L. J.",
+          "BLASS, LEANDRO"
+        ],
+        "titulo_trabalho": "USO DO SOFTWARE R PARA CONSTRUÇÃO DE MAPAS DE VULNERABILIDADE SOCIAL: APLICAÇÃO AO MUNICÍPIO DE BAGÉ/RS",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Matemática)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "IRALA, VALESCA BRASIL; BLASS, LEANDRO; GOERGEN, GUILHERME. Participação em banca de CRISTIANO SALDANHA DA SILVA.ENSINO REMOTO NA EDUCAÇÃO SUPERIOR: uma análise quantitativa com foco na percepção dos estudantes em componentes curriculares da área de Matemática. 2021. Trabalho de Conclusão de Curso (Graduação em Matemática) - Universidade Federal do Pampa.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "CRISTIANO SALDANHA DA SILVA",
+        "membros_banca": [
+          "IRALA, VALESCA BRASIL",
+          "BLASS, LEANDRO",
+          "GOERGEN, GUILHERME"
+        ],
+        "titulo_trabalho": "ENSINO REMOTO NA EDUCAÇÃO SUPERIOR: uma análise quantitativa com foco na percepção dos estudantes em componentes curriculares da área de Matemática",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Matemática)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "GOERGEN, GUILHERME; BLASS, LEANDRO. Participação em banca de ELIANE ALBRECHT RAMOS.Perfil dos Egressos do curso de Licenciatura em Matemática da UNIPAMPA: Um Olhar Sobre os Impactos Socioeconômicos. 2021. Trabalho de Conclusão de Curso (Graduação em Matemática) - Universidade Federal do Pampa.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "ELIANE ALBRECHT RAMOS",
+        "membros_banca": [
+          "GOERGEN, GUILHERME",
+          "BLASS, LEANDRO"
+        ],
+        "titulo_trabalho": "Perfil dos Egressos do curso de Licenciatura em Matemática da UNIPAMPA: Um Olhar Sobre os Impactos Socioeconômicos",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Matemática)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "GOERGEN, GUILHERME; BIHAIN, A. L. J.. Participação em banca de VIVIANE CASTRO DE VASCONCELLOS WERNER.MAPA DA VULNERABILIDADE SOCIAL NO MUNICÍPIO DE BAGÉ: UMA ANÁLISE A PARTIR DOS DADOS DO IBGE. 2021. Trabalho de Conclusão de Curso (Graduação em Matemática) - Universidade Federal do Pampa.",
+        "ano": 2021,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "VIVIANE CASTRO DE VASCONCELLOS WERNER",
+        "membros_banca": [
+          "GOERGEN, GUILHERME",
+          "BIHAIN, A. L. J."
+        ],
+        "titulo_trabalho": "MAPA DA VULNERABILIDADE SOCIAL NO MUNICÍPIO DE BAGÉ: UMA ANÁLISE A PARTIR DOS DADOS DO IBGE",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Matemática)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "GOERGEN, G.; SCHAFER, A. G.; Moraes, M. R.. Participação em banca de Marcelo Coleto Rola.Simulação Numérica da Dispersão de Poluentes na Região da Usina Termelétrica Presidente Médici com o sistema de Modelos WRF/CALMET/CALPUFF. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente) - Universidade Federal do Pampa.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Marcelo Coleto Rola",
+        "membros_banca": [
+          "GOERGEN, G.",
+          "SCHAFER, A. G.",
+          "Moraes, M. R."
+        ],
+        "titulo_trabalho": "Simulação Numérica da Dispersão de Poluentes na Região da Usina Termelétrica Presidente Médici com o sistema de Modelos WRF/CALMET/CALPUFF",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "Moraes, M. R.; GOERGEN, G.; SCHAFER, A. G.. Participação em banca de Everton de Almeida Lucas.UTILIZAÇÃO DO MODELO NUMÉRICO WRF-ARW PARA MODELAGEM DA INFLUÊNCIA DE AEROGERADORES NA VELOCIDADE E DIREÇÃO DO VENTO NA ÁREA DO COMPLEXO EÓLICO CERRO CHATO. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente) - Universidade Federal do Pampa.",
+        "ano": 2014,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Everton de Almeida Lucas",
+        "membros_banca": [
+          "Moraes, M. R.",
+          "GOERGEN, G.",
+          "SCHAFER, A. G."
+        ],
+        "titulo_trabalho": "UTILIZAÇÃO DO MODELO NUMÉRICO WRF-ARW PARA MODELAGEM DA INFLUÊNCIA DE AEROGERADORES NA VELOCIDADE E DIREÇÃO DO VENTO NA ÁREA DO COMPLEXO EÓLICO CERRO CHATO",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "GOERGEN, G.; Moraes, M. R.; SHANKE, C. M.. Participação em banca de Priscila Silveira Ebert.Estudo Preliminar do Potencial Eólico para Microgeração nos Municípios de Bagé e Dom Pedrito (TCC-2). 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente) - Universidade Federal do Pampa.",
+        "ano": 2013,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Priscila Silveira Ebert",
+        "membros_banca": [
+          "GOERGEN, G.",
+          "Moraes, M. R.",
+          "SHANKE, C. M."
+        ],
+        "titulo_trabalho": "Estudo Preliminar do Potencial Eólico para Microgeração nos Municípios de Bagé e Dom Pedrito (TCC-2)",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "GOERGEN, G.; Moraes, M. R.; TRENTIN, G.. Participação em banca de Priscila Silveira Ebert.Estudo preliminar do potencial eólico para instalação de um aerogerador de pequeno porte nas dependências da Embrapa Pecuária Sul em Bagé-RS (TCC-1). 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente) - Universidade Federal do Pampa.",
+        "ano": 2012,
+        "tipo": "Trabalho de Conclusão de Curso de Graduação",
+        "aluno": "Priscila Silveira Ebert",
+        "membros_banca": [
+          "GOERGEN, G.",
+          "Moraes, M. R.",
+          "TRENTIN, G."
+        ],
+        "titulo_trabalho": "Estudo preliminar do potencial eólico para instalação de um aerogerador de pequeno porte nas dependências da Embrapa Pecuária Sul em Bagé-RS (TCC-1)",
+        "curso": "Trabalho de Conclusão de Curso (Graduação em Engenharia de Energias Renováveis e Ambiente)",
+        "universidade": "Universidade Federal do Pampa"
+      }
+    ],
+    "outras": [
+      {
+        "descricao": "BLASS, L.; BIHAIN, A. L. J.; GOERGEN, G.. Participação em banca de Milton Cãndido Ferreira dos Santos. GEOMETRIA EM MÃOS E MENTES: UMA OFICINA DE SÓLIDOS GEOMÉTRICOS COM MATERIAIS MANIPULÁVEIS E FORMAÇÃO REFLEXIVA DOCENTE NO ENSINO MÉDIO. 2025. Monografia (Aperfeiçoamento/Especialização em Especialização em Ensino de Matemática no EM: Matemática na Prática) - Universidade Federal do Pampa.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "Milton Cãndido Ferreira dos Santos",
+        "membros_banca": [
+          "BLASS, L.",
+          "BIHAIN, A. L. J.",
+          "GOERGEN, G."
+        ],
+        "titulo_trabalho": "GEOMETRIA EM MÃOS E MENTES: UMA OFICINA DE SÓLIDOS GEOMÉTRICOS COM MATERIAIS MANIPULÁVEIS E FORMAÇÃO REFLEXIVA DOCENTE NO ENSINO MÉDIO",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Ensino de Matemática no EM: Matemática na Prática)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "BIHAIN, A. L. J.; SILVA, E. J. G.; GOERGEN, G.. Participação em banca de Sabrina de Barros Lopes Imbroisi. EXPLORANDO A GEOMETRIA NAS PAISAGENS DA CIDADE DO RIO DE JANEIRO: UM PLANO DE AULA PARA O ENSINO MÉDIO COM O AUXÍLIO DO GEOGEBRA. 2025. Monografia (Aperfeiçoamento/Especialização em Especialização em Ensino de Matemática no EM: Matemática na Prática) - Universidade Federal do Pampa.",
+        "ano": 2025,
+        "tipo": "Participação em banca",
+        "aluno": "Sabrina de Barros Lopes Imbroisi",
+        "membros_banca": [
+          "BIHAIN, A. L. J.",
+          "SILVA, E. J. G.",
+          "GOERGEN, G."
+        ],
+        "titulo_trabalho": "EXPLORANDO A GEOMETRIA NAS PAISAGENS DA CIDADE DO RIO DE JANEIRO: UM PLANO DE AULA PARA O ENSINO MÉDIO COM O AUXÍLIO DO GEOGEBRA",
+        "curso": "Monografia (Aperfeiçoamento/Especialização em Especialização em Ensino de Matemática no EM: Matemática na Prática)",
+        "universidade": "Universidade Federal do Pampa"
+      },
+      {
+        "descricao": "GOERGEN, G.; OLIVEIRA, C. P.; ANGELO, C. L.. Processo Seletivo Simplificado para Professor Substituto. 2013. Universidade Federal do Pampa.",
+        "ano": 2013,
+        "tipo": "Participação em banca",
+        "aluno": "",
+        "membros_banca": [],
+        "titulo_trabalho": "",
+        "curso": "Universidade Federal do Pampa.",
+        "universidade": ""
+      }
+    ]
+  },
+  "estatisticas": {
+    "total_artigos_periodicos": 16,
+    "total_livros": 0,
+    "total_capitulos": 4,
+    "total_trabalhos_congressos": 2,
+    "total_projetos_pesquisa": 17,
+    "total_projetos_extensao": 8,
+    "total_projetos_desenvolvimento": 1,
+    "total_orientacoes_concluidas": 2,
+    "total_orientacoes_andamento": 0
+  }
+}

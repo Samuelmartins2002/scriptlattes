@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-10-20">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="url" type="string" />
+      <attribute id="1" title="publicacoesEmCoautoria" type="long" />
+      <attribute id="2" title="atualizacaoCV" type="string" />
+      <attribute id="3" title="resumo" type="string" />
+      <attribute id="4" title="rotulo" type="string" />
+      <attribute id="5" title="periodo" type="string" />
+      <attribute id="6" title="nomePrimeiraGrandeArea" type="string" />
+      <attribute id="7" title="nomePrimeiraArea" type="string" />
+      <attribute id="8" title="instituicao" type="string" />
+      <attribute id="9" title="enderecoProfissional" type="string" />
+      <attribute id="10" title="artigosPeriodicos" type="long" />
+      <attribute id="11" title="artigosEventos" type="long" />
+      <attribute id="12" title="capitulosDeLivros" type="long" />
+      <attribute id="13" title="livros" type="long" />
+      <attribute id="14" title="color" type="string" />
+      <attribute id="15" title="fontColor" type="string" />
+      <attribute id="16" title="degree" type="long" />
+      <attribute id="17" title="x" type="double" />
+      <attribute id="18" title="y" type="double" />
+      <attribute id="19" title="size" type="long" />
+    </attributes>
+    <nodes>
+      <node id="0" label="Anderson Luis Jeske Bihain">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/8636427420690720" />
+          <attvalue for="1" value="69" />
+          <attvalue for="2" value="19/10/2026" />
+          <attvalue for="3" value="É Licenciado em Matemática pela UNIJUÍ (2008), Mestre em Modelagem Matemática pela UNIJUÍ (2011) e Doutor em Modelagem Computacional pela UERJ (2014), com atuação em modelagem matemática e computacional de fenômenos de transporte, com ênfase em processos cromatográficos e Leito Móvel Simulado, além de modelagem aplicada à secagem e armazenamento de grãos. Atualmente é Professor Associado I da Universidade Federal do Pampa (UNIPAMPA), Campus Bagé, onde atua em ensino, pesquisa, extensão e gestão acadêmica, com experiência na Licenciatura em Matemática e em componentes da área das Engenharias. Na gestão acadêmica, foi Presidente do Núcleo Docente Estruturante (NDE) do Curso de Matemática Licenciatura no período de 2015 a 2017, e Coordenador do referido curso em dois períodos: de julho de 2017 a fevereiro de 2021 e a partir de janeiro de 2023; atualmente, atua como Supervisor de Extensão do curso. Atua na pós-graduação, incluindo a Especialização em Ensino de Matemática no Ensino Médio (Matemática na Prática EaD/UAB), o Programa de Pós-Graduação em Ensino (PPGE) e o Programa de Pós-Graduação em Computação Aplicada (PPGCAP). É líder do Grupo de Pesquisa em Modelagem e Análise de Dados (GPMAD) e membro do Grupo de Pesquisa sobre Aprendizagens, Metodologias e Avaliação (GAMA). Atua como avaliador ad hoc de cursos pelo INEP/MEC, revisor de periódicos e editor da revista Educação Matemática em Revista RS (EMR-RS). Seus interesses de pesquisa incluem modelagem matemática e computacional, ciência de dados e aprendizado de máquina, além de temas em Educação Matemática e Ensino Superior, com ênfase em metodologias ativas, resolução de problemas, avaliação e uso de tecnologias. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Matemática" />
+          <attvalue for="8" value="Universidade Federal do Pampa, Campus Bagé" />
+          <attvalue for="9" value="Universidade Federal do Pampa, Campus Bagé. Avenida Maria Anunciação Gomes de Godoy (Malafaia), 1650 Industrial I 96413172 - Bagé, RS - Brasil Telefone: (53) 32403600 Ramal: 3200 URL da Homepage: http://porteiras.unipampa.edu.br/bage/" />
+          <attvalue for="10" value="23" />
+          <attvalue for="11" value="22" />
+          <attvalue for="12" value="26" />
+          <attvalue for="13" value="2" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="3" />
+          <attvalue for="17" value="-0.04307605685627522" />
+          <attvalue for="18" value="0.014613044149010398" />
+          <attvalue for="19" value="4" />
+        </attvalues>
+      </node>
+      <node id="1" label="Everson Jonatha Gomes da Silva">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/8051531823282859" />
+          <attvalue for="1" value="29" />
+          <attvalue for="2" value="03/03/2026" />
+          <attvalue for="3" value="Doutor em Engenharia Mecânica pela Universidade Federal do Rio Grande do Sul (2016), Mestre em Engenharia Mecânica pela Universidade Federal do Rio Grande do Sul (2012) e Bacharel em Matemática Aplicada pela Universidade Federal do Rio Grande do Sul (2010). Docente da Universidade Federal do Pampa (UNIPAMPA/BAGÉ) no curso de Licenciatura em Matemática. Professor Formador no curso de especialização em Ensino de Matemática (UAB). Tesoureiro da Sociedade Brasileira de Educação Matemática, regional Rio Grande do Sul - SBEMRS. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Engenharias" />
+          <attvalue for="7" value="Engenharia Mecânica" />
+          <attvalue for="8" value="Universidade Federal do Pampa" />
+          <attvalue for="9" value="Universidade Federal do Pampa. Av. Maria Anunciação Gomes Godoy, 1650 Malafaia 96460000 - Bagé, RS - Brasil Telefone: (53) 32403600 Ramal: 9667 URL da Homepage: http://novoportal.unipampa.edu.br/novoportal/" />
+          <attvalue for="10" value="17" />
+          <attvalue for="11" value="12" />
+          <attvalue for="12" value="20" />
+          <attvalue for="13" value="1" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="3" />
+          <attvalue for="17" value="-0.037276298016481316" />
+          <attvalue for="18" value="0.019256487265610092" />
+          <attvalue for="19" value="4" />
+        </attvalues>
+      </node>
+      <node id="2" label="Guilherme Goergen">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/0281142461061985" />
+          <attvalue for="1" value="14" />
+          <attvalue for="2" value="08/10/2026" />
+          <attvalue for="3" value="Professor adjunto da Universidade Federal do Pampa, graduado em Matemática Bacharelado, mestre e doutor em Meteorologia pela Universidade Federal de Santa Maria. Tem interesse nas áreas de Matemática Aplicada, Micrometeorologia, Fundamentos de Probabilidade e Modelos Estatísticos. Trabalha com modelagem computacional dos processos físicos da dinâmica da atmosférica e temas relacionados a Equações Diferenciais, Modelos Dinâmicos, Problemas Inversos e Modelos de Interação Superfície-Atmosfera. Foi bolsista do Programa de Educação Tutorial e das agências de fomento CNPQ e CAPES. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Matemática" />
+          <attvalue for="8" value="Universidade Federal de Santa Maria, Centro de Ciências Naturais e Exatas" />
+          <attvalue for="9" value="Universidade Federal de Santa Maria, Centro de Ciências Naturais e Exatas. Av. Roraima nº 1000 Camobi 96413170 - Santa Maria, RS - Brasil Telefone: (55) 32208000" />
+          <attvalue for="10" value="16" />
+          <attvalue for="11" value="2" />
+          <attvalue for="12" value="4" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="3" />
+          <attvalue for="17" value="-0.05351555957205831" />
+          <attvalue for="18" value="0.017078441650849485" />
+          <attvalue for="19" value="4" />
+        </attvalues>
+      </node>
+      <node id="3" label="Leandro Blass">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/7385942137403019" />
+          <attvalue for="1" value="70" />
+          <attvalue for="2" value="16/10/2026" />
+          <attvalue for="3" value="Professor Associado da Universidade Federal do Pampa (UNIPAMPA), atuando na Licenciatura em Matemática, como docente do Mestrado Acadêmico em Ensino, e como coordenador da Especialização Ensino de Matemática no Ensino Médio Matemática na Prática (UAB/UNIPAMPA, 2024). É licenciado em Matemática pela UNIJUÍ (2008), mestre em Modelagem Matemática pela UNIJUÍ (2011) e doutor em Modelagem Computacional pela UERJ (2015), articulando rigor quantitativo com pesquisa aplicada e inovação educacional. Sua trajetória integra duas frentes complementares de pesquisa: (i) modelagem e simulação de fenômenos de transporte e transferência de calor, com aplicação de métodos numéricos como Diferenças Finitas e Volumes Finitos para solução de equações diferenciais; e (ii) conduz pesquisa empírica e baseada em evidências sobre intervenções em disciplinas de alta complexidade, combinando metodologias ativas, resolução de problemas, mapas mentais, tecnologias educacionais e rubricas com feedback formativo para identificar o que funciona, por que funciona e em quais condições, com foco em aprendizagem, autorregulação e engajamento, gerando recomendações transferíveis para o ensino superior. Exerce liderança acadêmica como líder dos grupos G.A.M.A Grupo de Pesquisa sobre Aprendizagens, Metodologias e Avaliação (UNIPAMPA) e Modelagem e Análise de Dados, e participa de redes interinstitucionais que ampliam a transferência e a escala das pesquisas, incluindo o GEPEFORTE (UFFS), o grupo de Modelagem aplicada e otimização de processos e sistemas dinâmicos (desde 2014) e o Laboratório de Inovação e Pesquisa em Educação Matemática (UFOB). Também atua como avaliador ad hoc de periódicos científicos, contribuindo para o rigor da área, e tem trajetória reconhecida por premiações acadêmicas em eventos nacionais e internacionais. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Matemática" />
+          <attvalue for="8" value="Universidade Federal do Pampa" />
+          <attvalue for="9" value="Universidade Federal do Pampa. Travessa Quarenta e Cinco (Malafaia) Industrial I 96413170 - Bagé, RS - Brasil Telefone: (53) 32429931 Ramal: 53 Fax: (53) 32405461 URL da Homepage: http://porteiras.unipampa.edu.br/bage/" />
+          <attvalue for="10" value="54" />
+          <attvalue for="11" value="29" />
+          <attvalue for="12" value="35" />
+          <attvalue for="13" value="6" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="3" />
+          <attvalue for="17" value="-0.044540462214714784" />
+          <attvalue for="18" value="0.020277352213399925" />
+          <attvalue for="19" value="4" />
+        </attvalues>
+      </node>
+      <node id="4" label="Alex Sander Pires Domingues">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/3943375538674953" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="05/05/2026" />
+          <attvalue for="3" value="Meu nome e Alex sander, sou estudante de Engenharia de Computação pela Universidade Federal do Pampa - UNIPAMPA (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Ciência da Computação" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.5185185456945486" />
+          <attvalue for="18" value="0.5391252771073407" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="5" label="José Wilson Machado Junior">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/0133303266240768" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="13/10/2026" />
+          <attvalue for="3" value="Estou cursando graduação em Matemática - Licenciatura pela Universidade Federal do Pampa campus Bagé-RS desde 2023. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Matemática" />
+          <attvalue for="8" value="Universidade Federal do Pampa" />
+          <attvalue for="9" value="Universidade Federal do Pampa. Avenida Maria Anunciação Gomes de Godoy (Malafaia) Industrial I 96413172 - Bagé, RS - Brasil Telefone: (53) 33114158" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.6154322093238884" />
+          <attvalue for="18" value="0.5408172887619479" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="6" label="Raphaela Fagundes Dutra">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/2830225920546651" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="10/11/2023" />
+          <attvalue for="3" value="FORMADA NO CURSO NORMAL - MAGISTÉRIO, NA ESCOLA ESTADUAL DE ENSINO BÁSICO PROFESSOR JUSTINO COSTA QUINTANA, NA CIDADE DE BAGÉ/RS.FORMADA NO CURSO DE PEDAGOGIA EM LICENCIATURA, NA UNIVERSIDADE ANHANGUERA UNIDERP - BAGÉ/RS.FORMADA NO CURSO DE MATEMÁTICA EM LICENCIATURA, NA UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA, CAMPUS BAGÉ/RS.PARTICIPEI DO PROJETO DE ENSINO - ATIVIDADES DE GEOMETRIA ANALÍTICA COM GEOGEBRA, CAMPUS BAGÉ.PARTICIPEI DO PROJETO DE ENSINO - AS INTENCIONALIDADES E OS FOREGROUNDS DE ESTUDANTES DE BAGÉ SOB A PERSPECTIVA DA EDUCAÇÃO MATEMÁTICA CRÍTICA, CAMPUS BAGÉ.PARTICIPEI DO PROGRAMA INSTITUCIONAL DE BOLSAS DE INICIAÇÃO À DOCENCIA, CAMPUS BAGÉ.PARTICIPEI DO PROGRAMA RESIDÊNCIA PEDAGÓGICA, CAMPUS BAGÉ.AUTORA DA PESQUISA EM ENSINO &quot;UMA EXPERIÊNCIA PRÁTICA DE EDUCAÇÃO FINANCEIRA EM AULAS DA GRADUAÇÃO&quot; - NO 14 SALÃO INTERNACIONAL DE ENSINO, PESQUISA E EXTENSÃO (SIEPE).ATUEI COMO 1 SECRETÁRIA NO DIRETÓRIO ACADÊMICO DE MATEMÁTICA EM LICENCIATURA, NA UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA, CAMPUS BAGÉ/RS EM 2021 - 2022ATUEI COMO 2 SECRETÁRIA NO DIRETÓRIO ACADÊMICO DE MATEMÁTICA EM LICENCIATURA, NA UNIVERSIDADE FEDERAL DO PAMPA - UNIPAMPA, CAMPUS BAGÉ/RS - 2023 (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Matemática" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="0.5903218834385237" />
+          <attvalue for="18" value="-0.45116789114815864" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+      <node id="7" label="Samuel Da Silva Martins">
+        <viz:color r="51" g="160" b="44" a="1.0" />
+        <attvalues>
+          <attvalue for="0" value="http://lattes.cnpq.br/7048564732266916" />
+          <attvalue for="1" value="0" />
+          <attvalue for="2" value="05/07/2026" />
+          <attvalue for="3" value="Experiência em coleta, organização e validação de dados demográficos e socioeconômicos, com atuação em rotinas de gestão administrativa e atendimento ao cliente. Possui habilidades em comunicação eficaz, organização e priorização de tarefas. Experiência em desenvolvimento web utilizando HTML, CSS e JavaScript, além de familiaridade com serviços de computação em nuvem da Amazon AWS para otimização de processos e infraestrutura. Formação técnica em Informática e graduação em andamento em Engenharia de Computação. Capacidade de resolução de problemas técnicos, prestação de suporte eficiente e atuação remota em equipes colaborativas. (Texto informado pelo autor)" />
+          <attvalue for="4" value="* Sem rótulo" />
+          <attvalue for="5" value="" />
+          <attvalue for="6" value="Ciências Exatas e da Terra" />
+          <attvalue for="7" value="Ciência da Computação" />
+          <attvalue for="8" value="" />
+          <attvalue for="9" value="" />
+          <attvalue for="10" value="0" />
+          <attvalue for="11" value="0" />
+          <attvalue for="12" value="0" />
+          <attvalue for="13" value="0" />
+          <attvalue for="14" value="#33a02c" />
+          <attvalue for="15" value="#ffffff" />
+          <attvalue for="16" value="0" />
+          <attvalue for="17" value="-0.3149998431496543" />
+          <attvalue for="18" value="-0.7" />
+          <attvalue for="19" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="0" target="1" id="0" weight="28.0" />
+      <edge source="0" target="2" id="1" weight="9.0" />
+      <edge source="0" target="3" id="2" weight="64.0" />
+      <edge source="1" target="2" id="3" weight="4.0" />
+      <edge source="1" target="3" id="4" weight="27.0" />
+      <edge source="2" target="3" id="5" weight="12.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,171 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf8"><meta name="Generator" content="scriptLattes"><title>Grupo de pesquisa em Modelagem e Análise de Dados</title><link rel="stylesheet" href="css/scriptLattes.css" type="text/css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"></head><body><div id="header2"> <button onClick="history.go(-1)">Voltar</button><h2>Grupo de pesquisa em Modelagem e Análise de Dados</h2></div>
+    <link href="css/tabulator_site.min.css" rel="stylesheet" />
+    <link href="css/tabulator-scriplattes.css" rel="stylesheet" />
+    <script src="js/tabulator.min.js"></script>
+    <script src="js/xlsx.full.min.js"></script>
+    
+    <style>
+    /* Ellipsis nas três tabelas */
+    #tabela-producao .tabulator-cell,
+    #tabela-orientacoes .tabulator-cell,
+    #tabela-projetos .tabulator-cell {
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+    }
+    </style>
+    
+    <h3>Métricas: Produções bibliográficas, técnicas e artísticas</h3>
+    <div class="sl-controls">
+      <button id="prod-csv">⬇️ CSV</button>
+      <button id="prod-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-producao" class="sl-tabela"></div>
+    
+    <h3>Métricas: Orientações concluídas e em andamento</h3>
+    <div class="sl-controls">
+      <button id="ori-csv">⬇️ CSV</button>
+      <button id="ori-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-orientacoes" class="sl-tabela"></div>
+    
+    <h3>Métricas: Projetos, prêmios e eventos</h3>
+    <div class="sl-controls">
+      <button id="proj-csv">⬇️ CSV</button>
+      <button id="proj-xlsx">⬇️ XLSX</button>
+    </div>
+    <div id="tabela-projetos" class="sl-tabela"></div>
+    <script>
+const DATA = {"producao": [{"nome": "Anderson Luis Jeske Bihain", "url": "membro-8636427420690720.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "19/10/2026", "atualizacao_num": 20261019, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "pb_total": 120, "periodicos": 23, "livros": 2, "capitulos": 26, "congressos": 22, "resumos": 47, "aceitos": 0, "tec_total": 17, "art_total": 0}, {"nome": "Everson Jonatha Gomes da Silva", "url": "membro-8051531823282859.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "03/03/2026", "atualizacao_num": 20260303, "grande_area": "Engenharias", "area": "Engenharia Mecânica", "pb_total": 55, "periodicos": 17, "livros": 1, "capitulos": 20, "congressos": 12, "resumos": 5, "aceitos": 0, "tec_total": 0, "art_total": 0}, {"nome": "Guilherme Goergen", "url": "membro-0281142461061985.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "08/10/2026", "atualizacao_num": 20261008, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "pb_total": 40, "periodicos": 16, "livros": 0, "capitulos": 4, "congressos": 2, "resumos": 16, "aceitos": 2, "tec_total": 5, "art_total": 0}, {"nome": "Leandro Blass", "url": "membro-7385942137403019.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "16/10/2026", "atualizacao_num": 20261016, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "pb_total": 248, "periodicos": 54, "livros": 6, "capitulos": 35, "congressos": 29, "resumos": 124, "aceitos": 0, "tec_total": 46, "art_total": 1}, {"nome": "Alex Sander Pires Domingues", "url": "membro-3943375538674953.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "05/05/2026", "atualizacao_num": 20260505, "grande_area": "Ciências Exatas e da Terra", "area": "Ciência da Computação", "pb_total": 0, "periodicos": 0, "livros": 0, "capitulos": 0, "congressos": 0, "resumos": 0, "aceitos": 0, "tec_total": 0, "art_total": 0}, {"nome": "José Wilson Machado Junior", "url": "membro-0133303266240768.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "13/10/2026", "atualizacao_num": 20261013, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "pb_total": 0, "periodicos": 0, "livros": 0, "capitulos": 0, "congressos": 0, "resumos": 0, "aceitos": 0, "tec_total": 0, "art_total": 0}, {"nome": "Raphaela Fagundes Dutra", "url": "membro-2830225920546651.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "10/11/2023", "atualizacao_num": 20231110, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "pb_total": 0, "periodicos": 0, "livros": 0, "capitulos": 0, "congressos": 0, "resumos": 0, "aceitos": 0, "tec_total": 0, "art_total": 0}, {"nome": "Samuel Da Silva Martins", "url": "membro-7048564732266916.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "05/07/2026", "atualizacao_num": 20260705, "grande_area": "Ciências Exatas e da Terra", "area": "Ciência da Computação", "pb_total": 0, "periodicos": 0, "livros": 0, "capitulos": 0, "congressos": 0, "resumos": 0, "aceitos": 0, "tec_total": 0, "art_total": 0}], "orientacoes": [{"nome": "Anderson Luis Jeske Bihain", "url": "membro-8636427420690720.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "19/10/2026", "atualizacao_num": 20261019, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "concl_total": 42, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 0, "concl_espec": 20, "concl_tcc": 9, "concl_ic": 13, "and_total": 3, "and_posdoc": 0, "and_dout": 0, "and_mest": 3, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Everson Jonatha Gomes da Silva", "url": "membro-8051531823282859.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "03/03/2026", "atualizacao_num": 20260303, "grande_area": "Engenharias", "area": "Engenharia Mecânica", "concl_total": 8, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 0, "concl_espec": 5, "concl_tcc": 3, "concl_ic": 0, "and_total": 0, "and_posdoc": 0, "and_dout": 0, "and_mest": 0, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Guilherme Goergen", "url": "membro-0281142461061985.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "08/10/2026", "atualizacao_num": 20261008, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "concl_total": 6, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 0, "concl_espec": 0, "concl_tcc": 4, "concl_ic": 2, "and_total": 0, "and_posdoc": 0, "and_dout": 0, "and_mest": 0, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Leandro Blass", "url": "membro-7385942137403019.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "16/10/2026", "atualizacao_num": 20261016, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "concl_total": 39, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 4, "concl_espec": 17, "concl_tcc": 4, "concl_ic": 14, "and_total": 8, "and_posdoc": 0, "and_dout": 3, "and_mest": 5, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Alex Sander Pires Domingues", "url": "membro-3943375538674953.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "05/05/2026", "atualizacao_num": 20260505, "grande_area": "Ciências Exatas e da Terra", "area": "Ciência da Computação", "concl_total": 0, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 0, "concl_espec": 0, "concl_tcc": 0, "concl_ic": 0, "and_total": 0, "and_posdoc": 0, "and_dout": 0, "and_mest": 0, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "José Wilson Machado Junior", "url": "membro-0133303266240768.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "13/10/2026", "atualizacao_num": 20261013, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "concl_total": 0, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 0, "concl_espec": 0, "concl_tcc": 0, "concl_ic": 0, "and_total": 0, "and_posdoc": 0, "and_dout": 0, "and_mest": 0, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Raphaela Fagundes Dutra", "url": "membro-2830225920546651.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "10/11/2023", "atualizacao_num": 20231110, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "concl_total": 0, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 0, "concl_espec": 0, "concl_tcc": 0, "concl_ic": 0, "and_total": 0, "and_posdoc": 0, "and_dout": 0, "and_mest": 0, "and_espec": 0, "and_tcc": 0, "and_ic": 0}, {"nome": "Samuel Da Silva Martins", "url": "membro-7048564732266916.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "05/07/2026", "atualizacao_num": 20260705, "grande_area": "Ciências Exatas e da Terra", "area": "Ciência da Computação", "concl_total": 0, "concl_posdoc": 0, "concl_dout": 0, "concl_mest": 0, "concl_espec": 0, "concl_tcc": 0, "concl_ic": 0, "and_total": 0, "and_posdoc": 0, "and_dout": 0, "and_mest": 0, "and_espec": 0, "and_tcc": 0, "and_ic": 0}], "projetos": [{"nome": "Anderson Luis Jeske Bihain", "url": "membro-8636427420690720.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "19/10/2026", "atualizacao_num": 20261019, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "projetos": 19, "premios": 1, "part_event": 13, "org_event": 6}, {"nome": "Everson Jonatha Gomes da Silva", "url": "membro-8051531823282859.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "03/03/2026", "atualizacao_num": 20260303, "grande_area": "Engenharias", "area": "Engenharia Mecânica", "projetos": 6, "premios": 0, "part_event": 12, "org_event": 5}, {"nome": "Guilherme Goergen", "url": "membro-0281142461061985.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "08/10/2026", "atualizacao_num": 20261008, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "projetos": 17, "premios": 1, "part_event": 49, "org_event": 10}, {"nome": "Leandro Blass", "url": "membro-7385942137403019.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "16/10/2026", "atualizacao_num": 20261016, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "projetos": 9, "premios": 1, "part_event": 26, "org_event": 4}, {"nome": "Alex Sander Pires Domingues", "url": "membro-3943375538674953.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "05/05/2026", "atualizacao_num": 20260505, "grande_area": "Ciências Exatas e da Terra", "area": "Ciência da Computação", "projetos": 0, "premios": 0, "part_event": 0, "org_event": 0}, {"nome": "José Wilson Machado Junior", "url": "membro-0133303266240768.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "13/10/2026", "atualizacao_num": 20261013, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "projetos": 0, "premios": 0, "part_event": 0, "org_event": 0}, {"nome": "Raphaela Fagundes Dutra", "url": "membro-2830225920546651.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "10/11/2023", "atualizacao_num": 20231110, "grande_area": "Ciências Exatas e da Terra", "area": "Matemática", "projetos": 0, "premios": 0, "part_event": 12, "org_event": 0}, {"nome": "Samuel Da Silva Martins", "url": "membro-7048564732266916.html", "rotulo": "* Sem rótulo", "bolsa": "", "periodo": "", "atualizacao": "05/07/2026", "atualizacao_num": 20260705, "grande_area": "Ciências Exatas e da Terra", "area": "Ciência da Computação", "projetos": 1, "premios": 0, "part_event": 0, "org_event": 0}]};
+const TABLE_HEIGHT = "auto";
+const LANG_PT = {
+  "pt-br": {
+    "pagination": {
+      "first":"«","first_title":"Primeira",
+      "last":"»","last_title":"Última",
+      "prev":"‹","prev_title":"Anterior",
+      "next":"›","next_title":"Próxima"
+    },
+    "headerFilters": { "default":"⎯ Filtrar ⎯" }
+  }
+};
+
+// Ordenação por data BR via campo auxiliar yyyymmdd
+function sortDateBR(a, b, aRow, bRow, column, dir, sorterParams) {
+  const av = aRow?.getData()?.atualizacao_num ?? 0;
+  const bv = bRow?.getData()?.atualizacao_num ?? 0;
+  return av - bv;
+}
+
+// Link com title (tooltip no <a>)
+function linkWithTitle(cell) {
+  const data = cell.getData();
+  const url = data && data.url ? String(data.url) : '#';
+  const label = String(cell.getValue() ?? '');
+  const a = document.createElement('a');
+  a.href = url; a.textContent = label; a.target = '_blank'; a.rel = 'noopener'; a.title = label;
+  return a;
+}
+
+function createTable(el, data, columns, initialSort) {
+  const base = {
+    data,
+    layout: 'fitColumns',
+    responsiveLayout: 'collapse',
+    pagination: 'local',
+    paginationSize: 50,
+    paginationSizeSelector: [10, 25, 50, 100, 200, 500],
+    movableColumns: true,
+    initialSort,
+    headerFilterLiveFilter: true,
+    columns,
+    locale: true, langs: LANG_PT, locale: 'pt-br',
+    tooltips: true
+  };
+  if (TABLE_HEIGHT !== 'auto') base.height = TABLE_HEIGHT;
+  return new Tabulator(el, base);
+}
+
+function mkTabelaProducao() {
+  const columns = [
+    { title:'Nome', field:'nome', formatter: linkWithTitle, headerFilter:'input', widthGrow:3, tooltip:true },
+    { title:'Rótulo', field:'rotulo', headerFilter:'input', tooltip:true },
+    { title:'Bolsa CNPq', field:'bolsa', headerFilter:'input', tooltip:true },
+    { title:'Período', field:'periodo', headerFilter:'input', tooltip:true },
+    { title:'Atualização CV', field:'atualizacao', headerFilter:'input', sorter: sortDateBR, tooltip:true },
+    { title:'Grande área', field:'grande_area', headerFilter:'input', tooltip:true },
+    { title:'Área', field:'area', headerFilter:'input', tooltip:true },
+    { title:'PB (total)', field:'pb_total', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Periódicos', field:'periodicos', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Livros', field:'livros', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Capítulos', field:'capitulos', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Congressos', field:'congressos', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Resumos', field:'resumos', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Aceitos', field:'aceitos', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Técnica (total)', field:'tec_total', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Artística (total)', field:'art_total', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true }
+  ];
+  const t = createTable('#tabela-producao', DATA.producao, columns, [{ column: 'pb_total', dir: 'desc' }]);
+  document.getElementById('prod-csv').onclick  = () => t.download('csv',  'metricas_producao.csv', { bom:true });
+  document.getElementById('prod-xlsx').onclick = () => t.download('xlsx', 'metricas_producao.xlsx', { sheetName:'Produção' });
+  return t;
+}
+
+function mkTabelaOrientacoes() {
+  const columns = [
+    { title:'Nome', field:'nome', formatter: linkWithTitle, headerFilter:'input', widthGrow:3, tooltip:true },
+    { title:'Rótulo', field:'rotulo', headerFilter:'input', tooltip:true },
+    { title:'Bolsa CNPq', field:'bolsa', headerFilter:'input', tooltip:true },
+    { title:'Período', field:'periodo', headerFilter:'input', tooltip:true },
+    { title:'Atualização CV', field:'atualizacao', headerFilter:'input', sorter: sortDateBR, tooltip:true },
+    { title:'Grande área', field:'grande_area', headerFilter:'input', tooltip:true },
+    { title:'Área', field:'area', headerFilter:'input', tooltip:true },
+    { title:'Concluídas (total)', field:'concl_total', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Pós-doc', field:'concl_posdoc', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Doutorado', field:'concl_dout', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Mestrado', field:'concl_mest', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Especialização', field:'concl_espec', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'TCC', field:'concl_tcc', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'IC', field:'concl_ic', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Em andamento (total)', field:'and_total', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Pós-doc', field:'and_posdoc', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Doutorado', field:'and_dout', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Mestrado', field:'and_mest', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Especialização', field:'and_espec', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'TCC', field:'and_tcc', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'IC', field:'and_ic', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true }
+  ];
+  const t = createTable('#tabela-orientacoes', DATA.orientacoes, columns, [{ column: 'concl_total', dir: 'desc' }]);
+  document.getElementById('ori-csv').onclick  = () => t.download('csv',  'metricas_orientacoes.csv', { bom:true });
+  document.getElementById('ori-xlsx').onclick = () => t.download('xlsx', 'metricas_orientacoes.xlsx', { sheetName:'Orientações' });
+  return t;
+}
+
+function mkTabelaProjetos() {
+  const columns = [
+    { title:'Nome', field:'nome', formatter: linkWithTitle, headerFilter:'input', widthGrow:3, tooltip:true },
+    { title:'Rótulo', field:'rotulo', headerFilter:'input', tooltip:true },
+    { title:'Bolsa CNPq', field:'bolsa', headerFilter:'input', tooltip:true },
+    { title:'Período', field:'periodo', headerFilter:'input', tooltip:true },
+    { title:'Atualização CV', field:'atualizacao', headerFilter:'input', sorter: sortDateBR, tooltip:true },
+    { title:'Grande área', field:'grande_area', headerFilter:'input', tooltip:true },
+    { title:'Área', field:'area', headerFilter:'input', tooltip:true },
+    { title:'Projetos', field:'projetos', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Prêmios', field:'premios', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Participação em eventos', field:'part_event', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true },
+    { title:'Organização de eventos', field:'org_event', hozAlign:'right', headerFilter:'input', sorter:'number', tooltip:true }
+  ];
+  const t = createTable('#tabela-projetos', DATA.projetos, columns, [{ column: 'projetos', dir: 'desc' }]);
+  document.getElementById('proj-csv').onclick  = () => t.download('csv',  'metricas_projetos.csv', { bom:true });
+  document.getElementById('proj-xlsx').onclick = () => t.download('xlsx', 'metricas_projetos.xlsx', { sheetName:'Projetos' });
+  return t;
+}
+
+document.addEventListener('DOMContentLoaded', function(){
+  mkTabelaProducao();
+  mkTabelaOrientacoes();
+  mkTabelaProjetos();
+});
+</script>
+<br><p><br>(*) Relatório criado com produções desde 1990 até hoje
+<br>Data de processamento: 20/10/2026 10:39:15<br>         <div id="footer">         Relatório gerado por <a href="http://scriptlattes.sourceforge.net/">scriptLattes V.2025.09</a>.         Os resultados podem ser afetados por possíveis falhas decorrentes de inconsistências no preenchimento dos Currículos Lattes. E-mail de contato: <a href="mailto:"></a>         </div> </body></html>
